@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>name</key>
-	<string>Comments</string>
+	<string>Miscellaneous</string>
 	<key>scope</key>
-	<string>source.css</string>
+	<string>text.restructuredtext</string>
 	<key>settings</key>
 	<dict>
 		<key>shellVariables</key>
@@ -14,23 +14,11 @@
 				<key>name</key>
 				<string>TM_COMMENT_START</string>
 				<key>value</key>
-				<string>/*</string>
-			</dict>
-			<dict>
-				<key>name</key>
-				<string>TM_COMMENT_END</string>
-				<key>value</key>
-				<string>*/</string>
-			</dict>
-			<dict>
-				<key>name</key>
-				<string>TM_COMMENT_DISABLE_INDENT</string>
-				<key>value</key>
-				<string>yes</string>
+				<string>.. </string>
 			</dict>
 		</array>
 	</dict>
 	<key>uuid</key>
-	<string>375CF370-8A7B-450A-895C-FD18B47957E2</string>
+	<string>1200212D-C322-42FE-8349-DCDA065B97A4</string>
 </dict>
 </plist>
