@@ -1,0 +1,33 @@
+Links:
+	http://howtonode.org/introduction-to-npm
+	http://blog.nodejitsu.com/npm-cheatsheet
+	http://package.json.nodejitsu.com/
+	https://github.com/viatropos/tower/wiki/package-json
+
+
+
+Variables:
+	[root]: the root folder that contain the package.json
+
+
+
+
+Install dependencies:
+	open cmd
+	cd into your [root]
+	write: npm install
+		// this will install all the dependencies based on your package.json file
+
+
+
+Create a user:
+	open cmd
+	npm user
+
+
+
+Publish a package:
+	open cmd
+	cd into your [root]
+	write: npm publish
+	

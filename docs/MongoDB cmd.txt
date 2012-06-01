@@ -1,0 +1,2 @@
+INSTALL:
+third_party/MongoDB

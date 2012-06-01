@@ -1,0 +1,41 @@
+Links:
+	http://vowsjs.org/
+
+
+
+Variables:
+
+
+
+
+Installation:
+	// install binary in global environment
+	open cmd
+	npm install -g vows
+
+	// install locally to your project to be used in tests
+	open your package.json
+	add: "vows": "0.6.x"
+	in "devDependencies"
+
+	open cmd
+	cd into your [root] folder
+	write: npm install
+
+
+
+Update:
+	open cmd
+	cd into your [root] folder
+	write: npm update
+
+
+
+Test files:
+	// create
+	all they must be into a folder "test" in your [root] folder
+	they have to end in ".test.js"
+	
+	// run
+	cd into your [root]
+	write: vows --spec
