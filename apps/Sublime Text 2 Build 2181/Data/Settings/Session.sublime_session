@@ -142,6 +142,14 @@
 			},
 			"buffers":
 			[
+				{
+					"file": "/D/Totty/web/production01_server/package.json",
+					"settings":
+					{
+						"buffer_size": 443,
+						"line_ending": "Windows"
+					}
+				}
 			],
 			"build_system": "",
 			"command_palette":
@@ -207,8 +215,37 @@
 			"groups":
 			[
 				{
+					"selected": 0,
 					"sheets":
 					[
+						{
+							"buffer": 0,
+							"file": "/D/Totty/web/production01_server/package.json",
+							"settings":
+							{
+								"buffer_size": 443,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										308,
+										309
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JSON.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
 					]
 				}
 			],
@@ -243,7 +280,7 @@
 				]
 			},
 			"menu_visible": true,
-			"position": "0,0,1,-1,-1,-1,-1,1121,164,421,1030",
+			"position": "0,0,1,-32145,-32000,-1,-1,1121,164,421,1030",
 			"replace":
 			{
 				"height": 0.0
