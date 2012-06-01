@@ -1,2 +1,20 @@
+<<<<<<< HEAD
 third_party_libs
 projects
+=======
+lib-cov
+*.seed
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+
+pids
+logs
+results
+
+node_modules
+npm-debug.log
+>>>>>>> ca38474939ffd23a10e2edf2dbc44c4dbf998e6a
