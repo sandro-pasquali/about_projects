@@ -1,0 +1,4 @@
+http://howtonode.org/introduction-to-npm
+http://blog.nodejitsu.com/npm-cheatsheet
+http://package.json.nodejitsu.com/
+https://github.com/viatropos/tower/wiki/package-json
