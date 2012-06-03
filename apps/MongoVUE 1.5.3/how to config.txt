@@ -1,0 +1,2 @@
+your mongo must have the --port attribute set to a number: [port]=9999
+host: localhost:9999
