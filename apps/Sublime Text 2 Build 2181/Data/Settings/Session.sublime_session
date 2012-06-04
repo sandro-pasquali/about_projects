@@ -140,26 +140,14 @@
 			{
 				"selected_items":
 				[
+					[
+						"data",
+						"dateJobStart"
+					]
 				]
 			},
 			"buffers":
 			[
-				{
-					"file": "/D/Totty/web/production01_server/node_modules/production/index.js",
-					"settings":
-					{
-						"buffer_size": 8312,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/C/Users/Totty/AppData/Local/Temp/Rar$DR16.880/production/config.json",
-					"settings":
-					{
-						"buffer_size": 1917,
-						"line_ending": "Windows"
-					}
-				}
 			],
 			"build_system": "",
 			"command_palette":
@@ -185,8 +173,18 @@
 			},
 			"file_history":
 			[
-				"/D/Totty/web/production01_server/node_modules/production/client/production/generate.py",
+				"/D/Totty/web/production01_server/node_modules/production/client/production/source/production_done2/views/TodoView.js",
+				"/D/Totty/web/production01_server/node_modules/production/client/production/source/class/production/models/WorkerModel.js",
+				"/D/Totty/web/production01_server/node_modules/production/client/production/source/class/production/Application.js",
+				"/D/Totty/web/production01_server/node_modules/production/client/production/source/class/production_done/views/IndexView.js",
+				"/D/Totty/web/production01_server/node_modules/production/services/getWorkers.js",
+				"/D/Totty/web/production01_server/node_modules/production/index.js",
+				"/D/Totty/web/production01_server/node_modules/production/client/production/source/class/production_done/views/TodoView.js",
 				"/D/Totty/web/production01_server/node_modules/production/client/production/config.json",
+				"/D/Totty/web/production01_server/node_modules/production/client/production/source/index.html",
+				"/C/Users/Totty/AppData/Local/Temp/Rar$DR16.880/production/config.json",
+				"/D/Totty/web/production01_server/node_modules/production/client/production/source/class/production/views/IndexView.js",
+				"/D/Totty/web/production01_server/node_modules/production/client/production/generate.py",
 				"/D/Totty/web/production01_server/node_modules/production/package.json",
 				"/D/Totty/web/production01_server/node_modules/production/test/services.insertWorker.test.js",
 				"/D/Totty/web/production01_server/node_modules/production/node_modules/vows/lib/vows/reporters/json.js",
@@ -199,11 +197,9 @@
 				"/D/Totty/web/production01_server/node_modules/production/models/index.js",
 				"/D/Totty/web/production01_server/node_modules/production/services/insertWorker.js",
 				"/D/Totty/web/production01_server/package.json",
-				"/D/Totty/web/production01_server/node_modules/production/services/getWorkers.js",
 				"/D/Totty/web/production01_server/node_modules/production/models/Worker.js",
 				"/D/Totty/web/production01_server/node_modules/production/models/Product.js",
 				"/D/Totty/web/production01_server/node_modules/production/models/Job.js",
-				"/D/Totty/web/production01_server/node_modules/production/index.js",
 				"/D/Totty/web/production01_server/node_modules/production/models/connect.js",
 				"/D/Totty/web/production01_server/test/services.getWorkers.test.js",
 				"/D/Totty/web/production01_server/index.js",
@@ -223,13 +219,14 @@
 			],
 			"find":
 			{
-				"height": 0.0
+				"height": 34.0
 			},
 			"find_in_files":
 			{
 				"height": 0.0,
 				"where_history":
 				[
+					""
 				]
 			},
 			"find_state":
@@ -237,6 +234,7 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"  "
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -244,6 +242,7 @@
 				"regex": false,
 				"replace_history":
 				[
+					"	"
 				],
 				"reverse": false,
 				"show_context": true,
@@ -260,64 +259,8 @@
 			"groups":
 			[
 				{
-					"selected": 1,
 					"sheets":
 					[
-						{
-							"buffer": 0,
-							"file": "/D/Totty/web/production01_server/node_modules/production/index.js",
-							"settings":
-							{
-								"buffer_size": 8312,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										389,
-										389
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/C/Users/Totty/AppData/Local/Temp/Rar$DR16.880/production/config.json",
-							"settings":
-							{
-								"buffer_size": 1917,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										1507,
-										1515
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/JavaScript/JSON.tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						}
 					]
 				}
 			],
@@ -352,7 +295,7 @@
 				]
 			},
 			"menu_visible": true,
-			"position": "0,2,3,-32145,-32000,-1,-1,969,499,269,1365",
+			"position": "0,2,3,-153,-1,-1,-1,1104,821,404,1687",
 			"replace":
 			{
 				"height": 0.0
@@ -378,7 +321,7 @@
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 264.0,
+			"side_bar_width": 282.0,
 			"status_bar_visible": true,
 			"window_id": 2,
 			"workspace_name": ""
