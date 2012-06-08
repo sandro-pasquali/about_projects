@@ -1,0 +1,134 @@
+--------------------------------
+--------------------------------
+How to drag and drop in a table:
+--------------------------------
+
+In this example there are 2 tables: fromTable and toTable;
+You drag a row from the fromTable and you will release the row in the toTable. The row in the fromTable will disappear (qx.ui.table.model.Remote don't allow adding and removing rows. You can use a qx.ui.table.model.Simple if you want to be able to remove a dragged and dropped row) and will appear in the toTable (this must use a qx.ui.table.model.Simple table).
+
+tutorials: http://demo.qooxdoo.org/1.6/demobrowser/#table~Table_Drag_And_Drop.html
+
+
+----------------------
+----------------------
+Setting the fromTable:
+----------------------
+
+
+// production.models.WorkerModel it's an implementation of the abstract class qx.ui.table.model.Remote;
+
+var model = new production.models.WorkerModel();
+var table = new qx.ui.table.Table();
+
+
+// must be done in this order or you might get an empty table;
+
+model.setColumns(['id', 'name', 'state', 'enabled', 'current job ID'], ['_id', 'name', 'state', 'enabled', 'currentJobId']);
+table.setTableModel(model);
+
+table.setDraggable(true);
+
+
+// cell render as boolean;
+
+var enabledCellRender = new qx.ui.table.cellrenderer.Boolean();
+table.getTableColumnModel().setDataCellRenderer(3, enabledCellRender);
+
+
+// set it as draggable
+table.setDraggable(true);
+
+
+// add it on screen
+
+root.add(table, {width: "100%", top: 20, bottom: 0});
+
+
+// add listeners
+
+table.addListener("dragstart", this._handleDragStart, this);
+table.addListener("droprequest", this._handleDropRequest, this);
+
+
+// implement _handleDragStart: 
+
+_handleDragStart: function(e) {
+	e.addAction("move");
+	e.addType("workerInput");
+},
+
+
+// implement _handleDropRequest:
+
+_handleDropRequest: function(e){
+	var type = e.getCurrentType();
+	var table = e.getCurrentTarget();
+	var sel = table.getSelectionModel().getSelectedRanges();
+
+	var selMap = [];
+
+	for (var i=0; i<sel.length; i++){
+		for (var s = sel[i].minIndex; s <= sel[i].maxIndex; s++){
+			var rowdata = table.getTableModel().getRowData(s);
+			if (rowdata == null){
+				continue;
+			}
+			rowdata.rowId = s;
+			selMap.push(rowdata);
+		}
+	}
+	e.addData(type, selMap);
+}
+
+
+
+
+
+--------------------
+--------------------
+Setting the toTable:
+--------------------
+
+// same as before but without the handlers
+
+
+// enable drop
+
+table.setDroppable(true);
+
+
+// add listeners
+
+table.addListener("drop", this._handleDrop, this);
+
+
+// implement _handleDrop: 
+
+_handleDrop: function(e){
+	// tutorial: 
+	if (e.supportsType("workerInput")){
+		var data = e.getData("workerInput");
+		var fromTable = e.getRelatedTarget();
+		var toTable = e.getCurrentTarget();
+
+
+		// don't add the row if it's already in the toTable
+		var dataToTable = toTable.getTableModel().getData();
+		var i = dataToTable.length;
+		debugger;
+		while(i--){
+			// data[0]: because there will be only one at the time
+			if(data[0]._id == dataToTable[i][0]){
+				alert('O operador já esta na lista.');
+				return;
+			}
+		}
+		// you can remove the rows from the fromTable if has a Simple model
+		// fromTable.getTableModel().removeRows(data[0].rowId, data.length);
+
+		toTable.getTableModel().addRowsAsMapArray(data, toTable.getFocusedRow());
+		// addRowsAsMapArray: [{key: 'value'}, {...}]
+		// addRows: [['value'], [...]]
+		return;
+	}
+},
