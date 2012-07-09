@@ -258,7 +258,7 @@
 					"file": "/C/web/production01_server/node_modules/production/client/production/source/class/production/managers/MainManager.js",
 					"settings":
 					{
-						"buffer_size": 4310,
+						"buffer_size": 4563,
 						"line_ending": "Windows"
 					}
 				}
@@ -502,7 +502,7 @@
 			"groups":
 			[
 				{
-					"selected": 2,
+					"selected": 3,
 					"sheets":
 					[
 						{
@@ -581,7 +581,7 @@
 									"translate_tabs_to_spaces": false
 								},
 								"translation.x": 0.0,
-								"translation.y": 0.0,
+								"translation.y": 90.0,
 								"zoom_level": 1.0
 							},
 							"type": "text"
@@ -591,15 +591,15 @@
 							"file": "/C/web/production01_server/node_modules/production/client/production/source/class/production/managers/MainManager.js",
 							"settings":
 							{
-								"buffer_size": 4310,
+								"buffer_size": 4563,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										3387,
-										3387
+										3419,
+										3419
 									]
 								],
 								"settings":
@@ -608,7 +608,7 @@
 									"translate_tabs_to_spaces": false
 								},
 								"translation.x": 0.0,
-								"translation.y": 2082.0,
+								"translation.y": 2217.0,
 								"zoom_level": 1.0
 							},
 							"type": "text"
