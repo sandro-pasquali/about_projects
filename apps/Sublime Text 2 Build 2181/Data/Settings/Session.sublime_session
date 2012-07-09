@@ -227,13 +227,42 @@
 			"buffers":
 			[
 				{
-					"contents": "{\n  \"name\"    : \"production\",\n\n  \"include\" :\n  [\n    {\n      \"path\" : \"${QOOXDOO_PATH}/tool/data/config/application.json\"\n    }\n  ],\n\n  \"export\" :\n  [\n    \"api\",\n    \"api-data\",\n    \"build\",\n    \"clean\",\n    \"distclean\",\n    \"fix\",\n    \"info\",\n    \"inspector\",\n    \"lint\",\n    \"migration\",\n    \"pretty\",\n    \"profiling\",\n    \"source\",\n    \"source-all\",\n    \"source-hybrid\",    \n    \"simulation-build\",\n    \"simulation-run\",\n    \"test\",\n    \"test-source\",\n    \"translation\"\n  ],\n  \n  \"default-job\" : \"source-hybrid\",\n\n  \"let\" :\n  {\n    \"APPLICATION\"  : \"production\",\n    \"QOOXDOO_PATH\" : \"../../../../../about_projects/third_party/qooxdoo/qooxdoo-2.0-sdk\",\n    \"QXTHEME\"      : \"production.theme.Theme\",\n    \"API_EXCLUDE\"  : [\"qx.test.*\", \"${APPLICATION}.theme.*\", \"${APPLICATION}.test.*\", \"${APPLICATION}.simulation.*\"],\n    \"LOCALES\"      : [ \"en\" ],\n    \"CACHE\"        : \"${TMPDIR}/qx${QOOXDOO_VERSION}/cache\",\n    \"ROOT\"         : \".\"\n  },\n\n  // You only need to edit the remainder of this file, if you want to customize\n  // specific jobs, or add own job definitions.\n\n  \"jobs\" :\n  {\n    // Uncomment the following entry to add a contrib or library to your\n    // project; make sure to adapt the path to the Manifest.json; if you are\n    // using a contrib: library, it will be downloaded into the path specified\n    // by the 'cache/downloads' config key\n    /*\n    \"libraries\" : \n    {\n      \"library\" :\n      [\n        {\n          \"manifest\" : \"../../../../../about_projects/third_party/qooxdoo/qooxdoo-1.6-sdk\",\n          \"uri\": \"/qooxdoo\"\n        }\n      ]\n    }\n    */\n\n    // If you want to tweak a job setting, see the following sample where\n    // the \"format\" feature of the \"build-script\" job is overridden.\n    // To see a list of available jobs, invoke 'generate.py x'.\n	/*\n    ,\"build-script\" :\n    {\n      \"compile-options\" : \n      {\n        \"code\" :\n        {\n          \"format\" : false\n        }\n      }\n    }\n    */\n  }\n}\n",
-					"file": "/C/web/production01_server/node_modules/production/client/production/config.json",
-					"file_size": 2082,
-					"file_write_time": 129832720018515011,
+					"file": "/C/web/production01_server/node_modules/production/client/production/source/class/production/views/JobsList.js",
 					"settings":
 					{
-						"buffer_size": 1945,
+						"buffer_size": 3863,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/web/production01_server/node_modules/production/client/production/source/class/production/views/MultiWorkerWrapper.js",
+					"settings":
+					{
+						"buffer_size": 2807,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/web/production01_server/node_modules/production/client/production/source/class/production/managers/MainManager.js",
+					"settings":
+					{
+						"buffer_size": 2803,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/web/production01_server/node_modules/production/client/production/source/class/production/views/Workers.js",
+					"settings":
+					{
+						"buffer_size": 3013,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/web/production01_server/node_modules/production/client/production/source/class/production/views/Production.js",
+					"settings":
+					{
+						"buffer_size": 1745,
 						"line_ending": "Windows"
 					}
 				}
@@ -262,16 +291,32 @@
 			},
 			"file_history":
 			[
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/Workers.js",
+				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/Production.js",
+				"/C/web/production01_server/node_modules/production/client/production/source/class/production/models/table/Job.js",
+				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/MainScreen.js",
+				"/C/web/production01_server/node_modules/production/client/production/source/class/production/managers/MainManager.js",
+				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/MultiWorkerWrapper.js",
+				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/DeferredJobs.js",
 				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/TodoJobs.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/insertWorkAsManager/workerSelection/Index.js",
+				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/MainManager.js",
+				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/insertProduct/Index.js",
+				"/C/web/production01_server/node_modules/production/client/production/config.json",
+				"/C/web/production01_server/node_modules/production/client/production/generate.py",
 				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/selectionInfo/states/StartJob.js",
+				"/C/web/production01_server/node_modules/production/index.js",
+				"/C/web/production01_server/node_modules/production/client/production/Manifest.json",
+				"/C/web/about_projects/third_party/Qooxdoo/qooxdoo-2.0-sdk/framework/source/class/qx/theme/Indigo.js",
+				"/C/web/production01_server/node_modules/production/client/production/source/class/production/theme/Appearance.js",
+				"/C/web/about_projects/third_party/Qooxdoo/qooxdoo-2.0-sdk/framework/source/class/qx/theme/indigo/Appearance.js",
+				"/C/web/production01_server/node_modules/production/client/production/source/class/production/theme/Color.js",
+				"/C/web/production01_server/node_modules/production/client/production/source/class/production/Application.js",
+				"/C/web/production01_server/node_modules/production/client/production/source/class/production/theme/Decoration.js",
+				"/C/web/production01_server/node_modules/production/client/production/source/class/production/theme/Theme.js",
+				"/C/web/production01_server/node_modules/production/client/production/source/class/production/theme/Font.js",
+				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/Workers.js",
+				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/insertWorkAsManager/workerSelection/Index.js",
 				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/selectionInfo/WorkerView.js",
 				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/selectionInfo/MainView.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/MainManager.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/models/table/Job.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/DeferredJobs.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/Production.js",
 				"/C/Users/Sil/Desktop/SGQ LIVE/Access Stats/_prog/dls/_musica/vol01/SETTINGS.DAT",
 				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/selectionInfo/states/ContinueJob.js",
 				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/selectionInfo/SelectionInfo.js",
@@ -279,13 +324,11 @@
 				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/selectionInfo/WorkerData.js",
 				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/selectionInfo/states/SelectingWorker.js",
 				"/C/web/production01_server/node_modules/production/services/jobs/get.js",
-				"/C/web/production01_server/node_modules/production/index.js",
 				"/C/web/production01_server/node_modules/production/models/Worker.js",
 				"/C/web/production01_server/node_modules/production/models/Job.js",
 				"/C/web/production01_server/node_modules/production/_docs/qooxdoo.js",
 				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/selectionInfo/states/ISelectionInfoState.js",
 				"/C/web/production01_server/node_modules/production/client/production/source/class/production/test/DemoTest.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/Application.js",
 				"/C/web/production01_server/node_modules/production/client/production/source/class/production/test/views/Production.js",
 				"/C/web/production01_server/node_modules/production/client/production/source/class/production/test/views/testIndex.js",
 				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/IndexView.js",
@@ -299,10 +342,7 @@
 				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/insertWorkAsManager/workerSelection/AvailableWorkers.js",
 				"/C/web/production01_server/node_modules/production/services/getJobs.js",
 				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/InsertWorker.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/insertProduct/Index.js",
 				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/insertWorkAsManager/Quantity.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/theme/Appearance.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/theme/Decoration.js",
 				"/C/web/production01_server/node_modules/production/services/products/insert.js",
 				"/C/web/production01_server/node_modules/production/client/production/source/class/production/models/table/Product.js",
 				"/C/web/production01_server/node_modules/production/client/production/source/class/production/RequestManager.js",
@@ -378,9 +418,7 @@
 				"/D/Totty/web/production01_server/models/Product.js",
 				"/D/Totty/web/production01_server/models/Worker.js",
 				"/D/Totty/web/production01_server/node_modules/r/index.js",
-				"/D/Totty/web/production01_server/models.js",
-				"/D/Totty/web/production01_server/models/Product",
-				"/D/Totty/web/production01_server/a.js"
+				"/D/Totty/web/production01_server/models.js"
 			],
 			"find":
 			{
@@ -399,6 +437,21 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"__currentWorkerId",
+					"__showWorkersViews",
+					"__afterWorkerChanged",
+					"__afterSelectionChanged",
+					"__afterJobChanged",
+					"jobTable",
+					"jobStates",
+					"selectFirstJobScheduled",
+					"jobModel",
+					"jobModelLoading",
+					"jobModel",
+					"viewClass",
+					"currentWorkerId",
+					"reloadData",
+					"getCurrentSelectionData",
 					"_getActiveElementData",
 					"showingWorkerView",
 					"');",
@@ -425,6 +478,8 @@
 				"regex": false,
 				"replace_history":
 				[
+					"__reloadData",
+					"__getCurrentSelectionData",
 					"	"
 				],
 				"reverse": false,
@@ -442,33 +497,140 @@
 			"groups":
 			[
 				{
-					"selected": 0,
+					"selected": 1,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/C/web/production01_server/node_modules/production/client/production/config.json",
+							"file": "/C/web/production01_server/node_modules/production/client/production/source/class/production/views/JobsList.js",
 							"settings":
 							{
-								"buffer_size": 1945,
+								"buffer_size": 3863,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										771,
-										777
+										3427,
+										3427
 									]
 								],
 								"settings":
 								{
-									"syntax": "Packages/JavaScript/JSON.tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"translate_tabs_to_spaces": false
 								},
 								"translation.x": 0.0,
-								"translation.y": 373.0,
+								"translation.y": 2125.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/C/web/production01_server/node_modules/production/client/production/source/class/production/views/MultiWorkerWrapper.js",
+							"settings":
+							{
+								"buffer_size": 2807,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2162,
+										2162
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 810.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/C/web/production01_server/node_modules/production/client/production/source/class/production/managers/MainManager.js",
+							"settings":
+							{
+								"buffer_size": 2803,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2121,
+										2139
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 1587.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/C/web/production01_server/node_modules/production/client/production/source/class/production/views/Workers.js",
+							"settings":
+							{
+								"buffer_size": 3013,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										310,
+										310
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/C/web/production01_server/node_modules/production/client/production/source/class/production/views/Production.js",
+							"settings":
+							{
+								"buffer_size": 1745,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1237,
+										1262
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 345.0,
 								"zoom_level": 1.0
 							},
 							"type": "text"
@@ -510,7 +672,7 @@
 			"position": "0,2,3,-32152,-32000,-1,-1,785,174,85,1040",
 			"replace":
 			{
-				"height": 0.0
+				"height": 62.0
 			},
 			"save_all_on_build": true,
 			"select_file":
