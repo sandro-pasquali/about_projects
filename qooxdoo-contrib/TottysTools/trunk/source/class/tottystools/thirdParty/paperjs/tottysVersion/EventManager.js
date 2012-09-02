@@ -1,86 +1,86 @@
 qx.Class.define('tottystools.thirdParty.paperjs.tottysVersion.EventManager', {
-    extend: qx.core.Object
+	extend: qx.core.Object
 
-    ,properties: {
+	,properties: {
 
-    }
+	}
 
-    ,construct: function(){
-        this.__items = {
-            mousedown: new qx.data.Array()
-        };
-        var paper = tottystools.thirdParty.paperjs.Paper.paper();
-        var tool = new paper.Tool();
-        tool.activate();
-        tool.distanceThreshold = 1;
+	,construct: function(){
+		this.__items = {
+			mousedown: new qx.data.Array()
+		};
+		var paper = tottystools.thirdParty.paperjs.Paper.paper();
+		var tool = new paper.Tool();
+		tool.activate();
+		tool.distanceThreshold = 1;
 
-        tool.onMouseDown = function(e){
-            debugger;
-            var hitResult = paper.project.hitTest(e.point);
-            if(hitResult !== null && hitResult.item !== null && hitResult.item === graphic){
-                that.fireDataEvent('mousedown', e);
-            }
-        };
-    }
+		tool.onMouseDown = function(e){
+			debugger;
+			var hitResult = paper.project.hitTest(e.point);
+			if(hitResult !== null && hitResult.item !== null && hitResult.item === graphic){
+				that.fireDataEvent('mousedown', e);
+			}
+		};
+	}
 
-    ,members: {
-        // begin public
-        addItem: function(item, eventType){
-            var array = this.__items[eventType];
-            if(array.contains(item)){
-                throw new Error('The item is already added.');
-                return false;
-            }
-            array.push(item);
-            return true;
-        }
-
-
-
-        ,removeItem: function(item, eventType){
-            var array = this.__items[eventType];
-            if(!array.contains(item)){
-                throw new Error('The item has not been added.');
-                return false;
-            }
-            array.remove(item);
-            return false;
-        }
+	,members: {
+		// begin public
+		addItem: function(item, eventType){
+			var array = this.__items[eventType];
+			if(array.contains(item)){
+				throw new Error('The item is already added.');
+				return false;
+			}
+			array.push(item);
+			return true;
+		}
 
 
 
-        ,addListener: function(item, eventType, callback, context){
-            this.addItem(item, eventType);
-        }
-        // end public
+		,removeItem: function(item, eventType){
+			var array = this.__items[eventType];
+			if(!array.contains(item)){
+				throw new Error('The item has not been added.');
+				return false;
+			}
+			array.remove(item);
+			return false;
+		}
 
 
 
-
-
-        // begin apply
-        // end apply
+		,addListener: function(item, eventType, callback, context){
+			this.addItem(item, eventType);
+		}
+		// end public
 
 
 
 
 
-        // begin handlers
-        // end handlers
+		// begin apply
+		// end apply
 
 
 
 
 
-        // begin core
-        // end core
+		// begin handlers
+		// end handlers
 
 
 
 
 
-        // begin booleans
-        // end booleans
-    }
+		// begin core
+		// end core
+
+
+
+
+
+		// begin booleans
+		// end booleans
+	}
 
 });

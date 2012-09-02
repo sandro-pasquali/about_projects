@@ -1,0 +1,1853 @@
+{
+	"folder_history":
+	[
+		"/D/Totty/web",
+		"/D/Totty/web/about_projects/qooxdoo-contrib"
+	],
+	"last_window_id": 12,
+	"settings":
+	{
+		"new_window_height": 708.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"player",
+						"playerDesign"
+					],
+					[
+						"child",
+						"childB"
+					],
+					[
+						"getAb",
+						"getAbsZIndex"
+					],
+					[
+						"parent",
+						"parentAbsPosition"
+					],
+					[
+						"__owner",
+						"__updateOwnershipGraphic"
+					],
+					[
+						"owner",
+						"ownershipGraphic"
+					],
+					[
+						"own",
+						"ownershipPosition"
+					],
+					[
+						"ow",
+						"ownershipGraphic"
+					],
+					[
+						"proper",
+						"properties"
+					],
+					[
+						"image",
+						"imagePaperRaster"
+					],
+					[
+						"pla",
+						"playerBuyRequest"
+					],
+					[
+						"dice",
+						"dicesValue"
+					],
+					[
+						"dic",
+						"dicesValue"
+					],
+					[
+						"hit",
+						"hitResult"
+					],
+					[
+						"de",
+						"destinationPoint"
+					],
+					[
+						"prop",
+						"propertyPosition"
+					],
+					[
+						"e",
+						"event"
+					],
+					[
+						"im",
+						"imageDOMElement"
+					],
+					[
+						"start",
+						"startingPosition"
+					],
+					[
+						"star",
+						"startingProperty"
+					],
+					[
+						"__getp",
+						"__getPropertyByPosition"
+					],
+					[
+						"__getP",
+						"__getProperty"
+					],
+					[
+						"ci",
+						"circleDiameter"
+					],
+					[
+						"Model",
+						"ModelListenersManager"
+					],
+					[
+						"todo",
+						"todoJobsSimpleModel"
+					],
+					[
+						"visi",
+						"visibility"
+					],
+					[
+						"not",
+						"notFormatedItem"
+					],
+					[
+						"worke",
+						"workerJobStatistics"
+					],
+					[
+						"tot",
+						"totalTimeInMinutes"
+					],
+					[
+						"sum",
+						"sumTotalTimeInMinutes"
+					],
+					[
+						"worker",
+						"workerName"
+					],
+					[
+						"grou",
+						"groupedByWorker"
+					],
+					[
+						"work",
+						"workerId"
+					],
+					[
+						"sel",
+						"selectedCorrectionChanged"
+					],
+					[
+						"product",
+						"productId"
+					],
+					[
+						"pro",
+						"productSelection"
+					],
+					[
+						"correc",
+						"correctedJobs"
+					],
+					[
+						"corr",
+						"correctionId"
+					],
+					[
+						"Cor",
+						"CorrectionSchema"
+					],
+					[
+						"qu",
+						"quantityDone"
+					],
+					[
+						"produ",
+						"productInfo"
+					],
+					[
+						"getSele",
+						"getSelectedJob"
+					],
+					[
+						"ri",
+						"rightContent"
+					],
+					[
+						"job",
+						"jobSaveStatus"
+					],
+					[
+						"model",
+						"modelColumns"
+					],
+					[
+						"get",
+						"getView"
+					],
+					[
+						"clas",
+						"classPathFromPrefix"
+					],
+					[
+						"compo",
+						"componentClass"
+					],
+					[
+						"com",
+						"componentPath"
+					],
+					[
+						"selection",
+						"selectionFn"
+					],
+					[
+						"sele",
+						"selectedRows"
+					],
+					[
+						"found",
+						"foundOnRow"
+					],
+					[
+						"t",
+						"todoJobsList"
+					],
+					[
+						"regexp",
+						"regexpString"
+					],
+					[
+						"win",
+						"windowManager"
+					],
+					[
+						"Window",
+						"windowManager"
+					],
+					[
+						"Request",
+						"RequestManager"
+					],
+					[
+						"sor",
+						"sortOrder"
+					],
+					[
+						"sord",
+						"sortOrder"
+					],
+					[
+						"data",
+						"dateJobStart"
+					]
+				]
+			},
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 375.0,
+				"selected_items":
+				[
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ins",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: insta",
+						"Package Control: Install Package"
+					],
+					[
+						"send to ",
+						"Send to evernote"
+					],
+					[
+						"snippet",
+						"Snippet: if … else"
+					]
+				],
+				"width": 514.0
+			},
+			"console":
+			{
+				"height": 125.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/D/Totty/web/about_projects/Code examples/Pacman/Compiled/pacman.js",
+				"/D/Totty/web/about_projects/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/thirdParty/paperjs/Paper.js",
+				"/D/Totty/web/about_projects/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/thirdParty/paperjs/TottyInjectsPaper.js",
+				"/D/Totty/web/about_projects/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/thirdParty/paperjs/tottysVersion/Label.js",
+				"/D/Totty/web/about_projects/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/thirdParty/paperjs/tottysVersion/Path.js",
+				"/D/Totty/web/about_projects/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/thirdParty/paperjs/tottysVersion/Image.js",
+				"/D/Totty/web/about_projects/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/thirdParty/paperjs/tottysVersion/Group.js",
+				"/D/Totty/web/about_projects/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/thirdParty/paperjs/tottysVersion/Item.js",
+				"/D/Totty/web/about_projects/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/thirdParty/paperjs/tottysVersion/Circle.js",
+				"/D/Totty/web/about_projects/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/thirdParty/paperjs/tottysVersion/Rectangle.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/config.json",
+				"/D/Totty/web/about_projects/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/thirdParty/TottyInjectsPaper.js",
+				"/D/Totty/web/about_projects/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/thirdParty/Paper.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v01/bank/Bank.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v01/views/GameV.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v01/property/PropertyPositionCollection.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v01/property/PropertyPosition.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v01/boardEngine/BoardEngine.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v01/bank/Account.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v01/components/GameC.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v01/components/BoardC.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v01/views/PropertyV.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v01/property/PropertyPosition.sj",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v01/PropertyPositions.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v01/ComponentFactory.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/Application.js",
+				"/D/Totty/web/about_projects/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/ComponentFactory.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v01/Game.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v01/views/BoardV.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/test/_prototypes/gameplay/v01/GameTest.js",
+				"/D/Totty/web/about_projects/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/components/Component.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/test/_prototypes/gameplay/v01/ComponentFactory.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/RequestManager.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/qooxdoo-contrib/TottysTools/trunk/Manifest.json",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/Manifest.json",
+				"/D/Totty/web/WaterShares/node_modules/app/index.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/test/DemoTest.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/generate.py",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/test/_prototypes/gameplay/v01/Game2Test.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/test/_prototypes/Demo2Test.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/test/_a/Demo2Test.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/test/Demo2Test.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/test/_prototypes/gameplay/01/GameTest.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/01/Game.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_DefaultTemplate.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/index.html",
+				"/D/Totty/web/WaterShares/node_modules/app/models/index.js",
+				"/D/Totty/web/production01_server/node_modules/production/modelListeners/job/beforePause.js",
+				"/D/Totty/web/production01_server/node_modules/production/index.js",
+				"/D/Totty/web/production01_server/node_modules/production/ModelListenersManager.js",
+				"/D/Totty/web/production01_server/node_modules/production/ServiceManager.js",
+				"/D/Totty/web/production01_server/node_modules/production/models/Job.js",
+				"/D/Totty/web/production01_server/node_modules/production/services/jobs/_pauseOrEnd.js",
+				"/D/Totty/web/production01_server/node_modules/production/client/otherExamples/GrooveShark/tier1-js/tier1.js",
+				"/D/Totty/web/production01_server/node_modules/production/services/jobs/pause.js",
+				"/D/Totty/web/production01_server/node_modules/production/client/production/source/class/production/ComponentFactory.js",
+				"/D/Totty/web/production01_server/node_modules/production/client/production/source/class/production/models/table/BaseRemote.js",
+				"/D/Totty/web/production01_server/node_modules/production/client/otherExamples/GrooveShark/app-js/app.js",
+				"/C/web/production01_server/node_modules/production/modelListeners/job/beforeContinue.js",
+				"/C/web/production01_server/node_modules/production/modelListeners/job/pause.js",
+				"/C/web/production01_server/node_modules/production/services/jobs/_pauseOrEnd.js",
+				"/C/web/production01_server/node_modules/production/serviceListeners/jobs/pause.js",
+				"/C/web/production01_server/node_modules/production/services/jobs/_startOrContinue.js",
+				"/C/web/production01_server/node_modules/production/services/jobs/insert.js",
+				"/C/web/production01_server/node_modules/production/models/Worker.js",
+				"/C/web/production01_server/node_modules/production/services/jobs/pause.js",
+				"/C/web/production01_server/node_modules/production/models/index.js",
+				"/C/web/production01_server/node_modules/production/client/production/source/class/production/components/WorkerGroupC.js",
+				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/MainScreenV.js",
+				"/C/web/production01_server/node_modules/production/client/production/source/class/production/models/table/Job.js",
+				"/C/web/production01_server/node_modules/production/client/production/source/class/production/components/jobs/InsertJobC.js",
+				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/jobs/InsertJobV.js",
+				"/C/web/production01_server/node_modules/production/client/production/source/class/production/parsers/SubDataToDot.js",
+				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/ProductionV.js",
+				"/C/web/production01_server/node_modules/production/services/jobs/get.js",
+				"/C/web/production01_server/node_modules/production/client/production/source/class/production/models/table/BaseRemote.js",
+				"/C/web/production01_server/node_modules/production/models/Job.js",
+				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/ProductSelectionV.js",
+				"/C/web/production01_server/node_modules/production/client/production/source/class/production/Application.js",
+				"/C/web/production01_server/node_modules/production/client/production/source/class/production/components/corrections/CorrectionsListC.js",
+				"/C/web/production01_server/node_modules/production/client/production/source/class/production/components/jobs/OrderJobsC.js",
+				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/jobs/OrderJobsV.js",
+				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/lists/TodoJobsDDListV.js",
+				"/C/web/production01_server/node_modules/production/client/production/source/class/production/models/table/JobSimple.js",
+				"/C/web/production01_server/node_modules/production/client/production/source/class/production/components/lists/TodoJobsDDListC.js",
+				"/C/web/production01_server/node_modules/production/client/production/source/class/production/components/ProductionC.js",
+				"/C/web/production01_server/node_modules/production/client/production/source/class/production/components/lists/BaseListC.js",
+				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/lists/ProductsListV.js",
+				"/C/web/production01_server/node_modules/production/client/production/source/class/production/components/corrections/CorrectJobsC.js",
+				"/C/web/production01_server/node_modules/production/client/production/source/class/production/models/table/Product.js",
+				"/C/web/production01_server/node_modules/production/index.js",
+				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/corrections/CorrectionManagerV.js",
+				"/C/web/production01_server/node_modules/production/models/User.js",
+				"/C/web/production01_server/_run/SublimeText2/Data/Packages/User/Preferences.sublime-settings",
+				"/C/web/production01_server/_run/SublimeText2/Data/Packages/Rails/Migration-Drop-Create-Table-(mdct).sublime-snippet",
+				"/C/web/production01_server/_run/SublimeText2/Data/Packages/Default/Preferences.sublime-settings",
+				"/C/web/production01_server/_run/SublimeText2/Data/Packages/User/JavaScript.sublime-settings",
+				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/corrections/ConfirmCorrectionV.js",
+				"/C/web/production01_server/node_modules/production/client/production/config.json",
+				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/lists/DeferredJobsListV.js",
+				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/lists/TodoJobsListV.js",
+				"/C/web/production01_server/node_modules/production/client/production/source/class/production/components/lists/TodoJobsListC.js",
+				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/lists/BaseListV.js",
+				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/lists/ActiveJobsListV.js",
+				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/SkipJustificationV.js",
+				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/lists/WorkersListV.js",
+				"/C/web/production01_server/node_modules/production/client/production/source/class/production/models/table/Correction.js",
+				"/C/web/production01_server/node_modules/production/client/production/source/class/production/models/table/Worker.js",
+				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/corrections/CorrectionsListV.js",
+				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/corrections/CorrectJobsV.js",
+				"/C/web/production01_server/node_modules/production/client/production/source/class/production/components/corrections/CorrectionManagerC.js",
+				"/C/web/production01_server/node_modules/production/client/production/source/class/production/components/ManagerControlPanelC.js",
+				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/ManagerControlPanelV.js",
+				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/mainScreen/SerialsTable.js",
+				"/C/web/production01_server/node_modules/production/client/production/source/class/production/components/corrections/ConfirmCorrectionC.js",
+				"/C/web/production01_server/node_modules/production/client/production/source/class/production/models/table/JobsGrouppedByWorkerSimple.js",
+				"/C/web/production01_server/node_modules/production/models/Correction.js",
+				"/C/web/production01_server/node_modules/production/services/corrections/insert.js",
+				"/C/web/production01_server/node_modules/production/client/production/source/class/production/ComponentFactory.js",
+				"/C/web/production01_server/node_modules/production/client/production/source/class/production/CopyToClipboard.js",
+				"/C/web/production01_server/node_modules/production/client/production/source/class/production/components/ProductSelectionC.js",
+				"/C/web/production01_server/node_modules/production/services/jobs/getAll.js",
+				"/C/web/production01_server/node_modules/production/services/corrections/get.js",
+				"/C/web/production01_server/node_modules/production/services/_get.js",
+				"/C/web/production01_server/node_modules/production/client/production/source/class/production/components/__empty.js",
+				"/C/web/production01_server/node_modules/production/client/production/source/class/production/components/corrections/CorrectionsList.js",
+				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/SaveProductV.js",
+				"/C/web/production01_server/node_modules/production/models/Product.js"
+			],
+			"find":
+			{
+				"height": 33.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+					"<open folders>",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"__paper",
+					"player.get",
+					"bounds",
+					"tottysPaper.Group",
+					"setAbsZIndex",
+					"__children",
+					"updateChildrenAbsZIndex",
+					"__updateChildrenAbsZIndex",
+					"__updateChildrenZIndex",
+					"__updateChildrenAbsZIndex",
+					"__updateChildrenRoot",
+					"updateAbsPosition",
+					"canvasReady",
+					"scale",
+					"Path.Circle",
+					"array",
+					"__price",
+					"setOwner",
+					"ChangeFlag",
+					"__initProperties",
+					"imagePaperRaster",
+					"__movePlayerToPoint",
+					"movePlayerToProperty",
+					"__initProperties",
+					"propertiesRawPositions",
+					"startY",
+					"startX",
+					"mainGroup",
+					"__mainGroup",
+					"__canvasSizeChanged",
+					"__bank",
+					"__updateOwnerInView",
+					"__initProperties",
+					" paper.view",
+					"this.__scale",
+					"0.5",
+					"__updateOwnerInView",
+					"scale",
+					"__movePlayerToProperty",
+					"__initPaper",
+					"__onImageLoaded",
+					"__gameLoop",
+					"__currentPlayer",
+					"__setCurrentPlayer",
+					"__getCurrentPlayer",
+					"__updateCurrentPlayerOnBoard",
+					"__setCurrentPlayer",
+					"__updateCurrentPlayerOnBoard",
+					"__getProperties",
+					"__currentTurnPlayerIndex",
+					"getCurrentPlayer",
+					"setCurrentPlayer",
+					"movePlayerPositions",
+					"setCurrentPlayer",
+					"__updateOwnerInView",
+					"__setPropertyToPosition",
+					"paper",
+					"object",
+					"__getAccount",
+					"__getMoney",
+					"__movePlayerToProperty",
+					"setOwner",
+					"Owner",
+					"init",
+					"dicesRolled",
+					"__currentPlayerIndex",
+					"raster",
+					"image2",
+					"imageDOMElement",
+					"image2",
+					"asset",
+					"movePlayerToNextProperty",
+					"nextProperty",
+					"__movePlayerToProperty",
+					"movePlayerToNextProperty",
+					"movePlayerPositions",
+					"movePlayerToNextProperty",
+					"__movePlayerToPosition",
+					"i",
+					"__setProperty",
+					"__getProperty",
+					"__properties",
+					"moveType",
+					"__movePlayerToProperty",
+					"__movePlayerToPosition",
+					"movePlayerToNextProperty",
+					"__movePlayerToPosition",
+					"position",
+					"__movePlayerToProperty",
+					"this.__prefix",
+					"__prefix",
+					"__views",
+					"__rules",
+					"tottystools.ComponentFactory",
+					"this",
+					"instance",
+					"WS",
+					"production",
+					"models",
+					"c",
+					"production",
+					"database",
+					"cm",
+					"getOrCreateConnection",
+					"setupModelListenersForConnection",
+					"GS.Controllers.",
+					"GS.Controllers.BaseController.extend",
+					"GS.COntroller",
+					"GS.Controllers.PageController",
+					"GS.Models.UserSettings",
+					"__emitWithActiveWorkerId",
+					"__lastEndedTimeFrame",
+					"$setStat",
+					"__$end",
+					"__$pause",
+					"__emitWithActiveWorkerId",
+					"models",
+					"type",
+					"currentTimeFrame",
+					"somebodyElseIsWorking",
+					"currentTimeFrame",
+					"Job",
+					"workerState",
+					"ActiveJobList",
+					"getSelectedWorkerNumber",
+					"job",
+					"exit",
+					"sort"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": true,
+				"regex": false,
+				"replace_history":
+				[
+					"size",
+					"this.__graphic",
+					"tottysPaperGroup",
+					"updateChildrenAbsZIndex",
+					"movePlayerToPoint",
+					"propertiesInnerPositions",
+					"lastY",
+					"lastX",
+					"entity",
+					"__currentTurnPlayerIndex",
+					"imagePaperRaster",
+					"imageDOMElement",
+					"destinationProperty",
+					"position",
+					"__getProperties()",
+					"settleType",
+					"prefix",
+					"this",
+					"tottystools.ComponentFactory",
+					"ws",
+					"WS",
+					"connection",
+					"app",
+					"databaseName",
+					"setStat",
+					"__setEndProperties",
+					"__setPauseProperties",
+					"connection",
+					"__getFilters",
+					"setCorrection",
+					"exit",
+					"confirm",
+					"save",
+					"__workersList",
+					"product",
+					"__populateFieldsWithDefaultData",
+					"__afterJobSelectionChangedInAnyJobList",
+					"",
+					"_lastRowId",
+					"selectionChanged",
+					"dataLoaded",
+					"__scheduleSelectFirstRow",
+					"__selectFirstRowScheduled",
+					"_modelLoading",
+					"__afterEndJobRequested",
+					"__afterPauseJobRequested",
+					"pauseJobRequested",
+					"serials",
+					"productSerials",
+					"__afterTableJobChanged",
+					"__afterStartJobRequested",
+					"__table",
+					"	",
+					"start",
+					"__refreshAllJobLists",
+					"__reloadData",
+					"__getCurrentSelectionData",
+					"	"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"replace":
+			{
+				"height": 62.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"inserjob",
+						"production/client/production/source/class/production/controllers/insertJob/InsertJob.js"
+					],
+					[
+						"mainscree",
+						"production/client/production/source/class/production/views/MainScreen.js"
+					],
+					[
+						"workergroup",
+						"production/client/production/source/class/production/controllers/WorkerGroup.js"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 356.0,
+			"status_bar_visible": true
+		},
+		"new_window_width": 861.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"player",
+						"playerDesign"
+					],
+					[
+						"child",
+						"childB"
+					],
+					[
+						"getAb",
+						"getAbsZIndex"
+					],
+					[
+						"parent",
+						"parentAbsPosition"
+					],
+					[
+						"__owner",
+						"__updateOwnershipGraphic"
+					],
+					[
+						"owner",
+						"ownershipGraphic"
+					],
+					[
+						"own",
+						"ownershipPosition"
+					],
+					[
+						"ow",
+						"ownershipGraphic"
+					],
+					[
+						"proper",
+						"properties"
+					],
+					[
+						"image",
+						"imagePaperRaster"
+					],
+					[
+						"pla",
+						"playerBuyRequest"
+					],
+					[
+						"dice",
+						"dicesValue"
+					],
+					[
+						"dic",
+						"dicesValue"
+					],
+					[
+						"hit",
+						"hitResult"
+					],
+					[
+						"de",
+						"destinationPoint"
+					],
+					[
+						"prop",
+						"propertyPosition"
+					],
+					[
+						"e",
+						"event"
+					],
+					[
+						"im",
+						"imageDOMElement"
+					],
+					[
+						"start",
+						"startingPosition"
+					],
+					[
+						"star",
+						"startingProperty"
+					],
+					[
+						"__getp",
+						"__getPropertyByPosition"
+					],
+					[
+						"__getP",
+						"__getProperty"
+					],
+					[
+						"ci",
+						"circleDiameter"
+					],
+					[
+						"Model",
+						"ModelListenersManager"
+					],
+					[
+						"todo",
+						"todoJobsSimpleModel"
+					],
+					[
+						"visi",
+						"visibility"
+					],
+					[
+						"not",
+						"notFormatedItem"
+					],
+					[
+						"worke",
+						"workerJobStatistics"
+					],
+					[
+						"tot",
+						"totalTimeInMinutes"
+					],
+					[
+						"sum",
+						"sumTotalTimeInMinutes"
+					],
+					[
+						"worker",
+						"workerName"
+					],
+					[
+						"grou",
+						"groupedByWorker"
+					],
+					[
+						"work",
+						"workerId"
+					],
+					[
+						"sel",
+						"selectedCorrectionChanged"
+					],
+					[
+						"product",
+						"productId"
+					],
+					[
+						"pro",
+						"productSelection"
+					],
+					[
+						"correc",
+						"correctedJobs"
+					],
+					[
+						"corr",
+						"correctionId"
+					],
+					[
+						"Cor",
+						"CorrectionSchema"
+					],
+					[
+						"qu",
+						"quantityDone"
+					],
+					[
+						"produ",
+						"productInfo"
+					],
+					[
+						"getSele",
+						"getSelectedJob"
+					],
+					[
+						"ri",
+						"rightContent"
+					],
+					[
+						"job",
+						"jobSaveStatus"
+					],
+					[
+						"model",
+						"modelColumns"
+					],
+					[
+						"get",
+						"getView"
+					],
+					[
+						"clas",
+						"classPathFromPrefix"
+					],
+					[
+						"compo",
+						"componentClass"
+					],
+					[
+						"com",
+						"componentPath"
+					],
+					[
+						"selection",
+						"selectionFn"
+					],
+					[
+						"sele",
+						"selectedRows"
+					],
+					[
+						"found",
+						"foundOnRow"
+					],
+					[
+						"t",
+						"todoJobsList"
+					],
+					[
+						"regexp",
+						"regexpString"
+					],
+					[
+						"win",
+						"windowManager"
+					],
+					[
+						"Window",
+						"windowManager"
+					],
+					[
+						"Request",
+						"RequestManager"
+					],
+					[
+						"sor",
+						"sortOrder"
+					],
+					[
+						"sord",
+						"sortOrder"
+					],
+					[
+						"data",
+						"dateJobStart"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v01/components/BoardC.js",
+					"settings":
+					{
+						"buffer_size": 13824,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v01/views/BoardV.js",
+					"settings":
+					{
+						"buffer_size": 15288,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v01/components/PropertyC.js",
+					"settings":
+					{
+						"buffer_size": 7619,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v01/views/PropertyV.js",
+					"settings":
+					{
+						"buffer_size": 2779,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v01/components/PlayerC.js",
+					"settings":
+					{
+						"buffer_size": 1540,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v01/views/PlayerV.js",
+					"settings":
+					{
+						"buffer_size": 1772,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/Totty/web/about_projects/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/thirdParty/paperjs/tottysVersion/Item.js",
+					"settings":
+					{
+						"buffer_size": 5815,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/Totty/web/about_projects/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/thirdParty/paperjs/tottysVersion/EventManager.js",
+					"settings":
+					{
+						"buffer_size": 1357,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "node_modules/app/index.js",
+					"settings":
+					{
+						"buffer_size": 3752,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "node_modules/app/client/WS/config.json",
+					"settings":
+					{
+						"buffer_size": 2630,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "node_modules/app/client/WS/generate.py",
+					"settings":
+					{
+						"buffer_size": 2220,
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 375.0,
+				"selected_items":
+				[
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ins",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: insta",
+						"Package Control: Install Package"
+					],
+					[
+						"send to ",
+						"Send to evernote"
+					],
+					[
+						"snippet",
+						"Snippet: if … else"
+					]
+				],
+				"width": 514.0
+			},
+			"console":
+			{
+				"height": 125.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/D/Totty/web/about_projects/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/thirdParty/paperjs/tottysVersion/EventManager.js",
+				"/D/Totty/web/about_projects/Code examples/Pacman/Compiled/pacman.js",
+				"/D/Totty/web/about_projects/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/thirdParty/paperjs/Paper.js",
+				"/D/Totty/web/about_projects/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/thirdParty/paperjs/TottyInjectsPaper.js",
+				"/D/Totty/web/about_projects/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/thirdParty/paperjs/tottysVersion/Label.js",
+				"/D/Totty/web/about_projects/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/thirdParty/paperjs/tottysVersion/Path.js",
+				"/D/Totty/web/about_projects/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/thirdParty/paperjs/tottysVersion/Image.js",
+				"/D/Totty/web/about_projects/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/thirdParty/paperjs/tottysVersion/Group.js",
+				"/D/Totty/web/about_projects/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/thirdParty/paperjs/tottysVersion/Item.js",
+				"/D/Totty/web/about_projects/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/thirdParty/paperjs/tottysVersion/Circle.js",
+				"/D/Totty/web/about_projects/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/thirdParty/paperjs/tottysVersion/Rectangle.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/config.json",
+				"/D/Totty/web/about_projects/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/thirdParty/TottyInjectsPaper.js",
+				"/D/Totty/web/about_projects/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/thirdParty/Paper.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v01/bank/Bank.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v01/views/GameV.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v01/property/PropertyPositionCollection.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v01/property/PropertyPosition.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v01/boardEngine/BoardEngine.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v01/bank/Account.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v01/components/GameC.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v01/components/BoardC.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v01/views/PropertyV.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v01/property/PropertyPosition.sj",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v01/PropertyPositions.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v01/ComponentFactory.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/Application.js",
+				"/D/Totty/web/about_projects/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/ComponentFactory.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v01/Game.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v01/views/BoardV.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/test/_prototypes/gameplay/v01/GameTest.js",
+				"/D/Totty/web/about_projects/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/components/Component.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/test/_prototypes/gameplay/v01/ComponentFactory.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/RequestManager.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/qooxdoo-contrib/TottysTools/trunk/Manifest.json",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/Manifest.json",
+				"/D/Totty/web/WaterShares/node_modules/app/index.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/test/DemoTest.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/generate.py",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/test/_prototypes/gameplay/v01/Game2Test.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/test/_prototypes/Demo2Test.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/test/_a/Demo2Test.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/test/Demo2Test.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/test/_prototypes/gameplay/01/GameTest.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/01/Game.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_DefaultTemplate.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/index.html",
+				"/D/Totty/web/WaterShares/node_modules/app/models/index.js",
+				"/D/Totty/web/production01_server/node_modules/production/modelListeners/job/beforePause.js",
+				"/D/Totty/web/production01_server/node_modules/production/index.js",
+				"/D/Totty/web/production01_server/node_modules/production/ModelListenersManager.js",
+				"/D/Totty/web/production01_server/node_modules/production/ServiceManager.js",
+				"/D/Totty/web/production01_server/node_modules/production/models/Job.js",
+				"/D/Totty/web/production01_server/node_modules/production/services/jobs/_pauseOrEnd.js",
+				"/D/Totty/web/production01_server/node_modules/production/client/otherExamples/GrooveShark/tier1-js/tier1.js",
+				"/D/Totty/web/production01_server/node_modules/production/services/jobs/pause.js",
+				"/D/Totty/web/production01_server/node_modules/production/client/production/source/class/production/ComponentFactory.js",
+				"/D/Totty/web/production01_server/node_modules/production/client/production/source/class/production/models/table/BaseRemote.js",
+				"/D/Totty/web/production01_server/node_modules/production/client/otherExamples/GrooveShark/app-js/app.js",
+				"/C/web/production01_server/node_modules/production/modelListeners/job/beforeContinue.js",
+				"/C/web/production01_server/node_modules/production/modelListeners/job/pause.js",
+				"/C/web/production01_server/node_modules/production/services/jobs/_pauseOrEnd.js",
+				"/C/web/production01_server/node_modules/production/serviceListeners/jobs/pause.js",
+				"/C/web/production01_server/node_modules/production/services/jobs/_startOrContinue.js",
+				"/C/web/production01_server/node_modules/production/services/jobs/insert.js",
+				"/C/web/production01_server/node_modules/production/models/Worker.js",
+				"/C/web/production01_server/node_modules/production/services/jobs/pause.js",
+				"/C/web/production01_server/node_modules/production/models/index.js",
+				"/C/web/production01_server/node_modules/production/client/production/source/class/production/components/WorkerGroupC.js",
+				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/MainScreenV.js",
+				"/C/web/production01_server/node_modules/production/client/production/source/class/production/models/table/Job.js",
+				"/C/web/production01_server/node_modules/production/client/production/source/class/production/components/jobs/InsertJobC.js",
+				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/jobs/InsertJobV.js",
+				"/C/web/production01_server/node_modules/production/client/production/source/class/production/parsers/SubDataToDot.js",
+				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/ProductionV.js",
+				"/C/web/production01_server/node_modules/production/services/jobs/get.js",
+				"/C/web/production01_server/node_modules/production/client/production/source/class/production/models/table/BaseRemote.js",
+				"/C/web/production01_server/node_modules/production/models/Job.js",
+				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/ProductSelectionV.js",
+				"/C/web/production01_server/node_modules/production/client/production/source/class/production/Application.js",
+				"/C/web/production01_server/node_modules/production/client/production/source/class/production/components/corrections/CorrectionsListC.js",
+				"/C/web/production01_server/node_modules/production/client/production/source/class/production/components/jobs/OrderJobsC.js",
+				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/jobs/OrderJobsV.js",
+				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/lists/TodoJobsDDListV.js",
+				"/C/web/production01_server/node_modules/production/client/production/source/class/production/models/table/JobSimple.js",
+				"/C/web/production01_server/node_modules/production/client/production/source/class/production/components/lists/TodoJobsDDListC.js",
+				"/C/web/production01_server/node_modules/production/client/production/source/class/production/components/ProductionC.js",
+				"/C/web/production01_server/node_modules/production/client/production/source/class/production/components/lists/BaseListC.js",
+				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/lists/ProductsListV.js",
+				"/C/web/production01_server/node_modules/production/client/production/source/class/production/components/corrections/CorrectJobsC.js",
+				"/C/web/production01_server/node_modules/production/client/production/source/class/production/models/table/Product.js",
+				"/C/web/production01_server/node_modules/production/index.js",
+				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/corrections/CorrectionManagerV.js",
+				"/C/web/production01_server/node_modules/production/models/User.js",
+				"/C/web/production01_server/_run/SublimeText2/Data/Packages/User/Preferences.sublime-settings",
+				"/C/web/production01_server/_run/SublimeText2/Data/Packages/Rails/Migration-Drop-Create-Table-(mdct).sublime-snippet",
+				"/C/web/production01_server/_run/SublimeText2/Data/Packages/Default/Preferences.sublime-settings",
+				"/C/web/production01_server/_run/SublimeText2/Data/Packages/User/JavaScript.sublime-settings",
+				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/corrections/ConfirmCorrectionV.js",
+				"/C/web/production01_server/node_modules/production/client/production/config.json",
+				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/lists/DeferredJobsListV.js",
+				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/lists/TodoJobsListV.js",
+				"/C/web/production01_server/node_modules/production/client/production/source/class/production/components/lists/TodoJobsListC.js",
+				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/lists/BaseListV.js",
+				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/lists/ActiveJobsListV.js",
+				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/SkipJustificationV.js",
+				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/lists/WorkersListV.js",
+				"/C/web/production01_server/node_modules/production/client/production/source/class/production/models/table/Correction.js",
+				"/C/web/production01_server/node_modules/production/client/production/source/class/production/models/table/Worker.js",
+				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/corrections/CorrectionsListV.js",
+				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/corrections/CorrectJobsV.js",
+				"/C/web/production01_server/node_modules/production/client/production/source/class/production/components/corrections/CorrectionManagerC.js",
+				"/C/web/production01_server/node_modules/production/client/production/source/class/production/components/ManagerControlPanelC.js",
+				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/ManagerControlPanelV.js",
+				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/mainScreen/SerialsTable.js",
+				"/C/web/production01_server/node_modules/production/client/production/source/class/production/components/corrections/ConfirmCorrectionC.js",
+				"/C/web/production01_server/node_modules/production/client/production/source/class/production/models/table/JobsGrouppedByWorkerSimple.js",
+				"/C/web/production01_server/node_modules/production/models/Correction.js",
+				"/C/web/production01_server/node_modules/production/services/corrections/insert.js",
+				"/C/web/production01_server/node_modules/production/client/production/source/class/production/ComponentFactory.js",
+				"/C/web/production01_server/node_modules/production/client/production/source/class/production/CopyToClipboard.js",
+				"/C/web/production01_server/node_modules/production/client/production/source/class/production/components/ProductSelectionC.js",
+				"/C/web/production01_server/node_modules/production/services/jobs/getAll.js",
+				"/C/web/production01_server/node_modules/production/services/corrections/get.js",
+				"/C/web/production01_server/node_modules/production/services/_get.js",
+				"/C/web/production01_server/node_modules/production/client/production/source/class/production/components/__empty.js",
+				"/C/web/production01_server/node_modules/production/client/production/source/class/production/components/corrections/CorrectionsList.js",
+				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/SaveProductV.js"
+			],
+			"find":
+			{
+				"height": 33.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+					"<open folders>",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"source",
+					"__paper",
+					"player.get",
+					"bounds",
+					"tottysPaper.Group",
+					"setAbsZIndex",
+					"__children",
+					"updateChildrenAbsZIndex",
+					"__updateChildrenAbsZIndex",
+					"__updateChildrenZIndex",
+					"__updateChildrenAbsZIndex",
+					"__updateChildrenRoot",
+					"updateAbsPosition",
+					"canvasReady",
+					"scale",
+					"Path.Circle",
+					"array",
+					"__price",
+					"setOwner",
+					"ChangeFlag",
+					"__initProperties",
+					"imagePaperRaster",
+					"__movePlayerToPoint",
+					"movePlayerToProperty",
+					"__initProperties",
+					"propertiesRawPositions",
+					"startY",
+					"startX",
+					"mainGroup",
+					"__mainGroup",
+					"__canvasSizeChanged",
+					"__bank",
+					"__updateOwnerInView",
+					"__initProperties",
+					" paper.view",
+					"this.__scale",
+					"0.5",
+					"__updateOwnerInView",
+					"scale",
+					"__movePlayerToProperty",
+					"__initPaper",
+					"__onImageLoaded",
+					"__gameLoop",
+					"__currentPlayer",
+					"__setCurrentPlayer",
+					"__getCurrentPlayer",
+					"__updateCurrentPlayerOnBoard",
+					"__setCurrentPlayer",
+					"__updateCurrentPlayerOnBoard",
+					"__getProperties",
+					"__currentTurnPlayerIndex",
+					"getCurrentPlayer",
+					"setCurrentPlayer",
+					"movePlayerPositions",
+					"setCurrentPlayer",
+					"__updateOwnerInView",
+					"__setPropertyToPosition",
+					"paper",
+					"object",
+					"__getAccount",
+					"__getMoney",
+					"__movePlayerToProperty",
+					"setOwner",
+					"Owner",
+					"init",
+					"dicesRolled",
+					"__currentPlayerIndex",
+					"raster",
+					"image2",
+					"imageDOMElement",
+					"image2",
+					"asset",
+					"movePlayerToNextProperty",
+					"nextProperty",
+					"__movePlayerToProperty",
+					"movePlayerToNextProperty",
+					"movePlayerPositions",
+					"movePlayerToNextProperty",
+					"__movePlayerToPosition",
+					"i",
+					"__setProperty",
+					"__getProperty",
+					"__properties",
+					"moveType",
+					"__movePlayerToProperty",
+					"__movePlayerToPosition",
+					"movePlayerToNextProperty",
+					"__movePlayerToPosition",
+					"position",
+					"__movePlayerToProperty",
+					"this.__prefix",
+					"__prefix",
+					"__views",
+					"__rules",
+					"tottystools.ComponentFactory",
+					"this",
+					"instance",
+					"WS",
+					"production",
+					"models",
+					"c",
+					"production",
+					"database",
+					"cm",
+					"getOrCreateConnection",
+					"setupModelListenersForConnection",
+					"GS.Controllers.",
+					"GS.Controllers.BaseController.extend",
+					"GS.COntroller",
+					"GS.Controllers.PageController",
+					"GS.Models.UserSettings",
+					"__emitWithActiveWorkerId",
+					"__lastEndedTimeFrame",
+					"$setStat",
+					"__$end",
+					"__$pause",
+					"__emitWithActiveWorkerId",
+					"models",
+					"type",
+					"currentTimeFrame",
+					"somebodyElseIsWorking",
+					"currentTimeFrame",
+					"Job",
+					"workerState",
+					"ActiveJobList",
+					"getSelectedWorkerNumber",
+					"job",
+					"exit"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": true,
+				"regex": false,
+				"replace_history":
+				[
+					"size",
+					"this.__graphic",
+					"tottysPaperGroup",
+					"updateChildrenAbsZIndex",
+					"movePlayerToPoint",
+					"propertiesInnerPositions",
+					"lastY",
+					"lastX",
+					"entity",
+					"__currentTurnPlayerIndex",
+					"imagePaperRaster",
+					"imageDOMElement",
+					"destinationProperty",
+					"position",
+					"__getProperties()",
+					"settleType",
+					"prefix",
+					"this",
+					"tottystools.ComponentFactory",
+					"ws",
+					"WS",
+					"connection",
+					"app",
+					"databaseName",
+					"setStat",
+					"__setEndProperties",
+					"__setPauseProperties",
+					"connection",
+					"__getFilters",
+					"setCorrection",
+					"exit",
+					"confirm",
+					"save",
+					"__workersList",
+					"product",
+					"__populateFieldsWithDefaultData",
+					"__afterJobSelectionChangedInAnyJobList",
+					"",
+					"_lastRowId",
+					"selectionChanged",
+					"dataLoaded",
+					"__scheduleSelectFirstRow",
+					"__selectFirstRowScheduled",
+					"_modelLoading",
+					"__afterEndJobRequested",
+					"__afterPauseJobRequested",
+					"pauseJobRequested",
+					"serials",
+					"productSerials",
+					"__afterTableJobChanged",
+					"__afterStartJobRequested",
+					"__table",
+					"	",
+					"start",
+					"__refreshAllJobLists",
+					"__reloadData",
+					"__getCurrentSelectionData",
+					"	"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 9,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v01/components/BoardC.js",
+							"settings":
+							{
+								"buffer_size": 13824,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										909,
+										909
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 714.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v01/views/BoardV.js",
+							"settings":
+							{
+								"buffer_size": 15288,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										12709,
+										12709
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 4914.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v01/components/PropertyC.js",
+							"settings":
+							{
+								"buffer_size": 7619,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										408,
+										378
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v01/views/PropertyV.js",
+							"settings":
+							{
+								"buffer_size": 2779,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1386,
+										1402
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 840.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v01/components/PlayerC.js",
+							"settings":
+							{
+								"buffer_size": 1540,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1100,
+										1118
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 350.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v01/views/PlayerV.js",
+							"settings":
+							{
+								"buffer_size": 1772,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1351,
+										1361
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/D/Totty/web/about_projects/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/thirdParty/paperjs/tottysVersion/Item.js",
+							"settings":
+							{
+								"buffer_size": 5815,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1304,
+										1304
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 2450.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "/D/Totty/web/about_projects/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/thirdParty/paperjs/tottysVersion/EventManager.js",
+							"settings":
+							{
+								"buffer_size": 1357,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										298,
+										298
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 8,
+							"file": "node_modules/app/index.js",
+							"settings":
+							{
+								"buffer_size": 3752,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2697,
+										2697
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 770.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 9,
+							"file": "node_modules/app/client/WS/config.json",
+							"settings":
+							{
+								"buffer_size": 2630,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										760,
+										760
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JSON.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 140.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 10,
+							"file": "node_modules/app/client/WS/generate.py",
+							"settings":
+							{
+								"buffer_size": 2220,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										840,
+										849
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"position": "0,2,3,-32145,-32000,-1,-1,1016,250,250,1127",
+			"replace":
+			{
+				"height": 62.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"inserjob",
+						"production/client/production/source/class/production/controllers/insertJob/InsertJob.js"
+					],
+					[
+						"mainscree",
+						"production/client/production/source/class/production/views/MainScreen.js"
+					],
+					[
+						"workergroup",
+						"production/client/production/source/class/production/controllers/WorkerGroup.js"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 356.0,
+			"status_bar_visible": true,
+			"window_id": 10,
+			"workspace_name": "/D/Totty/web/WaterShares/Project.sublime-project"
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/D/Totty/web/WaterShares/Project.sublime-project",
+			"/D/Totty/web/production01_server/Project.sublime-project",
+			"/C/web/production01_server/Project.sublime-project"
+		]
+	}
+}
