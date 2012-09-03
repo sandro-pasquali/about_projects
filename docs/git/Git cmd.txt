@@ -1,0 +1,8 @@
+Cancel all local changes, before "git add" and "git commit":
+git checkout -- .
+
+Save all commited files to the server:
+git push
+
+Load the lastest server files:
+git pull
