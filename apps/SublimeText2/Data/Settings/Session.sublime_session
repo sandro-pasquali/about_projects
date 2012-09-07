@@ -620,6 +620,62 @@
 				"selected_items":
 				[
 					[
+						"serve",
+						"serviceArgs"
+					],
+					[
+						"call",
+						"callback"
+					],
+					[
+						"getLast",
+						"getLastInsertedJob"
+					],
+					[
+						"dummy",
+						"dummyData"
+					],
+					[
+						"produ",
+						"product"
+					],
+					[
+						"getLa",
+						"getLastInsertedWorker"
+					],
+					[
+						"__prod",
+						"__product"
+					],
+					[
+						"service",
+						"serviceName"
+					],
+					[
+						"stepN",
+						"stepName"
+					],
+					[
+						"ski",
+						"skipJustification"
+					],
+					[
+						"pro",
+						"prepareJobArgs"
+					],
+					[
+						"tottys",
+						"tottysTests"
+					],
+					[
+						"exp",
+						"expectInstance"
+					],
+					[
+						"__test",
+						"__testContext"
+					],
+					[
 						"arg",
 						"arguments"
 					],
@@ -680,10 +736,6 @@
 						"productId"
 					],
 					[
-						"pro",
-						"productSelection"
-					],
-					[
 						"correc",
 						"correctedJobs"
 					],
@@ -698,10 +750,6 @@
 					[
 						"qu",
 						"quantityDone"
-					],
-					[
-						"produ",
-						"productInfo"
 					],
 					[
 						"getSele",
@@ -784,58 +832,19 @@
 			"buffers":
 			[
 				{
-					"file": "node_modules/production/services/jobs/_pauseOrEnd.js",
+					"file": "node_modules/production/tests/tottys/cases/services/jobs.js",
 					"settings":
 					{
-						"buffer_size": 1589,
-						"line_ending": "Windows"
+						"buffer_size": 11044,
+						"line_ending": "Windows",
+						"name": "jobs."
 					}
 				},
 				{
-					"file": "node_modules/production/models/Job.js",
+					"file": "node_modules/production/tests/tottys/_environments/DefaultEnvironment.js",
 					"settings":
 					{
-						"buffer_size": 6156,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "node_modules/production/ServerManager.js",
-					"settings":
-					{
-						"buffer_size": 4493,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "node_modules/production/services/products/insert.js",
-					"settings":
-					{
-						"buffer_size": 1234,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "node_modules/production/tests/tottys/cases/services/jobs/start.js",
-					"settings":
-					{
-						"buffer_size": 9582,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "node_modules/production/services/jobs/_startOrContinue.js",
-					"settings":
-					{
-						"buffer_size": 5915,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "node_modules/production/models/Worker.js",
-					"settings":
-					{
-						"buffer_size": 2849,
+						"buffer_size": 11594,
 						"line_ending": "Windows"
 					}
 				}
@@ -884,23 +893,71 @@
 			},
 			"file_history":
 			[
-				"/C/web/production01_server/node_modules/production/models/Serial.js",
-				"/C/web/production01_server/node_modules/production/models/User.js",
+				"/C/web/production01_server/node_modules/production/tests/tottys/_environmentValidators/AfterJobSkipped.js",
+				"/C/web/production01_server/node_modules/production/tottysTests/TestSummary.js",
+				"/C/web/production01_server/node_modules/production/index.js",
+				"/C/web/production01_server/node_modules/production/tottysTests/Expect.js",
+				"/C/web/production01_server/node_modules/production/services/jobs/_startOrContinue.js",
 				"/C/web/production01_server/node_modules/production/models/Worker.js",
+				"/C/web/production01_server/node_modules/production/models/Job.js",
+				"/C/web/production01_server/node_modules/production/tests/tottys/_environments/DefaultEnvironment.js",
+				"/C/web/production01_server/node_modules/production/services/jobs/skip.js",
+				"/C/web/production01_server/node_modules/production/tottysTests/StepRunner.js",
+				"/C/web/production01_server/node_modules/production/tottysTests/TestContext.js",
+				"/C/web/production01_server/node_modules/production/node_modules/session-mongoose/node_modules/connect/node_modules/qs/test/browser/expect.js",
+				"/C/web/production01_server/node_modules/production/services/jobs/continue.js",
+				"/C/web/production01_server/node_modules/production/tests/tottys/_environmentValidators/AfterJobContinued.js",
+				"/C/web/production01_server/node_modules/production/tests/tottys/_environmentValidators/AfterJobEnded.js",
+				"/C/web/production01_server/node_modules/production/services/jobs/start.js",
+				"/C/web/production01_server/node_modules/production/tests/tottys/_environmentValidators/AfterJobPaused.js",
+				"/C/web/production01_server/node_modules/production/tests/tottys/_generic/preparePauseJobArgs.js",
+				"/C/web/production01_server/node_modules/production/services/jobs/pause.js",
+				"/C/web/production01_server/node_modules/production/services/jobs/_pauseOrEnd.js",
+				"/C/web/production01_server/node_modules/production/services/jobs/insert.js",
+				"/C/web/production01_server/node_modules/production/tests/tottys/_generic/prepareStartJobArgs.js",
+				"/C/web/production01_server/node_modules/production/tests/tottys/_environmentValidators/AfterJobStarted.js",
+				"/C/web/production01_server/node_modules/production/tests/tottys/_environmentValidators/AfterJobInserted.js",
+				"/C/web/production01_server/node_modules/production/tests/tottys/_generic/reloadWorker.js",
+				"/C/web/production01_server/node_modules/production/tests/tottys/_environmentValidators.js",
+				"/C/web/production01_server/node_modules/production/tests/tottys/_environmentValidators/AfterJobInsertedEV.js",
+				"/C/web/production01_server/node_modules/production/tests/tottys/_generic/insertWorker.js",
+				"/C/web/production01_server/node_modules/production/tests/tottys/_generic/prepareInsertJobArgs.js",
+				"/C/web/production01_server/node_modules/production/tests/tottys/_generic/dropDatabase.js",
+				"/C/web/production01_server/node_modules/production/tests/tottys/_generic/insertJob.js",
+				"/C/web/production01_server/node_modules/production/tests/tottys/_generic/insertProduct.js",
+				"/C/web/production01_server/node_modules/production/tottysTests/TestFileWrapper.js",
+				"/C/web/production01_server/node_modules/production/utils/S.js",
+				"/C/web/production01_server/node_modules/production/tests/tottys/_generic/prepareSkipJobArgs.js",
+				"/C/web/production01_server/node_modules/production/tests/tottys/_generic/skipJob.js",
+				"/C/web/production01_server/node_modules/production/models/index.js",
+				"/C/web/production01_server/node_modules/production/tests/tottys/_generic/prepareEndJobArgs.js",
+				"/C/web/production01_server/node_modules/production/services/jobs/end.js",
+				"/C/web/production01_server/node_modules/production/tests/tottys/_generic/endJob.js",
+				"/C/web/production01_server/node_modules/production/tests/tottys/_generic/prepareContinueJobArgs.js",
+				"/C/web/production01_server/node_modules/production/tests/tottys/_generic/startJob.js",
+				"/C/web/production01_server/node_modules/production/tests/tottys/_generic/continueJob.js",
+				"/C/web/production01_server/node_modules/production/tests/tottys/_generic/pauseJob.js",
+				"/C/web/production01_server/node_modules/production/tests/tottys/_helpers/runService.js",
+				"/C/web/production01_server/node_modules/production/tests/tottys/cases/services/jobs/start.js",
+				"/C/web/production01_server/node_modules/production/tests/tottys/_generic/prepareJobArgs.js",
+				"/C/web/production01_server/node_modules/production/models/Serial.js",
+				"/C/web/production01_server/node_modules/production/services/workers/insert.js",
+				"/C/web/production01_server/node_modules/production/ServerManager.js",
+				"/C/web/production01_server/node_modules/production/ServiceManager.js",
+				"/C/web/production01_server/node_modules/production/tests/tottys/cases/services/workers/insert.js",
+				"/C/web/production01_server/node_modules/production/tottysTests/TestFolder.js",
+				"/C/web/production01_server/node_modules/production/services/tests/runAll.js",
+				"/C/web/production01_server/node_modules/production/tottysTests/Test.js",
+				"/C/web/production01_server/package.json",
+				"/C/web/production01_server/node_modules/production/string/utils.js",
+				"/C/web/production01_server/node_modules/production/services/products/insert.js",
+				"/C/web/production01_server/node_modules/production/models/User.js",
 				"/C/web/production01_server/node_modules/production/models/Database.js",
 				"/C/web/production01_server/node_modules/production/models/Correction.js",
 				"/C/web/production01_server/node_modules/production/models/Product.js",
-				"/C/web/production01_server/node_modules/production/services/jobs/_startOrContinue.js",
-				"/C/web/production01_server/node_modules/production/services/jobs/insert.js",
-				"/C/web/production01_server/node_modules/production/index.js",
 				"/C/web/production01_server/node_modules/production/services/workers/getById.js",
 				"/C/web/production01_server/node_modules/production/services/products/getById.js",
 				"/C/web/production01_server/node_modules/production/services/workers/getById",
-				"/C/web/production01_server/node_modules/production/ServiceManager.js",
-				"/C/web/production01_server/node_modules/production/tottysTests/TestSummary.js",
-				"/C/web/production01_server/node_modules/production/tottysTests/TestFolder.js",
-				"/C/web/production01_server/node_modules/production/tottysTests/TestFileWrapper.js",
-				"/C/web/production01_server/node_modules/production/tests/tottys/cases/services/jobs/start.js",
 				"/D/Totty/web/production01_server/node_modules/production/index.js",
 				"/D/Totty/web/production01_server/node_modules/production/client/production/source/class/production/RequestManager.js",
 				"/D/Totty/web/production01_server/node_modules/production/modelListeners/job/beforePause.js",
@@ -915,10 +972,7 @@
 				"/D/Totty/web/production01_server/node_modules/production/client/otherExamples/GrooveShark/app-js/app.js",
 				"/C/web/production01_server/node_modules/production/modelListeners/job/beforeContinue.js",
 				"/C/web/production01_server/node_modules/production/modelListeners/job/pause.js",
-				"/C/web/production01_server/node_modules/production/services/jobs/_pauseOrEnd.js",
 				"/C/web/production01_server/node_modules/production/serviceListeners/jobs/pause.js",
-				"/C/web/production01_server/node_modules/production/services/jobs/pause.js",
-				"/C/web/production01_server/node_modules/production/models/index.js",
 				"/C/web/production01_server/node_modules/production/client/production/source/class/production/components/WorkerGroupC.js",
 				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/MainScreenV.js",
 				"/C/web/production01_server/node_modules/production/client/production/source/class/production/models/table/Job.js",
@@ -928,7 +982,6 @@
 				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/ProductionV.js",
 				"/C/web/production01_server/node_modules/production/services/jobs/get.js",
 				"/C/web/production01_server/node_modules/production/client/production/source/class/production/models/table/BaseRemote.js",
-				"/C/web/production01_server/node_modules/production/models/Job.js",
 				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/ProductSelectionV.js",
 				"/C/web/production01_server/node_modules/production/client/production/source/class/production/Application.js",
 				"/C/web/production01_server/node_modules/production/client/production/source/class/production/components/corrections/CorrectionsListC.js",
@@ -967,51 +1020,7 @@
 				"/C/web/production01_server/node_modules/production/client/production/source/class/production/components/corrections/ConfirmCorrectionC.js",
 				"/C/web/production01_server/node_modules/production/client/production/source/class/production/models/table/JobsGrouppedByWorkerSimple.js",
 				"/C/web/production01_server/node_modules/production/services/corrections/insert.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/ComponentFactory.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/CopyToClipboard.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/components/ProductSelectionC.js",
-				"/C/web/production01_server/node_modules/production/services/jobs/getAll.js",
-				"/C/web/production01_server/node_modules/production/services/corrections/get.js",
-				"/C/web/production01_server/node_modules/production/services/_get.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/components/__empty.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/components/corrections/CorrectionsList.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/SaveProductV.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/WindowManager.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/components/RemoveJobC.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/components/InsertJobC.js",
-				"/C/web/production01_server/node_modules/production/client/production/build/script/production.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/components/ControlPanelC.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/components/products/EditProductC.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/products/EditProductV.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/components/SaveProductC.js",
-				"/C/web/production01_server/node_modules/production/services/products/edit.js",
-				"/C/web/production01_server/node_modules/production/services/products/save.js",
-				"/C/web/production01_server/node_modules/production/services/products/insert.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/RequestManager.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/components/InsertProductC.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/InsertProductV.js",
-				"/C/web/production01_server/node_modules/production/services/jobs/delete.js",
-				"/C/web/production01_server/_run/SublimeText2/Data/Packages/User/Default (Windows).sublime-keymap",
-				"/C/web/production01_server/node_modules/production/services/jobs/order.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/SelectDatabase.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/RemoveJobV.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/InsertJobV.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/components/lists/JobsListC.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/components/lists/ProductsListC.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/components/lists/WorkersListC.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/components/lists/DeferredJobsListC.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/components/lists/ActiveJobsListC.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/lists/JobsListV.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/controllers/ControlPanelC.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/controllers/InsertProductC.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/insertJob/ProductSelection.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/InsertWorker.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/jobsList/JobsListV.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/BaseListV.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/jobsList/TodoJobsListV.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/jobsList/DeferredJobsListV.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/WorkersListV.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/ControlPanelV.js"
+				"/C/web/production01_server/node_modules/production/client/production/source/class/production/ComponentFactory.js"
 			],
 			"find":
 			{
@@ -1019,7 +1028,7 @@
 			},
 			"find_in_files":
 			{
-				"height": 0.0,
+				"height": 88.0,
 				"where_history":
 				[
 					"<open folders>",
@@ -1031,6 +1040,82 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"try{",
+					"runService",
+					"__replaceWorkerInArray",
+					"console.log",
+					"validateEnvironment",
+					"stepNumber",
+					",\n                ",
+					"\n                ",
+					",\n                ",
+					",\n                \n                ",
+					",\n                ",
+					"expect(",
+					",\n                ",
+					"expect(",
+					"__testSummary",
+					"__testContext",
+					"__getValueFromTargetPath",
+					"__runNextStep",
+					"__getTargetFromTargetPath",
+					"skip",
+					"getEvents",
+					"type",
+					"jobSerials",
+					"requestedByType",
+					"jobQuantity",
+					"productCode",
+					"workerName",
+					" =",
+					"var ",
+					"\n            ,argsStepName: 'prepareInsertJobArgs'",
+					"first",
+					"prepareJobArgs",
+					"prepareStartJobArgs",
+					"__closeActiveTimeFrame",
+					"__setPauseProperties",
+					"pause",
+					"__setState",
+					"__setPauseProperties",
+					"pause",
+					"__setPauseProperties",
+					"__closeActiveTimeFrame",
+					"__setPauseProperties",
+					"args is not defined",
+					"The worker is not working on the same job as the job paused",
+					"reloadWorker",
+					"__stepsLength",
+					"toNotExist",
+					"__dropDatabase",
+					"runService",
+					"TestContext",
+					" = function",
+					"TestContext.prototype.",
+					"TestSummary",
+					" = function",
+					"TestSummary.prototype.",
+					" = function",
+					"StepRunner.prototype.",
+					" = function",
+					"new TestFileWrapper",
+					"TestFileWrapper",
+					"TestContext",
+					"c(",
+					"TestFileWrapper.prototype.",
+					" =",
+					"__dateStarted",
+					"'",
+					"exports",
+					"nextStep",
+					"Job",
+					"err",
+					"debug",
+					"productSerials",
+					"__setState",
+					"getStateIdByState",
+					"Insert job now doesnt return all the not done jobs, but returns the inserted job",
+					"addToJob",
 					"job",
 					"schemaOptions",
 					"requestedByType",
@@ -1082,83 +1167,7 @@
 					"__allowSameJobId",
 					"__newOrUpdatedJob",
 					"__notTheSameJobOrASpecialAllowSameExists",
-					"__allowSameJobId",
-					"__allowSameJobOnce",
-					"__allowSameJobIdOnMainScreenOnce",
-					"__refreshJobListsAndSelectJobByIdOnDeferredJobsList",
-					"__afterJobStarted",
-					"jobStarted",
-					"__startCurrentJob",
-					"jobActionFailed",
-					"__refreshAllData",
-					"__afterJobContinued",
-					"todoJobsSimpleModel",
-					"getTodoJobsSimpleModel",
-					"__workersList",
-					"__returnToDefaultFromLastState",
-					"model",
-					"__getDeferredJobsModel",
-					"production.models.table",
-					"lists.JobsList",
-					"lists.DeferredJobsList",
-					"componentFactory",
-					"workerModel",
-					"workersList",
-					"model",
-					"lists.ActiveJobsList",
-					"ActiveJobsList",
-					"alert('no model')",
-					"ProductList",
-					"workerState",
-					"workersModel",
-					"__createCurrentWorkerViews",
-					"DeferredJobsList",
-					"BaseList",
-					"columnVisibility",
-					"ActiveJobsList",
-					"_selectionModel",
-					"__enterApplication",
-					"forWorker._id",
-					"CorrectionsList",
-					"CorrectionsListC",
-					"model",
-					"getFilters",
-					"modelColumns",
-					"model",
-					"modelColumns",
-					"setState:",
-					"__afterShowNotCorrectedChanged",
-					"state",
-					"						\n",
-					"setCorrectiOn",
-					"setSelectedCorrection",
-					"__afterProductIdChanged",
-					"checkJobs",
-					"__openWindow",
-					"__updateStartButton",
-					"__reflectStateChangesInUI",
-					"__enterState",
-					"__applyJobDataToUI",
-					"__updateSerialsTable",
-					"serialsInput",
-					"__afterRowDataChanged",
-					"__modelIsLoading",
-					"__setSelectionSchedule",
-					"reloadData",
-					"__reloadDataOnModel",
-					"__setSelectionSchedule",
-					"__afterJobStarted",
-					"__modelIsLoading",
-					"selectJobId",
-					"__setSelectionSchedule",
-					"__afterJobStarted",
-					"jobStarted",
-					"__startCurrentJob",
-					"__afterStartJobRequested",
-					"__startCurrentJob",
-					"jobActionRequested",
-					"__startCurrentJob",
-					"__afterStartJobRequested"
+					"__allowSameJobId"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -1166,6 +1175,27 @@
 				"regex": false,
 				"replace_history":
 				[
+					", function(expect){\n, function(expect){\n                expect(",
+					", function(expect){\n                expect(",
+					"test.add(",
+					", function(expect){\n                expect(",
+					"test.add(",
+					":",
+					",",
+					"",
+					"second",
+					"prepareInsertJobArgs",
+					": function",
+					",",
+					": function",
+					",",
+					": function",
+					",",
+					": function",
+					",",
+					":",
+					"\"",
+					"assignJob",
 					"else if(step ===",
 					"databaseName",
 					"setStat",
@@ -1212,185 +1242,63 @@
 			"groups":
 			[
 				{
-					"selected": 5,
+					"selected": 1,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "node_modules/production/services/jobs/_pauseOrEnd.js",
+							"file": "node_modules/production/tests/tottys/cases/services/jobs.js",
 							"settings":
 							{
-								"buffer_size": 1589,
+								"buffer_size": 11044,
 								"regions":
 								{
+									"bookmarks":
+									{
+										"flags": 144,
+										"icon": "bookmark",
+										"regions":
+										[
+											[
+												11040,
+												11040
+											]
+										],
+										"scope": "bookmarks"
+									}
 								},
 								"selection":
 								[
 									[
-										927,
-										932
+										9548,
+										9557
 									]
 								],
 								"settings":
 								{
-									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-									"translate_tabs_to_spaces": false
+									"auto_name": "jobs.",
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
 								},
 								"translation.x": 0.0,
-								"translation.y": 126.0,
+								"translation.y": 2016.0,
 								"zoom_level": 1.0
 							},
 							"type": "text"
 						},
 						{
 							"buffer": 1,
-							"file": "node_modules/production/models/Job.js",
+							"file": "node_modules/production/tests/tottys/_environments/DefaultEnvironment.js",
 							"settings":
 							{
-								"buffer_size": 6156,
+								"buffer_size": 11594,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										2218,
-										2227
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 1428.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"file": "node_modules/production/ServerManager.js",
-							"settings":
-							{
-								"buffer_size": 4493,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										4124,
-										4124
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 1806.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 3,
-							"file": "node_modules/production/services/products/insert.js",
-							"settings":
-							{
-								"buffer_size": 1234,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										949,
-										949
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 4,
-							"file": "node_modules/production/tests/tottys/cases/services/jobs/start.js",
-							"settings":
-							{
-								"buffer_size": 9582,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										2020,
-										2025
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 840.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 5,
-							"file": "node_modules/production/services/jobs/_startOrContinue.js",
-							"settings":
-							{
-								"buffer_size": 5915,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										4474,
-										4474
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 1606.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 6,
-							"file": "node_modules/production/models/Worker.js",
-							"settings":
-							{
-								"buffer_size": 2849,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										849,
-										849
+										0,
+										0
 									]
 								],
 								"settings":
@@ -1400,7 +1308,7 @@
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 0.0,
+								"translation.y": 252.0,
 								"zoom_level": 1.0
 							},
 							"type": "text"
@@ -1439,7 +1347,7 @@
 				]
 			},
 			"menu_visible": true,
-			"position": "0,2,3,-32152,-32000,-1,-1,818,286,52,1163",
+			"position": "0,2,3,-32152,-32000,-1,-1,819,201,53,1078",
 			"replace":
 			{
 				"height": 62.0
