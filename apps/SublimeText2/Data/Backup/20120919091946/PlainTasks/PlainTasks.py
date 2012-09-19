@@ -53,9 +53,6 @@ class NewCommand(SublimeTasksBase):
 
 class CompleteCommand(SublimeTasksBase):
     def runCommand(self, edit):
-        original = [r for r in self.view.sel()]
-        done_line_end = ' %s %s' % (self.done_tag, datetime.now().strftime(self.date_format))
-        offset = len(done_line_end)
         for region in self.view.sel():
             line = self.view.line(region)
             line_contents = self.view.substr(line).rstrip()
@@ -66,19 +63,13 @@ class CompleteCommand(SublimeTasksBase):
             if open_matches:
                 grps = open_matches.groups()
                 print grps
-                self.view.insert(edit, line.end(), done_line_end)
+                self.view.insert(edit, line.end(), ' %s %s' % (self.done_tag, datetime.now().strftime(self.date_format)))
                 replacement = u'%s%s %s' % (grps[0], self.done_tasks_bullet, grps[1].rstrip())
                 self.view.replace(edit, line, replacement)
             elif done_matches:
                 grps = done_matches.groups()
                 replacement = u'%s%s %s' % (grps[0], self.open_tasks_bullet, grps[1].rstrip())
                 self.view.replace(edit, line, replacement)
-                offset = -offset
-        self.view.sel().clear()
-        for ind, pt in enumerate(original):
-            ofs = ind * offset
-            new_pt = sublime.Region(pt.a + ofs, pt.b + ofs)
-            self.view.sel().add(new_pt)
 
 
 class ArchiveCommand(SublimeTasksBase):

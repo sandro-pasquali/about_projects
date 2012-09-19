@@ -6,3 +6,11 @@ git push
 
 Load the lastest server files:
 git pull
+
+Make tags
+git tag v0.0.1
+
+Fix issues by commit (where 44 is the number of the issue)
+git commit -a -m"fix #44"
+
+
