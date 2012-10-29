@@ -32,9 +32,16 @@ class NewCommand(SublimeTasksBase):
                 self.view.replace(edit, line, line_contents)
             elif 'header' in current_scope:
                 header = re.match('^(\s*)\S+', self.view.substr(line))
-                grps = header.groups()
-                line_contents = self.view.substr(line) + '\n' + grps[0] + ' ' + self.open_tasks_bullet + ' '
+                if header:
+                    grps = header.groups()
+                    line_contents = self.view.substr(line) + '\n' + grps[0] + ' ' + self.open_tasks_bullet + ' '
+                else:
+                    line_contents = ' ' + self.open_tasks_bullet + ' '
                 self.view.replace(edit, line, line_contents)
+                end = self.view.sel()[0].b
+                pt = sublime.Region(end, end)
+                self.view.sel().clear()
+                self.view.sel().add(pt)
             else:
                 has_space = re.match('^(\s+)(.*)', self.view.substr(line))
                 if has_space:
@@ -60,12 +67,11 @@ class CompleteCommand(SublimeTasksBase):
             line = self.view.line(region)
             line_contents = self.view.substr(line).rstrip()
             rom = '^(\s*)' + re.escape(self.open_tasks_bullet) + '\s*(.*)$'
-            rdm = '^(\s*)' + re.escape(self.done_tasks_bullet) + '\s*([^\b]*?)\s*(%s)?[\(\)\d\.:\-/ ]*\s*$' % self.done_tag
+            rdm = '^(\s*)' + re.escape(self.done_tasks_bullet) + '\s*([^\b]*?)\s*(%s)?[\(\)\d\w,\.:\-/ ]*\s*$' % self.done_tag
             open_matches = re.match(rom, line_contents)
             done_matches = re.match(rdm, line_contents)
             if open_matches:
                 grps = open_matches.groups()
-                print grps
                 self.view.insert(edit, line.end(), done_line_end)
                 replacement = u'%s%s %s' % (grps[0], self.done_tasks_bullet, grps[1].rstrip())
                 self.view.replace(edit, line, replacement)

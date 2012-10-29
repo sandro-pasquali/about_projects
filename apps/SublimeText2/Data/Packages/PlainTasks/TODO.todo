@@ -1,15 +1,34 @@
 TODO:
+ ☐ margin before task bullet should be customizable @improvement
+ ☐ make links clickable and highlighted @feature
+ ☐ include in the task the date and time of creation (using a shortcut key) @feature
+    Maybe after mark the task as @done calculate (the end time - start time) would be so great!
+ ☐ taskpaper compatibility @improvement
  ☐ in archive list, prefix task with project name, add specific scope for project prefixes @feature
  ☐ in archive list, add date in front of done tasks (e.g. 2012-09-06 14:41 Ξ some task) @feature
- ☐ export to html/ preview in browser (look at markdown preview) @feature
+ ☐ export to html/ preview in browser @feature
  ☐ accept multiple bullet types at the same time @feature
  ☐ @today ✭ᴛᴏᴅᴀʏ tags @feature
- ☐ make links clickable and highlighted @feature
  ☐ make gif animation @docs
  ☐ say why it's called opinionated @docs
- ☐ mouse click support to fold a project @feature
+ ☐ mouse interaction @feature
+ ☐ other themes?
+ ☐ done tag off by default?
+ ☐ indenting notes below tasks?
+ ☐ marking all nested tasks as done should mark the parent as done?
+
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 Archive:
+ ✔ add link to repo @documentation @done (12-09-23 11:36)
+ ✔ tags with () @bug @done (12-09-23 11:28)
+ ✔ can not make a new task on empty line @bug @important @done (12-09-23 11:26)
+ ✔ improved support for custom date format @done (Thursday September 20, 2012 11:41 PM)
+ ✔ removed the color of tags in done tasks @improvement @done (12-09-20 23:25)
+ ✔ png images for linux @done (12-09-20 22:58)
+ ✔ tags with dot can not be highlighted @bug @1.2 @done (12-09-20 22:58)
+ ✔ can not add multiple tags anymore! WTF! @bug @done (12-09-20 22:46)
+ ✔ adding ☑ to the complete_bullet list @done (12-09-20 22:29)
+ ✔ removed mouse interation for now @bug @done (12-09-19 23:39)
  ✔ do not move the position of cursor when pressing cmd+D @improvement @done (12-09-18 22:05)
  ✔ mouse click support to toggle a task state @feature @done (12-09-18 13:32)
  ✔ write better readme @done (12-09-11 14:09)
@@ -24,7 +43,7 @@ Archive:
  ✔ in archive list, indented task should be unindented @bug @done (12-09-08 08:25)
  ✔ more tests on linux and windows @later @done (12-09-07 22:05)
  ✔ tags should not be italic @bug @done (12-09-07 22:05)
- ✔ make @done tag optional @feature  (12-09-07 15:54)
+ ✔ make done tag optional @feature @done (12-09-07 15:54)
  ✔ make date labling optional @feature @done (12-09-07 14:56)
  ✔ now that date format is optional: just @done should be suffice @bug @done (12-09-07 14:56)
  ✔ being able to work with done tasks with no @done and date at the end @improvement @done (12-09-07 14:56)
