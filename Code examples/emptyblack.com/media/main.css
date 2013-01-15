@@ -1,0 +1,53 @@
+html,body {
+		background-color: #000;
+		color: #444;
+		font-family: 'lucida grande', helvetica, arial, sans-serif;
+		margin: 0;
+		padding: 0;
+		font-size: 14px;
+}
+
+a { color:#444; text-decoration:none; }
+a:hover { border-bottom: none; }
+
+.homepage-title {
+    font-size:50px;
+    color:#111;
+}
+
+.pretty_canvas {
+		position: absolute;
+		left: 0;
+		right: 0;
+		top: 0;
+		bottom: 0;
+		margin: auto;
+}
+
+.trailer-container {
+		position: absolute;
+		left: 0;
+		right: 0;
+		top: 0;
+		bottom: 0;
+    width:640px;
+    height:500px;
+		margin: auto;
+}
+
+.play-link {
+    text-align:center;
+    font-size:16px;
+}
+
+
+.footer {
+    position:absolute;
+		left: 0;
+		right: 0;
+    bottom:0;
+    text-align:center;
+    margin-bottom:10px;
+    width:100%;
+    font-size:12px;
+}

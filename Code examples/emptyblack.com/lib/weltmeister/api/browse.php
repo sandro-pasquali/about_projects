@@ -1,0 +1,1 @@
+{"parent":false,"dirs":["lib","media","tools"],"files":["EmptyBlack.app.zip","README.md","favicon.gif","favicon.ico","favicon.png","game.min.js","index.html","lib.min.js","make.sh","play.html","play_iframe.html","server.py","weltmeister.html"]}

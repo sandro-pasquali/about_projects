@@ -1,6 +1,11 @@
 {
 	"folder_history":
 	[
+		"/D/Totty/web/about_projects/Code examples/emptyblack.com",
+		"/D/Books/Google Drive/ISPG/3 semestre/BDD/2M/Trabalho/Queries",
+		"/D/Totty/web/WaterShares/node_modules/app/client/WS/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools",
+		"/D/Totty/web/WaterShares/node_modules/app/client/WS/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/thirdParty/paperjs/tottysVersion",
+		"/D/Totty/web/WaterShares/node_modules/app/client/WS/qooxdoo-contrib",
 		"/D/Totty/web",
 		"/D/Totty/web/about_projects/qooxdoo-contrib"
 	],
@@ -728,12 +733,108 @@
 				"selected_items":
 				[
 					[
-						"player",
-						"playerDesign"
+						"bu",
+						"buildingView"
+					],
+					[
+						"entity",
+						"entityViewMatch"
+					],
+					[
+						"ex",
+						"exportToJson"
+					],
+					[
+						"getA",
+						"getAbsoluteScale"
+					],
+					[
+						"roun",
+						"__currentRound"
+					],
+					[
+						"proper",
+						"propertyName"
+					],
+					[
+						"dices",
+						"dicesRolled"
+					],
+					[
+						"curr",
+						"currentPlayerPosition"
+					],
+					[
+						"nP",
+						"nProperties"
+					],
+					[
+						"index",
+						"indexOf"
+					],
+					[
+						"dic",
+						"diceB"
+					],
+					[
+						"dice",
+						"diceA"
+					],
+					[
+						"get",
+						"__getCurrentPlayer"
+					],
+					[
+						"chil",
+						"children"
+					],
+					[
+						"zin",
+						"zindexGroup"
+					],
+					[
+						"_o",
+						"_objectsZindex"
+					],
+					[
+						"pack",
+						"packageName"
+					],
+					[
+						"bigge",
+						"biggestZindex"
+					],
+					[
+						"image",
+						"imageData"
+					],
+					[
+						"resour",
+						"resourceLoader"
+					],
+					[
+						"res",
+						"resourceLoader"
+					],
+					[
+						"th",
+						"throw"
+					],
+					[
+						"__get",
+						"__getScaledSteps"
+					],
+					[
+						"date",
+						"dateEnd"
 					],
 					[
 						"child",
-						"childB"
+						"__children"
+					],
+					[
+						"player",
+						"playerDesign"
 					],
 					[
 						"getAb",
@@ -760,24 +861,8 @@
 						"ownershipGraphic"
 					],
 					[
-						"proper",
-						"properties"
-					],
-					[
-						"image",
-						"imagePaperRaster"
-					],
-					[
 						"pla",
 						"playerBuyRequest"
-					],
-					[
-						"dice",
-						"dicesValue"
-					],
-					[
-						"dic",
-						"dicesValue"
 					],
 					[
 						"hit",
@@ -908,10 +993,6 @@
 						"modelColumns"
 					],
 					[
-						"get",
-						"getView"
-					],
-					[
 						"clas",
 						"classPathFromPrefix"
 					],
@@ -972,31 +1053,39 @@
 			"buffers":
 			[
 				{
-					"file": "node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v01/components/BoardC.js",
+					"file": "node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v03/game/Game.js",
 					"settings":
 					{
-						"buffer_size": 13824,
+						"buffer_size": 7179,
 						"line_ending": "Windows"
 					}
 				},
 				{
-					"file": "node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v01/views/BoardV.js",
+					"file": "node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v03/game/entities/UserInterface.js",
 					"settings":
 					{
-						"buffer_size": 15288,
+						"buffer_size": 2136,
 						"line_ending": "Windows"
 					}
 				},
 				{
-					"file": "node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v01/components/PropertyC.js",
+					"file": "node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v03/game/entities/ContextMenu.js",
 					"settings":
 					{
-						"buffer_size": 7619,
+						"buffer_size": 747,
 						"line_ending": "Windows"
 					}
 				},
 				{
-					"file": "node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v01/views/PropertyV.js",
+					"file": "node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v03/view/entities/UserInterface.js",
+					"settings":
+					{
+						"buffer_size": 1689,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v03/view/entities/ContextMenu.js",
 					"settings":
 					{
 						"buffer_size": 2779,
@@ -1004,58 +1093,18 @@
 					}
 				},
 				{
-					"file": "node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v01/components/PlayerC.js",
+					"file": "node_modules/app/client/WS/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/Tcanvas/items/Label.js",
 					"settings":
 					{
-						"buffer_size": 1540,
+						"buffer_size": 1168,
 						"line_ending": "Windows"
 					}
 				},
 				{
-					"file": "node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v01/views/PlayerV.js",
+					"file": "node_modules/app/client/WS/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/Tcanvas/items/Item.js",
 					"settings":
 					{
-						"buffer_size": 1772,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/D/Totty/web/about_projects/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/thirdParty/paperjs/tottysVersion/Item.js",
-					"settings":
-					{
-						"buffer_size": 5815,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/D/Totty/web/about_projects/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/thirdParty/paperjs/tottysVersion/EventManager.js",
-					"settings":
-					{
-						"buffer_size": 1357,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "node_modules/app/index.js",
-					"settings":
-					{
-						"buffer_size": 3752,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "node_modules/app/client/WS/config.json",
-					"settings":
-					{
-						"buffer_size": 2630,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "node_modules/app/client/WS/generate.py",
-					"settings":
-					{
-						"buffer_size": 2220,
+						"buffer_size": 5730,
 						"line_ending": "Windows"
 					}
 				}
@@ -1104,134 +1153,134 @@
 			},
 			"file_history":
 			[
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v03/game/actionSequences/Build.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v03/game/actionSequences/BuildingAction.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/Tcanvas/items/Rectangle.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/Tcanvas/View.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/Tcanvas/items/Group.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/Tcanvas/items/Item.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/Tcanvas/items/Label.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v03/view/entities/BuildingBlueprint.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/Tcanvas/renders/basic/Render.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/Tcanvas/HitTester.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v03/view/entities/BuildingInstance.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v03/game/entities/BuildingBlueprint.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/Tcanvas/DrawingProcedure.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/Tcanvas/items/Text.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v03/game/entities/Environment.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v03/view/entities/Environment.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v03/view/Main.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v03/game/entities/ContextMenu.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v03/game/entities/BuildingInstance.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v03/game/entities/UserInterface.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v03/game/entities/CurrentPlayer.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v03/view/entities/UserInterface.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v03/game/Game.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v03/game/entities/Player.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v03/server/Server.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v03/view/entities/Tile.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v03/view/entities/UI/BuildingBlueprint.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v03/game/event/BuildingBlueprint.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v03/view/entities/Map.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v03/game/entities/Map.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v03/GameInitializer.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v03/game/entities/Tile.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v03/game/EnvironmentFactory.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v03/GameController.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v03/game/entities/Building.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v03/game/event/Tile.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/Application.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v03/view/event/Tile.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v03/view/events/Tile.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/Tcanvas/event/CanvasMouse.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/Tcanvas/renders/FpsCounter.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/Tcanvas/items/Image.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/Tcanvas/items/Circle.js",
+				"/D/Totty/web/about_projects/Code examples/emptyblack.com/lib/game/main.js",
+				"/D/Totty/web/about_projects/Code examples/emptyblack.com/lib/plugins/box2d/game.js",
+				"/D/Totty/web/about_projects/Code examples/emptyblack.com/lib/game/entities/human.js",
+				"/D/Totty/web/about_projects/Code examples/emptyblack.com/lib/impact/entity.js",
+				"/D/Totty/web/about_projects/Code examples/emptyblack.com/lib/impact/animation.js",
+				"/D/Totty/web/about_projects/Code examples/emptyblack.com/lib/impact/system.js",
+				"/D/Totty/web/about_projects/Code examples/emptyblack.com/lib/impact/game.js",
+				"/D/Totty/web/about_projects/Code examples/emptyblack.com/lib/game/levels/a.js",
+				"/D/Totty/web/about_projects/Code examples/emptyblack.com/play.html",
+				"/D/Totty/web/about_projects/Code examples/emptyblack.com/lib/impact/impact.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v02/game/model/Game.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v02/game/model/Round.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v02/game/model/Player.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v02/game/model/Autoplay.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v02/game/model/properties/Property.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v02/game/model/properties/Buyable.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v02/game/model/boards/Board.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v02/game/model/boards/Islands.js",
+				"/D/Books/Google Drive/ISPG/3 semestre/BDD/2M/Trabalho/Queries/TableCreation.sql",
+				"/D/Books/Google Drive/ISPG/3 semestre/BDD/2M/Trabalho/Queries/Jobs.sql",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v02/game/model/properties/Start.js",
+				"/D/Totty/web/WaterShares/node_modules/app/index.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v02/game/model/Dices.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v02/game/view/Main.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v02/game/GameController.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v02/game/model/gameStates/None.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v02/game/model/facades/RoundFacade.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v02/game/model/gameStates/Initializating.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v02/game/utils/AsyncQueue.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v02/game/model/Property.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_DefaultTemplate.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v02/game/model/Dice.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/Tcanvas/event/Click.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v01/views/BoardV.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/resourceLoader/ResourceLoader.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/utils/StepRunner.js",
+				"/D/Books/Google Drive/ISPG/3 semestre/BDD/2M/Trabalho/Queries/Articles.sql",
+				"/D/Books/Google Drive/ISPG/3 semestre/BDD/2M/Trabalho/Queries/insertJob.sql",
+				"/D/Books/Google Drive/ISPG/3 semestre/BDD/2M/Trabalho/Queries/insertArticle.sql",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/thirdParty/paperjs/tottysVersion/EventManager.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/Tcanvas/ResourceLoader.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/thirdParty/paperjs/tottysVersion/Image.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/Tcanvas/DrawInfoData.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/thirdParty/paperjs/tottysVersion/Rectangle.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/Tcanvas/readme.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/Tcanvas/readme.js2",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v01/components/PropertyC.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/Tcanvas/readme.txt",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v01/components/BoardC.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v01/views/PropertyV.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/thirdParty/paperjs/tottysVersion/Item.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/thirdParty/paperjs/tottysVersion/Project.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/thirdParty/paperjs/tottysVersion/Group.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/thirdParty/paperjs/Paper.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v01/views/PlayerV.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/thirdParty/paperjs/tottysVersion/Label.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v01/views/GameV.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/thirdParty/paperjs/tottysVersion/Circle.js",
+				"/D/Totty/web/about_projects/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/thirdParty/paperjs/tottysVersion/Item.js",
+				"/D/Totty/web/about_projects/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/thirdParty/paperjs/tottysVersion/Group.js",
+				"/D/Totty/web/about_projects/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/thirdParty/paperjs/tottysVersion/Project.js",
 				"/D/Totty/web/about_projects/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/thirdParty/paperjs/tottysVersion/EventManager.js",
+				"/D/Totty/web/about_projects/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/thirdParty/paperjs/tottysVersion/Circle.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v01/bank/Bank.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v01/components/PlayerC.js",
+				"/D/Totty/web/about_projects/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/thirdParty/paperjs/tottysVersion/ItemContext.js",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/generate.py",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/qooxdoo-contrib/TottysTools/readme.txt",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/qooxdoo-contrib/TottysTools/aaa.txt",
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/config.json",
 				"/D/Totty/web/about_projects/Code examples/Pacman/Compiled/pacman.js",
 				"/D/Totty/web/about_projects/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/thirdParty/paperjs/Paper.js",
 				"/D/Totty/web/about_projects/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/thirdParty/paperjs/TottyInjectsPaper.js",
 				"/D/Totty/web/about_projects/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/thirdParty/paperjs/tottysVersion/Label.js",
 				"/D/Totty/web/about_projects/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/thirdParty/paperjs/tottysVersion/Path.js",
 				"/D/Totty/web/about_projects/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/thirdParty/paperjs/tottysVersion/Image.js",
-				"/D/Totty/web/about_projects/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/thirdParty/paperjs/tottysVersion/Group.js",
-				"/D/Totty/web/about_projects/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/thirdParty/paperjs/tottysVersion/Item.js",
-				"/D/Totty/web/about_projects/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/thirdParty/paperjs/tottysVersion/Circle.js",
 				"/D/Totty/web/about_projects/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/thirdParty/paperjs/tottysVersion/Rectangle.js",
-				"/D/Totty/web/WaterShares/node_modules/app/client/WS/config.json",
 				"/D/Totty/web/about_projects/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/thirdParty/TottyInjectsPaper.js",
 				"/D/Totty/web/about_projects/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/thirdParty/Paper.js",
-				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v01/bank/Bank.js",
-				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v01/views/GameV.js",
 				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v01/property/PropertyPositionCollection.js",
 				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v01/property/PropertyPosition.js",
 				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v01/boardEngine/BoardEngine.js",
 				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v01/bank/Account.js",
 				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v01/components/GameC.js",
-				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v01/components/BoardC.js",
-				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v01/views/PropertyV.js",
-				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v01/property/PropertyPosition.sj",
-				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v01/PropertyPositions.js",
-				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v01/ComponentFactory.js",
-				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/Application.js",
-				"/D/Totty/web/about_projects/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/ComponentFactory.js",
-				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v01/Game.js",
-				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v01/views/BoardV.js",
-				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/test/_prototypes/gameplay/v01/GameTest.js",
-				"/D/Totty/web/about_projects/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/components/Component.js",
-				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/test/_prototypes/gameplay/v01/ComponentFactory.js",
-				"/D/Totty/web/WaterShares/node_modules/app/client/WS/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/RequestManager.js",
-				"/D/Totty/web/WaterShares/node_modules/app/client/WS/qooxdoo-contrib/TottysTools/trunk/Manifest.json",
-				"/D/Totty/web/WaterShares/node_modules/app/client/WS/Manifest.json",
-				"/D/Totty/web/WaterShares/node_modules/app/index.js",
-				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/test/DemoTest.js",
-				"/D/Totty/web/WaterShares/node_modules/app/client/WS/generate.py",
-				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/test/_prototypes/gameplay/v01/Game2Test.js",
-				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/test/_prototypes/Demo2Test.js",
-				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/test/_a/Demo2Test.js",
-				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/test/Demo2Test.js",
-				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/test/_prototypes/gameplay/01/GameTest.js",
-				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/01/Game.js",
-				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_DefaultTemplate.js",
-				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/index.html",
-				"/D/Totty/web/WaterShares/node_modules/app/models/index.js",
-				"/D/Totty/web/production01_server/node_modules/production/modelListeners/job/beforePause.js",
-				"/D/Totty/web/production01_server/node_modules/production/index.js",
-				"/D/Totty/web/production01_server/node_modules/production/ModelListenersManager.js",
-				"/D/Totty/web/production01_server/node_modules/production/ServiceManager.js",
-				"/D/Totty/web/production01_server/node_modules/production/models/Job.js",
-				"/D/Totty/web/production01_server/node_modules/production/services/jobs/_pauseOrEnd.js",
-				"/D/Totty/web/production01_server/node_modules/production/client/otherExamples/GrooveShark/tier1-js/tier1.js",
-				"/D/Totty/web/production01_server/node_modules/production/services/jobs/pause.js",
-				"/D/Totty/web/production01_server/node_modules/production/client/production/source/class/production/ComponentFactory.js",
-				"/D/Totty/web/production01_server/node_modules/production/client/production/source/class/production/models/table/BaseRemote.js",
-				"/D/Totty/web/production01_server/node_modules/production/client/otherExamples/GrooveShark/app-js/app.js",
-				"/C/web/production01_server/node_modules/production/modelListeners/job/beforeContinue.js",
-				"/C/web/production01_server/node_modules/production/modelListeners/job/pause.js",
-				"/C/web/production01_server/node_modules/production/services/jobs/_pauseOrEnd.js",
-				"/C/web/production01_server/node_modules/production/serviceListeners/jobs/pause.js",
-				"/C/web/production01_server/node_modules/production/services/jobs/_startOrContinue.js",
-				"/C/web/production01_server/node_modules/production/services/jobs/insert.js",
-				"/C/web/production01_server/node_modules/production/models/Worker.js",
-				"/C/web/production01_server/node_modules/production/services/jobs/pause.js",
-				"/C/web/production01_server/node_modules/production/models/index.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/components/WorkerGroupC.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/MainScreenV.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/models/table/Job.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/components/jobs/InsertJobC.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/jobs/InsertJobV.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/parsers/SubDataToDot.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/ProductionV.js",
-				"/C/web/production01_server/node_modules/production/services/jobs/get.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/models/table/BaseRemote.js",
-				"/C/web/production01_server/node_modules/production/models/Job.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/ProductSelectionV.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/Application.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/components/corrections/CorrectionsListC.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/components/jobs/OrderJobsC.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/jobs/OrderJobsV.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/lists/TodoJobsDDListV.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/models/table/JobSimple.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/components/lists/TodoJobsDDListC.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/components/ProductionC.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/components/lists/BaseListC.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/lists/ProductsListV.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/components/corrections/CorrectJobsC.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/models/table/Product.js",
-				"/C/web/production01_server/node_modules/production/index.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/corrections/CorrectionManagerV.js",
-				"/C/web/production01_server/node_modules/production/models/User.js",
-				"/C/web/production01_server/_run/SublimeText2/Data/Packages/User/Preferences.sublime-settings",
-				"/C/web/production01_server/_run/SublimeText2/Data/Packages/Rails/Migration-Drop-Create-Table-(mdct).sublime-snippet",
-				"/C/web/production01_server/_run/SublimeText2/Data/Packages/Default/Preferences.sublime-settings",
-				"/C/web/production01_server/_run/SublimeText2/Data/Packages/User/JavaScript.sublime-settings",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/corrections/ConfirmCorrectionV.js",
-				"/C/web/production01_server/node_modules/production/client/production/config.json",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/lists/DeferredJobsListV.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/lists/TodoJobsListV.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/components/lists/TodoJobsListC.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/lists/BaseListV.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/lists/ActiveJobsListV.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/SkipJustificationV.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/lists/WorkersListV.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/models/table/Correction.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/models/table/Worker.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/corrections/CorrectionsListV.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/corrections/CorrectJobsV.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/components/corrections/CorrectionManagerC.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/components/ManagerControlPanelC.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/ManagerControlPanelV.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/mainScreen/SerialsTable.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/components/corrections/ConfirmCorrectionC.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/models/table/JobsGrouppedByWorkerSimple.js",
-				"/C/web/production01_server/node_modules/production/models/Correction.js",
-				"/C/web/production01_server/node_modules/production/services/corrections/insert.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/ComponentFactory.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/CopyToClipboard.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/components/ProductSelectionC.js",
-				"/C/web/production01_server/node_modules/production/services/jobs/getAll.js",
-				"/C/web/production01_server/node_modules/production/services/corrections/get.js",
-				"/C/web/production01_server/node_modules/production/services/_get.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/components/__empty.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/components/corrections/CorrectionsList.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/SaveProductV.js"
+				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v01/property/PropertyPosition.sj"
 			],
 			"find":
 			{
@@ -1251,6 +1300,86 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"mouseout",
+					"mouseover",
+					"absolute",
+					"__updateChildAbsoluteY",
+					"__build",
+					"getAvailableBuildings",
+					"_onAbsoluteYChange",
+					"_applyScale",
+					"yOffset",
+					"__onAvailableBuildingClick",
+					"render",
+					"__state",
+					"__onCanvasAppear",
+					"__initTcanvas",
+					"__renderMap",
+					"building",
+					"buildings",
+					"players",
+					"__last",
+					"__onCanvasAppear",
+					"__initTcanvas",
+					"tottystools.Tcanvas.View",
+					"tileData",
+					"exportToJson",
+					"saveMap",
+					"onClick",
+					"tileData",
+					"fire",
+					"event",
+					"game",
+					"getCanvasDOMElement",
+					"animSheet",
+					"sheet",
+					"width",
+					"ig.System",
+					"Leveler",
+					"__startPlayerRound",
+					"round",
+					"getOrCreateConnection",
+					"setupModelListenersForConnection",
+					"awaitingPlayerAction",
+					"arguments",
+					"__addToQueue",
+					"__startQueue",
+					"__queue",
+					"__getNextZindex",
+					";\n",
+					"__checkHitTestPoint",
+					"group",
+					"__rootObject",
+					"__tcanvas",
+					"canvasDOMElement",
+					"origin",
+					"child",
+					"__tcanvas",
+					"__onImageLoaded",
+					"aY",
+					"aX",
+					"aHeight",
+					"aWidth",
+					"aY",
+					"aX",
+					"__onImageLoaded",
+					"__initProperties",
+					"__onImageLoaded",
+					"__initProperties",
+					"Name",
+					"player",
+					"paper.tool",
+					"boardBackgroundTool",
+					"paper.tool",
+					"tool",
+					"PointText",
+					"onMouseDown",
+					"getAbsZIndex",
+					"getRoot",
+					"setRoot",
+					"paper",
+					"__paper",
+					"setRoot",
 					"source",
 					"__paper",
 					"player.get",
@@ -1298,87 +1427,7 @@
 					"__setCurrentPlayer",
 					"__getCurrentPlayer",
 					"__updateCurrentPlayerOnBoard",
-					"__setCurrentPlayer",
-					"__updateCurrentPlayerOnBoard",
-					"__getProperties",
-					"__currentTurnPlayerIndex",
-					"getCurrentPlayer",
-					"setCurrentPlayer",
-					"movePlayerPositions",
-					"setCurrentPlayer",
-					"__updateOwnerInView",
-					"__setPropertyToPosition",
-					"paper",
-					"object",
-					"__getAccount",
-					"__getMoney",
-					"__movePlayerToProperty",
-					"setOwner",
-					"Owner",
-					"init",
-					"dicesRolled",
-					"__currentPlayerIndex",
-					"raster",
-					"image2",
-					"imageDOMElement",
-					"image2",
-					"asset",
-					"movePlayerToNextProperty",
-					"nextProperty",
-					"__movePlayerToProperty",
-					"movePlayerToNextProperty",
-					"movePlayerPositions",
-					"movePlayerToNextProperty",
-					"__movePlayerToPosition",
-					"i",
-					"__setProperty",
-					"__getProperty",
-					"__properties",
-					"moveType",
-					"__movePlayerToProperty",
-					"__movePlayerToPosition",
-					"movePlayerToNextProperty",
-					"__movePlayerToPosition",
-					"position",
-					"__movePlayerToProperty",
-					"this.__prefix",
-					"__prefix",
-					"__views",
-					"__rules",
-					"tottystools.ComponentFactory",
-					"this",
-					"instance",
-					"WS",
-					"production",
-					"models",
-					"c",
-					"production",
-					"database",
-					"cm",
-					"getOrCreateConnection",
-					"setupModelListenersForConnection",
-					"GS.Controllers.",
-					"GS.Controllers.BaseController.extend",
-					"GS.COntroller",
-					"GS.Controllers.PageController",
-					"GS.Models.UserSettings",
-					"__emitWithActiveWorkerId",
-					"__lastEndedTimeFrame",
-					"$setStat",
-					"__$end",
-					"__$pause",
-					"__emitWithActiveWorkerId",
-					"models",
-					"type",
-					"currentTimeFrame",
-					"somebodyElseIsWorking",
-					"currentTimeFrame",
-					"Job",
-					"workerState",
-					"ActiveJobList",
-					"getSelectedWorkerNumber",
-					"job",
-					"exit"
+					"__setCurrentPlayer"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -1386,6 +1435,20 @@
 				"regex": false,
 				"replace_history":
 				[
+					"__mode",
+					"player",
+					"players",
+					"buildings",
+					"tileModel",
+					"__rootItem",
+					"y",
+					"x",
+					"height",
+					"width",
+					"y",
+					"x",
+					"Price",
+					"ownership",
 					"size",
 					"this.__graphic",
 					"tottysPaperGroup",
@@ -1454,23 +1517,23 @@
 			"groups":
 			[
 				{
-					"selected": 9,
+					"selected": 0,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v01/components/BoardC.js",
+							"file": "node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v03/game/Game.js",
 							"settings":
 							{
-								"buffer_size": 13824,
+								"buffer_size": 7179,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										909,
-										909
+										3773,
+										3773
 									]
 								],
 								"settings":
@@ -1480,25 +1543,25 @@
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 714.0,
+								"translation.y": 1610.0,
 								"zoom_level": 1.0
 							},
 							"type": "text"
 						},
 						{
 							"buffer": 1,
-							"file": "node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v01/views/BoardV.js",
+							"file": "node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v03/game/entities/UserInterface.js",
 							"settings":
 							{
-								"buffer_size": 15288,
+								"buffer_size": 2136,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										12709,
-										12709
+										1968,
+										1968
 									]
 								],
 								"settings":
@@ -1508,25 +1571,25 @@
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 4914.0,
+								"translation.y": 280.0,
 								"zoom_level": 1.0
 							},
 							"type": "text"
 						},
 						{
 							"buffer": 2,
-							"file": "node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v01/components/PropertyC.js",
+							"file": "node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v03/game/entities/ContextMenu.js",
 							"settings":
 							{
-								"buffer_size": 7619,
+								"buffer_size": 747,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										408,
-										378
+										156,
+										156
 									]
 								],
 								"settings":
@@ -1543,18 +1606,18 @@
 						},
 						{
 							"buffer": 3,
-							"file": "node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v01/views/PropertyV.js",
+							"file": "node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v03/view/entities/UserInterface.js",
 							"settings":
 							{
-								"buffer_size": 2779,
+								"buffer_size": 1689,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										1386,
-										1402
+										737,
+										737
 									]
 								],
 								"settings":
@@ -1564,25 +1627,25 @@
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 840.0,
+								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
 							"type": "text"
 						},
 						{
 							"buffer": 4,
-							"file": "node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v01/components/PlayerC.js",
+							"file": "node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v03/view/entities/ContextMenu.js",
 							"settings":
 							{
-								"buffer_size": 1540,
+								"buffer_size": 2779,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										1100,
-										1118
+										2093,
+										2093
 									]
 								],
 								"settings":
@@ -1599,18 +1662,18 @@
 						},
 						{
 							"buffer": 5,
-							"file": "node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v01/views/PlayerV.js",
+							"file": "node_modules/app/client/WS/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/Tcanvas/items/Label.js",
 							"settings":
 							{
-								"buffer_size": 1772,
+								"buffer_size": 1168,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										1351,
-										1361
+										0,
+										0
 									]
 								],
 								"settings":
@@ -1627,18 +1690,18 @@
 						},
 						{
 							"buffer": 6,
-							"file": "/D/Totty/web/about_projects/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/thirdParty/paperjs/tottysVersion/Item.js",
+							"file": "node_modules/app/client/WS/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/Tcanvas/items/Item.js",
 							"settings":
 							{
-								"buffer_size": 5815,
+								"buffer_size": 5730,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										1304,
-										1304
+										4387,
+										4387
 									]
 								],
 								"settings":
@@ -1648,117 +1711,7 @@
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 2450.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 7,
-							"file": "/D/Totty/web/about_projects/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/thirdParty/paperjs/tottysVersion/EventManager.js",
-							"settings":
-							{
-								"buffer_size": 1357,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										298,
-										298
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 8,
-							"file": "node_modules/app/index.js",
-							"settings":
-							{
-								"buffer_size": 3752,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										2697,
-										2697
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 770.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 9,
-							"file": "node_modules/app/client/WS/config.json",
-							"settings":
-							{
-								"buffer_size": 2630,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										760,
-										760
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/JavaScript/JSON.tmLanguage",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 140.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 10,
-							"file": "node_modules/app/client/WS/generate.py",
-							"settings":
-							{
-								"buffer_size": 2220,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										840,
-										849
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Python/Python.tmLanguage",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
+								"translation.y": 1323.0,
 								"zoom_level": 1.0
 							},
 							"type": "text"
@@ -1797,7 +1750,7 @@
 				]
 			},
 			"menu_visible": true,
-			"position": "0,2,3,-32145,-32000,-1,-1,1016,250,250,1127",
+			"position": "0,2,3,-32145,-32000,-1,-1,600,205,2,1303",
 			"replace":
 			{
 				"height": 62.0
