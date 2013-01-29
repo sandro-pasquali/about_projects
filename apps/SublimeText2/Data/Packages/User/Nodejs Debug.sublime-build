@@ -1,27 +1,45 @@
 {
-     "cmd": "node --debug $project_path\\node_modules\\production\\_indexWithoutForever2cl.js dbConfig=winTest test=false"
-    ,"selector": "source.js"
+     "selector": "source.js"
+    ,"working_dir": "${project_path}\\node_modules\\production"
+    ,"encoding": "cp932"
+    // ,"shell": true
     ,"variants":
      [
         {
-             "name": "Run"
-            ,"cmd": "node $project_path\\node_modules\\production\\_indexWithoutForever2cl.js dbConfig=winTest test=false"
+             "name": "App run"
+            ,"cmd": ["node.exe", "_indexWithoutForever2cl.js", "dbConfig=winTest", "test=false"]
         }
         ,{
-             "name": "Debug no tests"
-            ,"cmd": "node --debug $project_path\\node_modules\\production\\_indexWithoutForever2cl.js dbConfig=winTest test=false"
+             "name": "App run tests"
+            ,"cmd": ["node.exe", "_indexWithoutForever2cl.js", "dbConfig=winTest", "test=true"]
         }
         ,{
-             "name": "Debug-brk no tests"
-            ,"cmd": "node --debug-brk $project_path\\node_modules\\production\\_indexWithoutForever2cl.js dbConfig=winTest test=false"
+             "name": "App debug"
+            ,"cmd": ["node.exe", "--debug", "_indexWithoutForever2cl.js", "dbConfig=winTest", "test=false"]
         }
         ,{
-             "name": "Debug tests"
-            ,"cmd": "node --debug $project_path\\node_modules\\production\\_indexWithoutForever2cl.js dbConfig=winTest test=true"
+             "name": "App debug tests"
+            ,"cmd": ["node.exe", "--debug", "_indexWithoutForever2cl.js", "dbConfig=winTest", "test=true"]
         }
         ,{
-             "name": "Debug-brk tests"
-            ,"cmd": "node --debug-brk $project_path\\node_modules\\production\\_indexWithoutForever2cl.js dbConfig=winTest test=true"
+             "name": "App debug-brk"
+            ,"cmd": ["node.exe", "--debug-brk", "_indexWithoutForever2cl.js", "dbConfig=winTest", "test=false"]
+        }
+        ,{
+             "name": "App debug-brk tests"
+            ,"cmd": ["node.exe", "--debug-brk", "_indexWithoutForever2cl.js", "dbConfig=winTest", "test=true"]
+        }
+        ,{
+             "name": "Migration run"
+            ,"cmd": ["node.exe", "runMigration.js"]
+        }
+        ,{
+             "name": "Migration debug"
+            ,"cmd": ["node.exe", "--debug", "runMigration.js"]
+        }
+        ,{
+             "name": "Migration debug-brk"
+            ,"cmd": ["node.exe", "--debug-brk", "runMigration.js"]
         }
      ]
 }

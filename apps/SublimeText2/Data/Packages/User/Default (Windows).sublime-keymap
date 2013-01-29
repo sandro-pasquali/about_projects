@@ -3,8 +3,8 @@
     ,{ "keys": ["ctrl+\\"], "command": "show_panel", "args": {"panel": "console", "toggle": true} }
     ,{ "keys": ["ctrl+q"], "command": "exec", "args": {"kill": true} }
     ,{ "keys": ["ctrl+w"], "command": "build" }
-    // ,{
-    //     "keys": ["ctrl+shift+a"], "command": "js_format",
-    //     "context": [{"key": "selector", "operator": "equal", "operand": "source.js,source.json"}]
-    // }
+    ,{
+        "keys": ["ctrl+alt+a"], "command": "js_format",
+        "context": [{"key": "selector", "operator": "equal", "operand": "source.js,source.json"}]
+    }
 ]

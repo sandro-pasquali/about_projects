@@ -3,11 +3,11 @@
   "save_first": true,
   // if present, use this command instead of plain "node"
   // e.g. "/usr/bin/node" or "C:\bin\node.exe"
-  "node_command": "node --debug D:\\web\\production01_server\\node_modules\\production\\_indexWithoutForever2cl.js dbConfig=winTest test=false",
+  "node_command": false,
   // Same for NPM command
   "npm_command": false,
 
   "expert_mode": false,
 
-  "ouput_to_new_tab": true
+  "ouput_to_new_tab": false
 }

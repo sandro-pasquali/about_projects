@@ -8,7 +8,7 @@
         true - Enabled (the default).
         false - Disabled.
     */
-    "codeintel": true,
+    "codeintel": false,
 
     // An array of language names which are disabled.
     "codeintel_disabled_languages":

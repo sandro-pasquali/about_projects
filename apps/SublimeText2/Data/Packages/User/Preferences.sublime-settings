@@ -2,7 +2,7 @@
 	"bold_folder_labels": true,
 	"caret_style": "phase",
 	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
-	"detect_indentation": true,
+	"detect_indentation": false,
 	"draw_centered": false,
 	"font_size": 10.0,
 	"highlight_line": true,
@@ -63,5 +63,6 @@
 	"spell_check": true,
 	"tab_completion": false,
 	"theme": "Nexus.sublime-theme",
-	"translate_tabs_to_spaces": true
+	"translate_tabs_to_spaces": false,
+    "word_wrap": true
 }

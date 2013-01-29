@@ -1166,6 +1166,14 @@
 				"selected_items":
 				[
 					[
+						"total",
+						"totalTimeInMinutes"
+					],
+					[
+						"quant",
+						"quantityDone"
+					],
+					[
 						"exp",
 						"expressWrapper"
 					],
@@ -1668,19 +1676,75 @@
 					[
 						"th",
 						"thirdCol"
-					],
-					[
-						"skip",
-						"skipJustification"
-					],
-					[
-						"find",
-						"findById"
 					]
 				]
 			},
 			"buffers":
 			[
+				{
+					"file": "node_modules/production/models/nosql/Job/end.js",
+					"settings":
+					{
+						"buffer_size": 2816,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "node_modules/production/models/nosql/Product/addUncorrected.js",
+					"settings":
+					{
+						"buffer_size": 1305,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "node_modules/production/models/nosql/Job.js",
+					"settings":
+					{
+						"buffer_size": 5014,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "node_modules/production/models/nosql/Product.js",
+					"settings":
+					{
+						"buffer_size": 1595,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "node_modules/production/tests/tottys/scenarios/jobs/end.js",
+					"settings":
+					{
+						"buffer_size": 6401,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "node_modules/production/_indexWithoutForever2.js",
+					"settings":
+					{
+						"buffer_size": 1989,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "node_modules/production/tests/tottys/scenarios/jobs/start.js",
+					"settings":
+					{
+						"buffer_size": 5541,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "node_modules/production/tottysTests/TestContext.js",
+					"settings":
+					{
+						"buffer_size": 2128,
+						"line_ending": "Windows"
+					}
+				}
 			],
 			"build_system": "Packages/User/Nodejs Debug.sublime-build",
 			"command_palette":
@@ -1688,6 +1752,158 @@
 				"height": 60.0,
 				"selected_items":
 				[
+					[
+						"run test",
+						"Build: App run tests"
+					],
+					[
+						"run te",
+						"Build: App run tests"
+					],
+					[
+						"app run te",
+						"Build: App run tests"
+					],
+					[
+						"app rn",
+						"Build: App run tests"
+					],
+					[
+						"app run",
+						"Build: App run tests"
+					],
+					[
+						"ru ntest",
+						"Build: App run tests"
+					],
+					[
+						"app r",
+						"Build: App run tests"
+					],
+					[
+						"app test",
+						"Build: App run tests"
+					],
+					[
+						"migrat",
+						"Build: Migration run"
+					],
+					[
+						"migratio",
+						"Build: Migration run"
+					],
+					[
+						"app debu",
+						"Build: App debug"
+					],
+					[
+						"app debug",
+						"Build: App debug"
+					],
+					[
+						"git statu",
+						"Git: Status"
+					],
+					[
+						"git: bla",
+						"Github: Blame"
+					],
+					[
+						"git bl",
+						"Git: Blame"
+					],
+					[
+						"appr un",
+						"Build: App run"
+					],
+					[
+						" app run",
+						"Build: App run"
+					],
+					[
+						"app ru",
+						"Build: App run"
+					],
+					[
+						"ru test",
+						"Build: App run tests"
+					],
+					[
+						"build app ",
+						"Build: App debug no tests"
+					],
+					[
+						"set sy json",
+						"Set Syntax: JSON"
+					],
+					[
+						"git commit",
+						"Set Syntax: Git Commit Message"
+					],
+					[
+						"git add",
+						"Git: Add..."
+					],
+					[
+						"commit",
+						"Git: Commit"
+					],
+					[
+						"git comm",
+						"Git: Commit"
+					],
+					[
+						"git add .",
+						"Git: Add..."
+					],
+					[
+						"migration",
+						"Build: Migration run"
+					],
+					[
+						"migra",
+						"Build: Migration run"
+					],
+					[
+						"build",
+						"Build: Cancel"
+					],
+					[
+						"git stat",
+						"Git: Status"
+					],
+					[
+						"git: comm",
+						"Git: Quick Commit"
+					],
+					[
+						"int pack",
+						"Package Control: Install Package"
+					],
+					[
+						"inst pack",
+						"Package Control: Install Package"
+					],
+					[
+						"linter",
+						"SublimeLinter: Show Error List"
+					],
+					[
+						"javasc",
+						"Format: Javascript"
+					],
+					[
+						"snippe cl",
+						"Snippet: Qooxoo Class"
+					],
+					[
+						"inst pa",
+						"Package Control: Install Package"
+					],
+					[
+						"inst ap",
+						"Package Control: Install Package"
+					],
 					[
 						"inst pac",
 						"Package Control: Install Package"
@@ -1701,19 +1917,7 @@
 						"Package Control: Install Package"
 					],
 					[
-						"git stat",
-						"Git: Status"
-					],
-					[
 						"git com",
-						"Git: Commit"
-					],
-					[
-						"git add",
-						"Git: Add..."
-					],
-					[
-						"git comm",
 						"Git: Commit"
 					],
 					[
@@ -1739,10 +1943,6 @@
 					[
 						"set syn java",
 						"Set Syntax: JavaScript"
-					],
-					[
-						"inst pa",
-						"Package Control: Install Package"
 					],
 					[
 						"git:",
@@ -1821,11 +2021,11 @@
 						"Snippet: if … else"
 					]
 				],
-				"width": 522.0
+				"width": 514.0
 			},
 			"console":
 			{
-				"height": 307.0
+				"height": 282.0
 			},
 			"distraction_free":
 			{
@@ -1838,39 +2038,63 @@
 			},
 			"file_history":
 			[
-				"/D/web/production01_server/node_modules/production/createApplication.js",
-				"/D/web/about_projects/apps/SublimeText2/Data/Packages/User/Default (Windows).sublime-keymap",
+				"/D/web/production01_server/debug.sublime-build",
+				"/D/web/production01_server/node_modules/production/_indexWithoutForever2.js",
+				"/D/web/production01_server/node_modules/production/tests/tottys/scenarios/products/GetWithQuantityUncorrected.js",
+				"/D/web/production01_server/node_modules/production/tests/tottys/scenarios/corrections/GetPreview.js",
+				"/D/web/about_projects/apps/SublimeText2/Data/Packages/User/Nodejs Debug.sublime-build",
+				"/D/web/production01_server/node_modules/production/migrations/v01_00_001/Migration.js",
 				"/D/web/about_projects/apps/SublimeText2/Data/Packages/Default/Default (Windows).sublime-keymap",
+				"/D/web/production01_server/node_modules/production/tests/tottys/scenarios/corrections/Insert.js",
+				"/D/web/about_projects/apps/SublimeText2/Data/Packages/User/Preferences.sublime-settings",
 				"/D/web/about_projects/apps/SublimeText2/Data/Packages/Default/Preferences.sublime-settings",
+				"/D/web/about_projects/apps/SublimeText2/Data/Packages/SublimeCodeIntel/Base File.sublime-settings",
+				"/D/web/production01_server/node_modules/production/models/nosql/Product.js",
+				"/D/web/production01_server/node_modules/production/client/otherExamples/GrooveShark/app-js/app.js",
+				"/D/web/about_projects/apps/SublimeText2/Data/Packages/NodeEval/NodeEval.sublime-settings",
+				"/D/web/about_projects/apps/SublimeText2/Data/Packages/Nodejs/Nodejs.sublime-settings",
+				"/D/web/about_projects/apps/SublimeText2/Data/Packages/User/Default (Windows).sublime-keymap",
+				"/D/web/production01_server/_run/_sublimeTextCmds.txt",
+				"/D/web/about_projects/apps/SublimeText2/Data/Packages/User/JsFormat.sublime-settings",
+				"/D/web/about_projects/apps/SublimeText2/Data/Packages/JsFormat/JsFormat.sublime-settings",
+				"/D/web/production01_server/node_modules/production/runMigration.js",
+				"/D/web/production01_server/node_modules/production/models/nosql/Serial.js",
+				"/D/web/production01_server/node_modules/production/_indexWithoutForever.js",
+				"/D/web/production01_server/node_modules/production/models/nosql/Worker.js",
+				"/D/web/production01_server/node_modules/production/models/nosql/User.js",
+				"/D/web/production01_server/node_modules/production/models/nosql/TimeFrame.js",
+				"/D/web/production01_server/node_modules/production/models/nosql/Job.js",
+				"/D/web/about_projects/apps/SublimeText2/Data/Packages/User/Base File.sublime-settings",
+				"/D/web/about_projects/apps/SublimeText2/Data/Packages/Alignment/Base File.sublime-settings",
+				"/D/web/production01_server/node_modules/production/models/nosql/Correction.js",
+				"/D/web/about_projects/apps/SublimeText2/Data/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+				"/D/web/about_projects/apps/SublimeText2/Data/Packages/User/SublimeLinter.sublime-settings",
+				"/D/web/about_projects/apps/SublimeText2/Data/Packages/User/snippets/Qooxoo Class.sublime-snippet",
+				"/D/web/production01_server/node_modules/production/utils/StepRunner.js",
+				"/D/web/about_projects/apps/SublimeText2/Data/Packages/User/snippets/Steprunner.sublime-snippet",
+				"/D/web/production01_server/node_modules/production/utils/a.js",
+				"/D/web/production01_server/node_modules/production/utils/_stepRunnerTemplate.js",
+				"/D/web/about_projects/apps/SublimeText2/Data/Packages/JsFormat/Default (Windows).sublime-keymap",
+				"/D/web/production01_server/node_modules/production/createApplication.js",
 				"/D/web/about_projects/apps/SublimeText2/Data/Packages/NodejsDebug-master/nodejs_debug.py",
 				"/D/web/about_projects/apps/SublimeText2/Data/Packages/NodejsDebug-master/Default (Windows).sublime-keymap",
 				"/D/web/production01_server/Project Work.sublime-workspace",
-				"/D/web/about_projects/apps/SublimeText2/Data/Packages/User/Nodejs Debug.sublime-build",
-				"/D/web/production01_server/node_modules/production/_indexWithoutForever2.js",
 				"/D/web/about_projects/apps/SublimeText2/Data/Packages/Default/exec.py",
 				"/D/web/about_projects/apps/SublimeText2/Data/Packages/Nodejs/Nodejs.sublime-build",
-				"/D/web/about_projects/apps/SublimeText2/Data/Packages/Nodejs/Nodejs.sublime-settings",
 				"/D/web/about_projects/apps/SublimeText2/Data/Packages/Nodejs/Readme.md",
 				"/D/web/production01_server/_run/sublimeTextSettings/build/debug.sublime-build",
 				"/D/web/about_projects/apps/SublimeText2/Data/Packages/NodejsDebug-master/nodejs_debug.sublime-settings",
-				"/D/web/about_projects/apps/SublimeText2/Data/Packages/User/Preferences.sublime-settings",
 				"/D/web/about_projects/apps/SublimeText2/Data/Packages/Git/Git.sublime-settings",
-				"/D/web/production01_server/node_modules/production/migrations/v01_00_001/Migration.js",
 				"/D/web/about_projects/apps/SublimeText2/Data/Packages/NodejsDebug-master/Context.sublime-menu",
 				"/D/web/about_projects/apps/SublimeText2/Data/Packages/NodejsDebug-master/package-metadata.json",
 				"/D/web/about_projects/apps/SublimeText2/Data/Packages/Package Control/Package Control.sublime-settings",
 				"/D/web/about_projects/apps/SublimeText2/Data/Packages/User/Git.sublime-settings",
 				"/D/web/about_projects/apps/SublimeText2/Data/Packages/Alignment/Default (Windows).sublime-keymap",
-				"/D/web/about_projects/apps/SublimeText2/Data/Packages/User/Base File.sublime-settings",
-				"/D/web/about_projects/apps/SublimeText2/Data/Packages/Alignment/Base File.sublime-settings",
-				"/D/web/about_projects/apps/SublimeText2/Data/Packages/NodeEval/NodeEval.sublime-settings",
 				"/D/web/about_projects/apps/SublimeText2/Data/Packages/SublimeCodeIntel/Default (Windows).sublime-keymap",
 				"/D/web/production01_server/node_modules/production/migrations/readme.md",
 				"/D/web/about_projects/apps/SublimeText2/Data/Packages/User/JavaScript.sublime-settings",
-				"/D/web/production01_server/node_modules/production/runMigration.js",
 				"/D/web/production01_server/node_modules/production/models/nosql/Job/start.js",
 				"/D/web/about_projects/apps/SublimeText2/Data/Packages/SublimeCodeIntel/.codeintel/config",
-				"/D/web/production01_server/node_modules/production/models/nosql/Product.js",
 				"/D/web/production01_server/node_modules/production/client/production/source/class/production/views/corrections/ConfirmCorrectionV.js",
 				"/D/web/production01_server/node_modules/production/initializators/default/index.js",
 				"/D/web/production01_server/node_modules/production/settings/main.js",
@@ -1895,7 +2119,6 @@
 				"/D/web/production01_server/node_modules/production/node_modules/applicationManager/system/databaseDrivers/MongodbDriver.js",
 				"/D/web/production01_server/node_modules/production/node_modules/session-mongoose/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/server.js",
 				"/D/web/production01_server/node_modules/production/client/production/source/class/production/components/stats/WeeklyC.js",
-				"/D/web/production01_server/node_modules/production/models/nosql/Serial.js",
 				"/D/web/production01_server/node_modules/production/models/utils/saveBatchByDocs.js",
 				"/D/web/production01_server/node_modules/production/tests/tottys/scenarios/jobs/start.js",
 				"/D/web/production01_server/node_modules/production/tests/tottys/scenarios/jobs/insert.js",
@@ -1906,7 +2129,6 @@
 				"/D/web/production01_server/node_modules/production/client/production/source/class/production/views/jobs/InsertJobV.js",
 				"/D/web/production01_server/node_modules/production/client/production/source/class/production/components/ProductSelectionC.js",
 				"/D/web/production01_server/node_modules/production/models/nosql/Job/insert.js",
-				"/D/web/production01_server/node_modules/production/models/nosql/Job.js",
 				"/D/web/production01_server/node_modules/production/models/nosql/Job/skip.js",
 				"/D/web/production01_server/node_modules/production/tests/tottys/_environments/DefaultEnvironment.js",
 				"/D/web/production01_server/node_modules/production/client/production/source/class/production/components/lists/BaseListC.js",
@@ -1935,7 +2157,6 @@
 				"/D/web/production01_server/node_modules/production/services/jobs/insert.js",
 				"/D/web/production01_server/node_modules/production/client/production/source/class/production/components/stats/WeekGraphC.js",
 				"/D/web/production01_server/node_modules/production/client/production/source/class/production/components/stats/DayC.js",
-				"/D/web/production01_server/node_modules/production/models/nosql/TimeFrame.js",
 				"/D/web/production01_server/node_modules/production/client/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/Tcanvas/View.js",
 				"/D/web/production01_server/node_modules/production/client/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/Tcanvas/renders/basic/Render.js",
 				"/D/web/production01_server/node_modules/production/client/production/source/class/production/models/marshalMixins/Week.js",
@@ -1944,28 +2165,7 @@
 				"/D/web/production01_server/node_modules/production/client/production/source/class/production/parsers/SubDataToDot.js",
 				"/D/web/production01_server/node_modules/production/client/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/Tcanvas/items/Rectangle.js",
 				"/D/web/production01_server/node_modules/production/migrations/v01_00_001/models/nosql/Job.js",
-				"/D/web/production01_server/node_modules/production/client/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/Tcanvas/items/Group.js",
-				"/D/web/production01_server/node_modules/production/client/production/config2.json",
-				"/D/web/production01_server/node_modules/production/client/production/config.json",
-				"/D/web/production01_server/node_modules/production/client/qooxdoo-contrib/TottysTools/trunk/Manifest.json",
-				"/D/web/production01_server/node_modules/production/client/qooxdoo-contrib/Aristo/trunk/Manifest.json",
-				"/D/web/production01_server/node_modules/production/client/production/source/class/production/components/stats/WeekGraphV.js",
-				"/D/web/production01_server/node_modules/production/client/production/source/class/production/views/ManagerControlPanelV.js",
-				"/D/web/production01_server/node_modules/production/services/statistics/workersDailyTimes/getData.js",
-				"/D/web/production01_server/node_modules/production/client/production/source/class/production/components/stats/Weekly.js",
-				"/D/web/production01_server/node_modules/production/tests/tottys/scenarios/statistics/workersDailyTimes/getData.js",
-				"/D/web/production01_server/node_modules/production/_indexWithoutForever2cl.js",
-				"/D/web/production01_server/node_modules/production/services/jobs/reOrderMany.js",
-				"/D/web/production01_server/node_modules/production/models/nosql/Job/reorderMany.js",
-				"/D/web/production01_server/node_modules/production/client/production/source/class/production/components/jobs/OrderJobsC.js",
-				"/D/web/production01_server/node_modules/production/services/jobs/get.js",
-				"/D/web/production01_server/node_modules/production/models/nosql/Job/reorder.js",
-				"/D/web/production01_server/node_modules/production/client/production/source/class/production/models/table/JobSimple.js",
-				"/D/web/production01_server/node_modules/production/services/jobs/getAll.js",
-				"/D/web/production01_server/node_modules/production/client/production/source/class/production/views/jobs/OrderJobsV.js",
-				"/D/web/production01_server/node_modules/production/client/production/source/class/production/components/corrections/ConfirmCorrectionC.js",
-				"/D/web/production01_server/node_modules/production/models/nosql/Correction/insert.js",
-				"/D/web/production01_server/node_modules/production/services/corrections/getStatsGroupedByWorker.js"
+				"/D/web/production01_server/node_modules/production/client/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/Tcanvas/items/Group.js"
 			],
 			"find":
 			{
@@ -1987,6 +2187,31 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"jobSerials",
+					"addUncorrected",
+					"Check product average",
+					"build",
+					"_",
+					"inden",
+					"product",
+					"productsB",
+					"productsA",
+					"product",
+					"4",
+					"spaces",
+					"tab",
+					"indent",
+					"ctrl+b",
+					"ignore",
+					"node",
+					"node.",
+					"disable",
+					"should be",
+					"GLOB",
+					"glob",
+					"globals",
+					"special",
+					"custom",
 					"command",
 					"ctrl+\\\\",
 					"console.log('App started with version: ' + APP_VERSION);",
@@ -2089,32 +2314,7 @@
 					"appPort",
 					"secretSession",
 					"__initVersion",
-					"applicationDatabasesSettings",
-					"__migrationManagerFacade",
-					"hardMigrationVersion",
-					"applicationVersion",
-					"migrationManagerFacade",
-					"__migrationManagerFacade",
-					"require",
-					"databaseConfigurations",
-					"ApplicationModel",
-					"MigrationModel",
-					"applicationRecord",
-					"applicationConfig",
-					"__getApplicationConfig",
-					"__systemDatabasesConfigurations",
-					"__addApplicationConfig",
-					"__systemManager",
-					"systemDatabasesConfigurations",
-					"modelsFilePath",
-					"modelspath",
-					"modelpath",
-					"modelspath",
-					"models",
-					"__addApplicationConfig",
-					"__prepareApplicationConfig",
-					"__systemManager",
-					"__addApplicationConfig"
+					"applicationDatabasesSettings"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -2260,8 +2460,922 @@
 			"groups":
 			[
 				{
+					"selected": 6,
 					"sheets":
 					[
+						{
+							"buffer": 0,
+							"file": "node_modules/production/models/nosql/Job/end.js",
+							"settings":
+							{
+								"buffer_size": 2816,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2557,
+										2560
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110.0
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"predef":
+										[
+											"debugger2"
+										],
+										"strict": false
+									},
+									"live_git_annotations": true,
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": false,
+									"sublimelinter_delay": 2.0,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": false,
+									"sublimelinter_mark_style": "outline",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 848.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "node_modules/production/models/nosql/Product/addUncorrected.js",
+							"settings":
+							{
+								"buffer_size": 1305,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										836,
+										855
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110.0
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"predef":
+										[
+											"debugger2"
+										],
+										"strict": false
+									},
+									"live_git_annotations": true,
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": false,
+									"sublimelinter_delay": 2.0,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": false,
+									"sublimelinter_mark_style": "outline",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 450.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "node_modules/production/models/nosql/Job.js",
+							"settings":
+							{
+								"buffer_size": 5014,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										475,
+										475
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110.0
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"predef":
+										[
+											"debugger2"
+										],
+										"strict": false
+									},
+									"live_git_annotations": true,
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": false,
+									"sublimelinter_delay": 2.0,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": false,
+									"sublimelinter_mark_style": "outline",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 225.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "node_modules/production/models/nosql/Product.js",
+							"settings":
+							{
+								"buffer_size": 1595,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										615,
+										635
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110.0
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"predef":
+										[
+											"debugger2"
+										],
+										"strict": false
+									},
+									"live_git_annotations": true,
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": false,
+									"sublimelinter_delay": 2.0,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": false,
+									"sublimelinter_mark_style": "outline",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "node_modules/production/tests/tottys/scenarios/jobs/end.js",
+							"settings":
+							{
+								"buffer_size": 6401,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										3333,
+										3333
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110.0
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"predef":
+										[
+											"debugger2"
+										],
+										"strict": false
+									},
+									"live_git_annotations": true,
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": false,
+									"sublimelinter_delay": 2.0,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": false,
+									"sublimelinter_mark_style": "outline",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 900.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "node_modules/production/_indexWithoutForever2.js",
+							"settings":
+							{
+								"buffer_size": 1989,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										508,
+										508
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110.0
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"predef":
+										[
+											"debugger2"
+										],
+										"strict": false
+									},
+									"live_git_annotations": true,
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": false,
+									"sublimelinter_delay": 2.0,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": false,
+									"sublimelinter_mark_style": "outline",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "node_modules/production/tests/tottys/scenarios/jobs/start.js",
+							"settings":
+							{
+								"buffer_size": 5541,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2040,
+										2040
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110.0
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"predef":
+										[
+											"debugger2"
+										],
+										"strict": false
+									},
+									"live_git_annotations": true,
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": false,
+									"sublimelinter_delay": 2.0,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": false,
+									"sublimelinter_mark_style": "outline",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 770.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "node_modules/production/tottysTests/TestContext.js",
+							"settings":
+							{
+								"buffer_size": 2128,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1447,
+										1447
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110.0
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"predef":
+										[
+											"debugger2"
+										],
+										"strict": false
+									},
+									"live_git_annotations": true,
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": false,
+									"sublimelinter_delay": 2.0,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": false,
+									"sublimelinter_mark_style": "outline",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 478.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
 					]
 				}
 			],
@@ -2298,13 +3412,13 @@
 			"menu_visible": true,
 			"output.exec":
 			{
-				"height": 246.0
+				"height": 284.0
 			},
 			"output.git":
 			{
 				"height": 302.0
 			},
-			"position": "0,2,3,-141,-1,-1,-1,827,268,61,1145",
+			"position": "0,2,3,-1,-1,-1,-1,827,268,61,1145",
 			"replace":
 			{
 				"height": 62.0
@@ -2315,6 +3429,78 @@
 				"height": 0.0,
 				"selected_items":
 				[
+					[
+						"node_modules/production/tottystests/testcontext.js",
+						"production01_server/node_modules/production/tottysTests/TestContext.js"
+					],
+					[
+						"s/tottys/scenarios/jobs/start.js",
+						"production/tests/tottys/scenarios/jobs/start.js"
+					],
+					[
+						"tottys/scenarios/jobs/start.js",
+						"production/tests/tottys/scenarios/jobs/start.js"
+					],
+					[
+						"d",
+						"production01_server/debug.sublime-build"
+					],
+					[
+						"scenarios/cor",
+						"production/tests/tottys/scenarios/corrections/GetPreview.js"
+					],
+					[
+						"scenario/date",
+						"production/tests/tottys/scenarios/products/GetWithQuantityUncorrected.js"
+					],
+					[
+						"tests/correcti",
+						"production/tests/tottys/scenarios/corrections/Insert.js"
+					],
+					[
+						"test/job/end",
+						"production/tests/tottys/scenarios/jobs/end.js"
+					],
+					[
+						"nosqlprodu",
+						"production/models/nosql/Product.js"
+					],
+					[
+						"nosqlprod",
+						"production/models/nosql/Product.js"
+					],
+					[
+						"nosqljob",
+						"production/models/nosql/Job.js"
+					],
+					[
+						"adduncorrected",
+						"production/models/nosql/Product/addUncorrected.js"
+					],
+					[
+						"run/_",
+						"production01_server/_run/_sublimeTextCmds.txt"
+					],
+					[
+						"jobend",
+						"production/models/nosql/Job/end.js"
+					],
+					[
+						"run/_s",
+						"production01_server/_run/_sublimeTextCmds.txt"
+					],
+					[
+						"nodedebug",
+						"SublimeText2/Data/Packages/User/Nodejs Debug.sublime-build"
+					],
+					[
+						"product.js",
+						"production/models/nosql/Product.js"
+					],
+					[
+						"migration",
+						"production/migrations/v01_00_001/Migration.js"
+					],
 					[
 						"inserjob",
 						"production/client/production/source/class/production/controllers/insertJob/InsertJob.js"
