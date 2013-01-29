@@ -1,21 +1,27 @@
 {
-    //"cmd": ["node", "$project_path\\node_modules\\production\\_indexWithoutForever2cl.js dbConfig=winTest test=false"]
-    "cmd": "node --debug D:\\web\\production01_server\\node_modules\\production\\_indexWithoutForever2cl.js dbConfig=winTest test=false"
-    ,"file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)"  
-    ,"":""
+     "cmd": "node --debug $project_path\\node_modules\\production\\_indexWithoutForever2cl.js dbConfig=winTest test=false"
+    ,"selector": "source.js"
     ,"variants":
      [
         {
              "name": "Run"
-            ,"cmd": "node D:\\web\\production01_server\\node_modules\\production\\_indexWithoutForever2cl.js dbConfig=winTest test=false"
+            ,"cmd": "node $project_path\\node_modules\\production\\_indexWithoutForever2cl.js dbConfig=winTest test=false"
         }
         ,{
-             "name": "Debug"
-            ,"cmd": "node --debug D:\\web\\production01_server\\node_modules\\production\\_indexWithoutForever2cl.js dbConfig=winTest test=false"
+             "name": "Debug no tests"
+            ,"cmd": "node --debug $project_path\\node_modules\\production\\_indexWithoutForever2cl.js dbConfig=winTest test=false"
         }
         ,{
-             "name": "Debug-brk"
-            ,"cmd": "node --debug-brk D:\\web\\production01_server\\node_modules\\production\\_indexWithoutForever2cl.js dbConfig=winTest test=false"
+             "name": "Debug-brk no tests"
+            ,"cmd": "node --debug-brk $project_path\\node_modules\\production\\_indexWithoutForever2cl.js dbConfig=winTest test=false"
+        }
+        ,{
+             "name": "Debug tests"
+            ,"cmd": "node --debug $project_path\\node_modules\\production\\_indexWithoutForever2cl.js dbConfig=winTest test=true"
+        }
+        ,{
+             "name": "Debug-brk tests"
+            ,"cmd": "node --debug-brk $project_path\\node_modules\\production\\_indexWithoutForever2cl.js dbConfig=winTest test=true"
         }
      ]
 }

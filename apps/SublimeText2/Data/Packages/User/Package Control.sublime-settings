@@ -3,17 +3,22 @@
 	"installed_packages":
 	[
 		"Alignment",
+		"Comments Aware Enter",
 		"Git",
 		"Github Tools",
+		"JsFormat",
 		"NodeEval",
 		"Nodejs",
 		"NodejsDebug-master",
 		"Package Control",
 		"PlainTasks",
 		"Require Node.js Modules Helper",
+		"SortLinesByColumn",
 		"SublimeCodeIntel",
 		"SublimeEvernote",
+		"SublimeLinter",
 		"Theme - Aqua",
-		"Theme - Nexus"
+		"Theme - Nexus",
+		"Theme - Soda"
 	]
 }

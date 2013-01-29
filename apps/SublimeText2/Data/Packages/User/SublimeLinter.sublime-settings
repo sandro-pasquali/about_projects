@@ -1,0 +1,9 @@
+{
+    "sublimelinter": false,
+    "jshint_options": {
+        "strict": false
+        ,"predef": [
+            "debugger2"
+        ]
+    }
+}

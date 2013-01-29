@@ -1682,52 +1682,88 @@
 			"buffers":
 			[
 				{
-					"file": "/D/web/about_projects/apps/SublimeText2/Data/Packages/NodejsDebug-master/nodejs_debug.py",
-					"settings":
-					{
-						"buffer_size": 1011,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/D/web/about_projects/apps/SublimeText2/Data/Packages/NodejsDebug-master/Default (Windows).sublime-keymap",
-					"settings":
-					{
-						"buffer_size": 113,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "Project Work.sublime-workspace",
-					"settings":
-					{
-						"buffer_size": 31691,
-						"line_ending": "Unix"
-					}
-				},
-				{
 					"file": "/D/web/about_projects/apps/SublimeText2/Data/Packages/User/Nodejs Debug.sublime-build",
 					"settings":
 					{
-						"buffer_size": 948,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "node_modules/production/_indexWithoutForever2.js",
-					"settings":
-					{
-						"buffer_size": 1939,
+						"buffer_size": 1124,
 						"line_ending": "Windows"
 					}
 				}
 			],
-			"build_system": "Packages/Nodejs/Nodejs.sublime-build",
+			"build_system": "Packages/User/Nodejs Debug.sublime-build",
 			"command_palette":
 			{
-				"height": 132.0,
+				"height": 84.0,
 				"selected_items":
 				[
+					[
+						"git stat",
+						"Git: Status"
+					],
+					[
+						"git: comm",
+						"Git: Quick Commit"
+					],
+					[
+						"build",
+						"Build: Cancel"
+					],
+					[
+						"git add",
+						"Git: Add..."
+					],
+					[
+						"int pack",
+						"Package Control: Install Package"
+					],
+					[
+						"inst pack",
+						"Package Control: Install Package"
+					],
+					[
+						"linter",
+						"SublimeLinter: Show Error List"
+					],
+					[
+						"javasc",
+						"Format: Javascript"
+					],
+					[
+						"snippe cl",
+						"Snippet: Qooxoo Class"
+					],
+					[
+						"inst pa",
+						"Package Control: Install Package"
+					],
+					[
+						"inst ap",
+						"Package Control: Install Package"
+					],
+					[
+						"inst pac",
+						"Package Control: Install Package"
+					],
+					[
+						"pack inst",
+						"Package Control: Install Package"
+					],
+					[
+						"ins pac",
+						"Package Control: Install Package"
+					],
+					[
+						"git com",
+						"Git: Commit"
+					],
+					[
+						"git comm",
+						"Git: Commit"
+					],
+					[
+						"git:add",
+						"Git: Add..."
+					],
 					[
 						"git: ann",
 						"Git: Toggle Annotations"
@@ -1745,16 +1781,8 @@
 						"Package Control: Install Package"
 					],
 					[
-						"inst pac",
-						"Package Control: Install Package"
-					],
-					[
 						"set syn java",
 						"Set Syntax: JavaScript"
-					],
-					[
-						"inst pa",
-						"Package Control: Install Package"
 					],
 					[
 						"git:",
@@ -1789,10 +1817,6 @@
 						"Git: Commit"
 					],
 					[
-						"git:add",
-						"Git: Add..."
-					],
-					[
 						"git",
 						"Git: Status"
 					],
@@ -1803,10 +1827,6 @@
 					[
 						"g",
 						"Github: Blame"
-					],
-					[
-						"pack inst",
-						"Package Control: Install Package"
 					],
 					[
 						"pack in",
@@ -1845,7 +1865,7 @@
 			},
 			"console":
 			{
-				"height": 125.0
+				"height": 307.0
 			},
 			"distraction_free":
 			{
@@ -1858,34 +1878,56 @@
 			},
 			"file_history":
 			[
+				"/D/web/production01_server/node_modules/production/models/nosql/Product.js",
+				"/D/web/production01_server/node_modules/production/_indexWithoutForever2.js",
+				"/D/web/about_projects/apps/SublimeText2/Data/Packages/User/Default (Windows).sublime-keymap",
+				"/D/web/about_projects/apps/SublimeText2/Data/Packages/Default/Default (Windows).sublime-keymap",
+				"/D/web/about_projects/apps/SublimeText2/Data/Packages/User/Nodejs Debug.sublime-build",
+				"/D/web/about_projects/apps/SublimeText2/Data/Packages/User/Preferences.sublime-settings",
+				"/D/web/production01_server/node_modules/production/models/nosql/Worker.js",
+				"/D/web/production01_server/node_modules/production/models/nosql/User.js",
+				"/D/web/production01_server/node_modules/production/models/nosql/TimeFrame.js",
+				"/D/web/production01_server/node_modules/production/models/nosql/Serial.js",
+				"/D/web/production01_server/node_modules/production/models/nosql/Job.js",
+				"/D/web/about_projects/apps/SublimeText2/Data/Packages/User/Base File.sublime-settings",
+				"/D/web/about_projects/apps/SublimeText2/Data/Packages/Alignment/Base File.sublime-settings",
+				"/D/web/production01_server/node_modules/production/models/nosql/Correction.js",
+				"/D/web/about_projects/apps/SublimeText2/Data/Packages/SublimeCodeIntel/Base File.sublime-settings",
+				"/D/web/about_projects/apps/SublimeText2/Data/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+				"/D/web/about_projects/apps/SublimeText2/Data/Packages/User/SublimeLinter.sublime-settings",
+				"/D/web/about_projects/apps/SublimeText2/Data/Packages/JsFormat/JsFormat.sublime-settings",
+				"/D/web/about_projects/apps/SublimeText2/Data/Packages/User/snippets/Qooxoo Class.sublime-snippet",
+				"/D/web/production01_server/node_modules/production/utils/StepRunner.js",
+				"/D/web/about_projects/apps/SublimeText2/Data/Packages/User/snippets/Steprunner.sublime-snippet",
+				"/D/web/production01_server/node_modules/production/utils/a.js",
+				"/D/web/production01_server/node_modules/production/utils/_stepRunnerTemplate.js",
+				"/D/web/about_projects/apps/SublimeText2/Data/Packages/User/JsFormat.sublime-settings",
+				"/D/web/about_projects/apps/SublimeText2/Data/Packages/JsFormat/Default (Windows).sublime-keymap",
+				"/D/web/production01_server/node_modules/production/createApplication.js",
+				"/D/web/about_projects/apps/SublimeText2/Data/Packages/Default/Preferences.sublime-settings",
+				"/D/web/about_projects/apps/SublimeText2/Data/Packages/NodejsDebug-master/nodejs_debug.py",
+				"/D/web/about_projects/apps/SublimeText2/Data/Packages/NodejsDebug-master/Default (Windows).sublime-keymap",
+				"/D/web/production01_server/Project Work.sublime-workspace",
+				"/D/web/about_projects/apps/SublimeText2/Data/Packages/Default/exec.py",
+				"/D/web/about_projects/apps/SublimeText2/Data/Packages/Nodejs/Nodejs.sublime-build",
 				"/D/web/about_projects/apps/SublimeText2/Data/Packages/Nodejs/Nodejs.sublime-settings",
 				"/D/web/about_projects/apps/SublimeText2/Data/Packages/Nodejs/Readme.md",
 				"/D/web/production01_server/_run/sublimeTextSettings/build/debug.sublime-build",
-				"/D/web/about_projects/apps/SublimeText2/Data/Packages/User/Nodejs Debug.sublime-build",
 				"/D/web/about_projects/apps/SublimeText2/Data/Packages/NodejsDebug-master/nodejs_debug.sublime-settings",
-				"/D/web/about_projects/apps/SublimeText2/Data/Packages/Default/Preferences.sublime-settings",
-				"/D/web/about_projects/apps/SublimeText2/Data/Packages/User/Preferences.sublime-settings",
-				"/D/web/production01_server/Project Work.sublime-workspace",
 				"/D/web/about_projects/apps/SublimeText2/Data/Packages/Git/Git.sublime-settings",
 				"/D/web/production01_server/node_modules/production/migrations/v01_00_001/Migration.js",
 				"/D/web/about_projects/apps/SublimeText2/Data/Packages/NodejsDebug-master/Context.sublime-menu",
-				"/D/web/production01_server/node_modules/production/_indexWithoutForever2.js",
 				"/D/web/about_projects/apps/SublimeText2/Data/Packages/NodejsDebug-master/package-metadata.json",
 				"/D/web/about_projects/apps/SublimeText2/Data/Packages/Package Control/Package Control.sublime-settings",
 				"/D/web/about_projects/apps/SublimeText2/Data/Packages/User/Git.sublime-settings",
 				"/D/web/about_projects/apps/SublimeText2/Data/Packages/Alignment/Default (Windows).sublime-keymap",
-				"/D/web/about_projects/apps/SublimeText2/Data/Packages/User/Default (Windows).sublime-keymap",
-				"/D/web/about_projects/apps/SublimeText2/Data/Packages/User/Base File.sublime-settings",
-				"/D/web/about_projects/apps/SublimeText2/Data/Packages/Alignment/Base File.sublime-settings",
 				"/D/web/about_projects/apps/SublimeText2/Data/Packages/NodeEval/NodeEval.sublime-settings",
 				"/D/web/about_projects/apps/SublimeText2/Data/Packages/SublimeCodeIntel/Default (Windows).sublime-keymap",
 				"/D/web/production01_server/node_modules/production/migrations/readme.md",
-				"/D/web/about_projects/apps/SublimeText2/Data/Packages/Default/Default (Windows).sublime-keymap",
 				"/D/web/about_projects/apps/SublimeText2/Data/Packages/User/JavaScript.sublime-settings",
 				"/D/web/production01_server/node_modules/production/runMigration.js",
 				"/D/web/production01_server/node_modules/production/models/nosql/Job/start.js",
 				"/D/web/about_projects/apps/SublimeText2/Data/Packages/SublimeCodeIntel/.codeintel/config",
-				"/D/web/production01_server/node_modules/production/models/nosql/Product.js",
 				"/D/web/production01_server/node_modules/production/client/production/source/class/production/views/corrections/ConfirmCorrectionV.js",
 				"/D/web/production01_server/node_modules/production/initializators/default/index.js",
 				"/D/web/production01_server/node_modules/production/settings/main.js",
@@ -1910,7 +1952,6 @@
 				"/D/web/production01_server/node_modules/production/node_modules/applicationManager/system/databaseDrivers/MongodbDriver.js",
 				"/D/web/production01_server/node_modules/production/node_modules/session-mongoose/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/server.js",
 				"/D/web/production01_server/node_modules/production/client/production/source/class/production/components/stats/WeeklyC.js",
-				"/D/web/production01_server/node_modules/production/models/nosql/Serial.js",
 				"/D/web/production01_server/node_modules/production/models/utils/saveBatchByDocs.js",
 				"/D/web/production01_server/node_modules/production/tests/tottys/scenarios/jobs/start.js",
 				"/D/web/production01_server/node_modules/production/tests/tottys/scenarios/jobs/insert.js",
@@ -1921,7 +1962,6 @@
 				"/D/web/production01_server/node_modules/production/client/production/source/class/production/views/jobs/InsertJobV.js",
 				"/D/web/production01_server/node_modules/production/client/production/source/class/production/components/ProductSelectionC.js",
 				"/D/web/production01_server/node_modules/production/models/nosql/Job/insert.js",
-				"/D/web/production01_server/node_modules/production/models/nosql/Job.js",
 				"/D/web/production01_server/node_modules/production/models/nosql/Job/skip.js",
 				"/D/web/production01_server/node_modules/production/tests/tottys/_environments/DefaultEnvironment.js",
 				"/D/web/production01_server/node_modules/production/client/production/source/class/production/components/lists/BaseListC.js",
@@ -1950,7 +1990,6 @@
 				"/D/web/production01_server/node_modules/production/services/jobs/insert.js",
 				"/D/web/production01_server/node_modules/production/client/production/source/class/production/components/stats/WeekGraphC.js",
 				"/D/web/production01_server/node_modules/production/client/production/source/class/production/components/stats/DayC.js",
-				"/D/web/production01_server/node_modules/production/models/nosql/TimeFrame.js",
 				"/D/web/production01_server/node_modules/production/client/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/Tcanvas/View.js",
 				"/D/web/production01_server/node_modules/production/client/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/Tcanvas/renders/basic/Render.js",
 				"/D/web/production01_server/node_modules/production/client/production/source/class/production/models/marshalMixins/Week.js",
@@ -1966,26 +2005,7 @@
 				"/D/web/production01_server/node_modules/production/client/qooxdoo-contrib/Aristo/trunk/Manifest.json",
 				"/D/web/production01_server/node_modules/production/client/production/source/class/production/components/stats/WeekGraphV.js",
 				"/D/web/production01_server/node_modules/production/client/production/source/class/production/views/ManagerControlPanelV.js",
-				"/D/web/production01_server/node_modules/production/services/statistics/workersDailyTimes/getData.js",
-				"/D/web/production01_server/node_modules/production/client/production/source/class/production/components/stats/Weekly.js",
-				"/D/web/production01_server/node_modules/production/tests/tottys/scenarios/statistics/workersDailyTimes/getData.js",
-				"/D/web/production01_server/node_modules/production/_indexWithoutForever2cl.js",
-				"/D/web/production01_server/node_modules/production/services/jobs/reOrderMany.js",
-				"/D/web/production01_server/node_modules/production/models/nosql/Job/reorderMany.js",
-				"/D/web/production01_server/node_modules/production/client/production/source/class/production/components/jobs/OrderJobsC.js",
-				"/D/web/production01_server/node_modules/production/services/jobs/get.js",
-				"/D/web/production01_server/node_modules/production/models/nosql/Job/reorder.js",
-				"/D/web/production01_server/node_modules/production/client/production/source/class/production/models/table/JobSimple.js",
-				"/D/web/production01_server/node_modules/production/services/jobs/getAll.js",
-				"/D/web/production01_server/node_modules/production/client/production/source/class/production/views/jobs/OrderJobsV.js",
-				"/D/web/production01_server/node_modules/production/client/production/source/class/production/components/corrections/ConfirmCorrectionC.js",
-				"/D/web/production01_server/node_modules/production/models/nosql/Correction/insert.js",
-				"/D/web/production01_server/node_modules/production/services/corrections/getStatsGroupedByWorker.js",
-				"/D/web/production01_server/node_modules/production/services/corrections/getPreview.js",
-				"/D/web/production01_server/node_modules/production/services/corrections/getCorrectionPreview.js",
-				"/D/web/production01_server/node_modules/production/models/nosql/Correction/getPreview.js",
-				"/D/web/production01_server/node_modules/production/client/production/source/class/production/views/corrections/CorrectionManagerV.js",
-				"/D/web/production01_server/node_modules/production/client/production/source/class/production/components/corrections/CorrectionsListC.js"
+				"/D/web/production01_server/node_modules/production/services/statistics/workersDailyTimes/getData.js"
 			],
 			"find":
 			{
@@ -2007,6 +2027,19 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"ctrl+b",
+					"ignore",
+					"node",
+					"node.",
+					"disable",
+					"should be",
+					"GLOB",
+					"glob",
+					"globals",
+					"special",
+					"custom",
+					"command",
+					"ctrl+\\\\",
 					"console.log('App started with version: ' + APP_VERSION);",
 					"build",
 					"nodejs_debug",
@@ -2121,20 +2154,7 @@
 					"applicationConfig",
 					"__getApplicationConfig",
 					"__systemDatabasesConfigurations",
-					"__addApplicationConfig",
-					"__systemManager",
-					"systemDatabasesConfigurations",
-					"modelsFilePath",
-					"modelspath",
-					"modelpath",
-					"modelspath",
-					"models",
-					"__addApplicationConfig",
-					"__prepareApplicationConfig",
-					"__systemManager",
-					"__addApplicationConfig",
-					"__prepareApplicationConfig",
-					"dbConfig"
+					"__addApplicationConfig"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -2280,146 +2300,120 @@
 			"groups":
 			[
 				{
-					"selected": 3,
+					"selected": 0,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/D/web/about_projects/apps/SublimeText2/Data/Packages/NodejsDebug-master/nodejs_debug.py",
-							"settings":
-							{
-								"buffer_size": 1011,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										637,
-										637
-									]
-								],
-								"settings":
-								{
-									"live_git_annotations": true,
-									"syntax": "Packages/Python/Python.tmLanguage",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/D/web/about_projects/apps/SublimeText2/Data/Packages/NodejsDebug-master/Default (Windows).sublime-keymap",
-							"settings":
-							{
-								"buffer_size": 113,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										113,
-										113
-									]
-								],
-								"settings":
-								{
-									"live_git_annotations": true,
-									"syntax": "Packages/JavaScript/JSON.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"file": "Project Work.sublime-workspace",
-							"settings":
-							{
-								"buffer_size": 31691,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										6869,
-										6869
-									]
-								],
-								"settings":
-								{
-									"live_git_annotations": true,
-									"syntax": "Packages/Text/Plain text.tmLanguage",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 3,
 							"file": "/D/web/about_projects/apps/SublimeText2/Data/Packages/User/Nodejs Debug.sublime-build",
 							"settings":
 							{
-								"buffer_size": 948,
+								"buffer_size": 1124,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										330,
-										330
+										1104,
+										1104
 									]
 								],
 								"settings":
 								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110.0
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"predef":
+										[
+											"debugger2"
+										],
+										"strict": false
+									},
 									"live_git_annotations": true,
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": false,
+									"sublimelinter_delay": 2.0,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": false,
+									"sublimelinter_mark_style": "outline",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
 									"syntax": "Packages/JavaScript/JSON.tmLanguage",
 									"tab_size": 4,
 									"translate_tabs_to_spaces": true
 								},
-								"translation.x": 70.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 4,
-							"file": "node_modules/production/_indexWithoutForever2.js",
-							"settings":
-							{
-								"buffer_size": 1939,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										427,
-										427
-									]
-								],
-								"settings":
-								{
-									"live_git_annotations": true,
-									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
+								"translation.x": 127.0,
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
@@ -2461,13 +2455,13 @@
 			"menu_visible": true,
 			"output.exec":
 			{
-				"height": 122.0
+				"height": 246.0
 			},
 			"output.git":
 			{
 				"height": 302.0
 			},
-			"position": "0,2,3,-141,-1,-1,-1,827,268,61,1145",
+			"position": "0,2,3,-1,-1,-1,-1,827,268,61,1145",
 			"replace":
 			{
 				"height": 62.0
@@ -2505,7 +2499,7 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 254.0,
+			"side_bar_width": 317.0,
 			"status_bar_visible": true,
 			"window_id": 20,
 			"workspace_name": "/D/web/production01_server/Project Work.sublime-project"

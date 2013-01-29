@@ -1681,45 +1681,45 @@
 			},
 			"buffers":
 			[
-				{
-					"file": "/D/web/about_projects/apps/SublimeText2/Data/Packages/NodejsDebug-master/nodejs_debug.py",
-					"settings":
-					{
-						"buffer_size": 1011,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/D/web/about_projects/apps/SublimeText2/Data/Packages/NodejsDebug-master/Default (Windows).sublime-keymap",
-					"settings":
-					{
-						"buffer_size": 113,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "Project Work.sublime-workspace",
-					"settings":
-					{
-						"buffer_size": 32978,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/D/web/about_projects/apps/SublimeText2/Data/Packages/User/Nodejs Debug.sublime-build",
-					"settings":
-					{
-						"buffer_size": 929,
-						"line_ending": "Windows"
-					}
-				}
 			],
 			"build_system": "Packages/User/Nodejs Debug.sublime-build",
 			"command_palette":
 			{
-				"height": 132.0,
+				"height": 60.0,
 				"selected_items":
 				[
+					[
+						"inst pac",
+						"Package Control: Install Package"
+					],
+					[
+						"pack inst",
+						"Package Control: Install Package"
+					],
+					[
+						"ins pac",
+						"Package Control: Install Package"
+					],
+					[
+						"git stat",
+						"Git: Status"
+					],
+					[
+						"git com",
+						"Git: Commit"
+					],
+					[
+						"git add",
+						"Git: Add..."
+					],
+					[
+						"git comm",
+						"Git: Commit"
+					],
+					[
+						"git:add",
+						"Git: Add..."
+					],
 					[
 						"git: ann",
 						"Git: Toggle Annotations"
@@ -1734,10 +1734,6 @@
 					],
 					[
 						"pack insta",
-						"Package Control: Install Package"
-					],
-					[
-						"inst pac",
 						"Package Control: Install Package"
 					],
 					[
@@ -1781,10 +1777,6 @@
 						"Git: Commit"
 					],
 					[
-						"git:add",
-						"Git: Add..."
-					],
-					[
 						"git",
 						"Git: Status"
 					],
@@ -1795,10 +1787,6 @@
 					[
 						"g",
 						"Github: Blame"
-					],
-					[
-						"pack inst",
-						"Package Control: Install Package"
 					],
 					[
 						"pack in",
@@ -1837,7 +1825,7 @@
 			},
 			"console":
 			{
-				"height": 125.0
+				"height": 307.0
 			},
 			"distraction_free":
 			{
@@ -1850,28 +1838,34 @@
 			},
 			"file_history":
 			[
-				"/D/web/production01_server/_run/sublimeTextSettings/build/debug.sublime-build",
-				"/D/web/about_projects/apps/SublimeText2/Data/Packages/User/Nodejs Debug.sublime-build",
-				"/D/web/about_projects/apps/SublimeText2/Data/Packages/NodejsDebug-master/nodejs_debug.sublime-settings",
+				"/D/web/production01_server/node_modules/production/createApplication.js",
+				"/D/web/about_projects/apps/SublimeText2/Data/Packages/User/Default (Windows).sublime-keymap",
+				"/D/web/about_projects/apps/SublimeText2/Data/Packages/Default/Default (Windows).sublime-keymap",
 				"/D/web/about_projects/apps/SublimeText2/Data/Packages/Default/Preferences.sublime-settings",
-				"/D/web/about_projects/apps/SublimeText2/Data/Packages/User/Preferences.sublime-settings",
+				"/D/web/about_projects/apps/SublimeText2/Data/Packages/NodejsDebug-master/nodejs_debug.py",
+				"/D/web/about_projects/apps/SublimeText2/Data/Packages/NodejsDebug-master/Default (Windows).sublime-keymap",
 				"/D/web/production01_server/Project Work.sublime-workspace",
+				"/D/web/about_projects/apps/SublimeText2/Data/Packages/User/Nodejs Debug.sublime-build",
+				"/D/web/production01_server/node_modules/production/_indexWithoutForever2.js",
+				"/D/web/about_projects/apps/SublimeText2/Data/Packages/Default/exec.py",
+				"/D/web/about_projects/apps/SublimeText2/Data/Packages/Nodejs/Nodejs.sublime-build",
+				"/D/web/about_projects/apps/SublimeText2/Data/Packages/Nodejs/Nodejs.sublime-settings",
+				"/D/web/about_projects/apps/SublimeText2/Data/Packages/Nodejs/Readme.md",
+				"/D/web/production01_server/_run/sublimeTextSettings/build/debug.sublime-build",
+				"/D/web/about_projects/apps/SublimeText2/Data/Packages/NodejsDebug-master/nodejs_debug.sublime-settings",
+				"/D/web/about_projects/apps/SublimeText2/Data/Packages/User/Preferences.sublime-settings",
 				"/D/web/about_projects/apps/SublimeText2/Data/Packages/Git/Git.sublime-settings",
 				"/D/web/production01_server/node_modules/production/migrations/v01_00_001/Migration.js",
 				"/D/web/about_projects/apps/SublimeText2/Data/Packages/NodejsDebug-master/Context.sublime-menu",
-				"/D/web/production01_server/node_modules/production/_indexWithoutForever2.js",
 				"/D/web/about_projects/apps/SublimeText2/Data/Packages/NodejsDebug-master/package-metadata.json",
 				"/D/web/about_projects/apps/SublimeText2/Data/Packages/Package Control/Package Control.sublime-settings",
 				"/D/web/about_projects/apps/SublimeText2/Data/Packages/User/Git.sublime-settings",
-				"/D/web/about_projects/apps/SublimeText2/Data/Packages/Nodejs/Nodejs.sublime-settings",
 				"/D/web/about_projects/apps/SublimeText2/Data/Packages/Alignment/Default (Windows).sublime-keymap",
-				"/D/web/about_projects/apps/SublimeText2/Data/Packages/User/Default (Windows).sublime-keymap",
 				"/D/web/about_projects/apps/SublimeText2/Data/Packages/User/Base File.sublime-settings",
 				"/D/web/about_projects/apps/SublimeText2/Data/Packages/Alignment/Base File.sublime-settings",
 				"/D/web/about_projects/apps/SublimeText2/Data/Packages/NodeEval/NodeEval.sublime-settings",
 				"/D/web/about_projects/apps/SublimeText2/Data/Packages/SublimeCodeIntel/Default (Windows).sublime-keymap",
 				"/D/web/production01_server/node_modules/production/migrations/readme.md",
-				"/D/web/about_projects/apps/SublimeText2/Data/Packages/Default/Default (Windows).sublime-keymap",
 				"/D/web/about_projects/apps/SublimeText2/Data/Packages/User/JavaScript.sublime-settings",
 				"/D/web/production01_server/node_modules/production/runMigration.js",
 				"/D/web/production01_server/node_modules/production/models/nosql/Job/start.js",
@@ -1971,13 +1965,7 @@
 				"/D/web/production01_server/node_modules/production/client/production/source/class/production/views/jobs/OrderJobsV.js",
 				"/D/web/production01_server/node_modules/production/client/production/source/class/production/components/corrections/ConfirmCorrectionC.js",
 				"/D/web/production01_server/node_modules/production/models/nosql/Correction/insert.js",
-				"/D/web/production01_server/node_modules/production/services/corrections/getStatsGroupedByWorker.js",
-				"/D/web/production01_server/node_modules/production/services/corrections/getPreview.js",
-				"/D/web/production01_server/node_modules/production/services/corrections/getCorrectionPreview.js",
-				"/D/web/production01_server/node_modules/production/models/nosql/Correction/getPreview.js",
-				"/D/web/production01_server/node_modules/production/client/production/source/class/production/views/corrections/CorrectionManagerV.js",
-				"/D/web/production01_server/node_modules/production/client/production/source/class/production/components/corrections/CorrectionsListC.js",
-				"/D/web/production01_server/node_modules/production/client/production/source/class/production/views/corrections/CorrectionViewerV.js"
+				"/D/web/production01_server/node_modules/production/services/corrections/getStatsGroupedByWorker.js"
 			],
 			"find":
 			{
@@ -1999,6 +1987,9 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"command",
+					"ctrl+\\\\",
+					"console.log('App started with version: ' + APP_VERSION);",
 					"build",
 					"nodejs_debug",
 					"\\",
@@ -2123,10 +2114,7 @@
 					"__addApplicationConfig",
 					"__prepareApplicationConfig",
 					"__systemManager",
-					"__addApplicationConfig",
-					"__prepareApplicationConfig",
-					"dbConfig",
-					"__getDatabaseConfiguration"
+					"__addApplicationConfig"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -2272,122 +2260,8 @@
 			"groups":
 			[
 				{
-					"selected": 3,
 					"sheets":
 					[
-						{
-							"buffer": 0,
-							"file": "/D/web/about_projects/apps/SublimeText2/Data/Packages/NodejsDebug-master/nodejs_debug.py",
-							"settings":
-							{
-								"buffer_size": 1011,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										88,
-										88
-									]
-								],
-								"settings":
-								{
-									"live_git_annotations": true,
-									"syntax": "Packages/Python/Python.tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/D/web/about_projects/apps/SublimeText2/Data/Packages/NodejsDebug-master/Default (Windows).sublime-keymap",
-							"settings":
-							{
-								"buffer_size": 113,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										113,
-										113
-									]
-								],
-								"settings":
-								{
-									"live_git_annotations": true,
-									"syntax": "Packages/JavaScript/JSON.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"file": "Project Work.sublime-workspace",
-							"settings":
-							{
-								"buffer_size": 32978,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										7628,
-										7628
-									]
-								],
-								"settings":
-								{
-									"live_git_annotations": true,
-									"syntax": "Packages/Text/Plain text.tmLanguage",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 3,
-							"file": "/D/web/about_projects/apps/SublimeText2/Data/Packages/User/Nodejs Debug.sublime-build",
-							"settings":
-							{
-								"buffer_size": 929,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										335,
-										335
-									]
-								],
-								"settings":
-								{
-									"live_git_annotations": true,
-									"syntax": "Packages/JavaScript/JSON.tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						}
 					]
 				}
 			],
@@ -2424,13 +2298,13 @@
 			"menu_visible": true,
 			"output.exec":
 			{
-				"height": 98.0
+				"height": 246.0
 			},
 			"output.git":
 			{
-				"height": 161.0
+				"height": 302.0
 			},
-			"position": "0,2,3,-32140,-32000,-1,-1,827,268,61,1145",
+			"position": "0,2,3,-141,-1,-1,-1,827,268,61,1145",
 			"replace":
 			{
 				"height": 62.0
@@ -2468,7 +2342,7 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 254.0,
+			"side_bar_width": 317.0,
 			"status_bar_visible": true,
 			"window_id": 20,
 			"workspace_name": "/D/web/production01_server/Project Work.sublime-project"
