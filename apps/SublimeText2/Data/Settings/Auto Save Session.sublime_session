@@ -1,0 +1,2526 @@
+{
+	"folder_history":
+	[
+		"/D/web/about_projects/apps/SublimeText2",
+		"/D/web/about_projects/apps/SublimeText2/Data/Packages/SublimeCodeIntel",
+		"/D/web/about_projects/apps/SublimeText2/Data/Packages/NodejsDebug-master",
+		"/D/web/production01_server/node_modules/production/node_modules/session-mongoose/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection",
+		"/D/web/production01_server/node_modules/production/client/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools",
+		"/D/web/production01_server",
+		"/C/Rar$DR96.760/Aristo",
+		"/C/web/production01_server/node_modules/production",
+		"/C/web/production01_server/node_modules/production/client/production/source/class/production",
+		"/C/web/production01_server",
+		"/D/Totty/web",
+		"/D/Totty/web/about_projects/qooxdoo-contrib"
+	],
+	"last_window_id": 25,
+	"settings":
+	{
+		"new_window_height": 720.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"exp",
+						"expressWrapper"
+					],
+					[
+						"app",
+						"appliction"
+					],
+					[
+						"appl",
+						"application"
+					],
+					[
+						"getA",
+						"getApplicationAtVersion"
+					],
+					[
+						"__i",
+						"__initDatabaseDomainA"
+					],
+					[
+						"__",
+						"__applicationVersion"
+					],
+					[
+						"application",
+						"applicationManager"
+					],
+					[
+						"prod",
+						"productSelection"
+					],
+					[
+						"getW",
+						"getCurrentWorker"
+					],
+					[
+						"gett",
+						"getTodoJobModel"
+					],
+					[
+						"getDef",
+						"getDeferredJobModel"
+					],
+					[
+						"curre",
+						"currentWorkerId"
+					],
+					[
+						"date",
+						"dateStarted"
+					],
+					[
+						"paper",
+						"paperSizes"
+					],
+					[
+						"wee",
+						"weekNumber"
+					],
+					[
+						"end",
+						"endHour"
+					],
+					[
+						"timeFram",
+						"timeFrameB"
+					],
+					[
+						"time",
+						"timeFrames"
+					],
+					[
+						"spa",
+						"spaceBetweenDays"
+					],
+					[
+						"days",
+						"daysToRender"
+					],
+					[
+						"year",
+						"yearStart"
+					],
+					[
+						"firs",
+						"firstWeekDays"
+					],
+					[
+						"years",
+						"yearsToShow"
+					],
+					[
+						"work",
+						"workedHours"
+					],
+					[
+						"serial",
+						"serialsObjects"
+					],
+					[
+						"serials",
+						"serialsArray"
+					],
+					[
+						"save",
+						"saveBatchByDocs"
+					],
+					[
+						"corre",
+						"correctionObject"
+					],
+					[
+						"corr",
+						"correction"
+					],
+					[
+						"has",
+						"hasSerialNumber"
+					],
+					[
+						"timefr",
+						"timeFrameB"
+					],
+					[
+						"production",
+						"production01"
+					],
+					[
+						"saveBa",
+						"saveBatchByDocs"
+					],
+					[
+						"domain",
+						"domainName"
+					],
+					[
+						"user",
+						"UserSchema"
+					],
+					[
+						"__app",
+						"__appPort"
+					],
+					[
+						"exi",
+						"existingProperty"
+					],
+					[
+						"mer",
+						"mergeObjects"
+					],
+					[
+						"migraion",
+						"migrationFacade"
+					],
+					[
+						"system",
+						"systemManager"
+					],
+					[
+						"model",
+						"modelsFilePath"
+					],
+					[
+						"appli",
+						"application"
+					],
+					[
+						"applia",
+						"applicationManager"
+					],
+					[
+						"apl",
+						"applicationVersion"
+					],
+					[
+						"v00_",
+						"v00_00_000"
+					],
+					[
+						"__migratio",
+						"__migrationDatabaseConfiguration"
+					],
+					[
+						"__appl",
+						"__applicationPath"
+					],
+					[
+						"__migration",
+						"__migrationControl"
+					],
+					[
+						"nosq",
+						"nosqlConfig"
+					],
+					[
+						"Ini",
+						"InitializatorFacade"
+					],
+					[
+						"Initializator",
+						"initializatorFacade"
+					],
+					[
+						"ser",
+						"serviceName"
+					],
+					[
+						"servi",
+						"servicePermission"
+					],
+					[
+						"__ge",
+						"__getModel"
+					],
+					[
+						"permis",
+						"permissionType"
+					],
+					[
+						"sy",
+						"sysPermissionType"
+					],
+					[
+						"getMo",
+						"__getModels"
+					],
+					[
+						"applicatio",
+						"applicationManager"
+					],
+					[
+						"databases",
+						"databaseConfigurations"
+					],
+					[
+						"connec",
+						"connection"
+					],
+					[
+						"data",
+						"databaseConfigurations"
+					],
+					[
+						"database",
+						"databaseConfigurations"
+					],
+					[
+						"initial",
+						"initializatorName"
+					],
+					[
+						"__models",
+						"__modelsFilePath"
+					],
+					[
+						"migr",
+						"migrateDatabase"
+					],
+					[
+						"migration",
+						"migrationControl"
+					],
+					[
+						"init",
+						"initModels"
+					],
+					[
+						"config",
+						"configuration"
+					],
+					[
+						"__con",
+						"__configurations"
+					],
+					[
+						"sequel",
+						"sequelize"
+					],
+					[
+						"mode",
+						"modelsNames"
+					],
+					[
+						"service",
+						"serviceMetadata"
+					],
+					[
+						"manageS",
+						"manageService2"
+					],
+					[
+						"getConn",
+						"getConnection"
+					],
+					[
+						"missing",
+						"missingKeysArray"
+					],
+					[
+						"connection",
+						"connectionManager"
+					],
+					[
+						"to",
+						"toVersion"
+					],
+					[
+						"getData",
+						"getDatabaseName"
+					],
+					[
+						"index",
+						"indexOfTheStepToRemove"
+					],
+					[
+						"migra",
+						"migrationSteps"
+					],
+					[
+						"migratio",
+						"migrationPointVersion"
+					],
+					[
+						"migrationPo",
+						"migrationPointVersion"
+					],
+					[
+						"migrationP",
+						"migrationPointVersions"
+					],
+					[
+						"conn",
+						"setConnectionB"
+					],
+					[
+						"conne",
+						"connectionA"
+					],
+					[
+						"getAppl",
+						"getApplicationMigrationsPath"
+					],
+					[
+						"getMigr",
+						"getApplicationMigrationPath"
+					],
+					[
+						"from",
+						"fromVersion"
+					],
+					[
+						"isp",
+						"isApplicationManagementDatabase"
+					],
+					[
+						"ph",
+						"physicalDatabaseName"
+					],
+					[
+						"isApl",
+						"isApplicationManagementDatabase"
+					],
+					[
+						"stepr",
+						"stepRunnerContext"
+					],
+					[
+						"step",
+						"stepRunnerContext"
+					],
+					[
+						"datab",
+						"databaseName"
+					],
+					[
+						"is",
+						"isApplicationManagementDatabase"
+					],
+					[
+						"__on",
+						"__onEndCallback"
+					],
+					[
+						"_con",
+						"_connectionIsNew"
+					],
+					[
+						"databas",
+						"databaseVersion"
+					],
+					[
+						"mi",
+						"migrationPointVersions"
+					],
+					[
+						"test",
+						"testContext"
+					],
+					[
+						"drop",
+						"dropDatabase"
+					],
+					[
+						"missin",
+						"missingArgumentsError"
+					],
+					[
+						"pass",
+						"password"
+					],
+					[
+						"__application",
+						"__applicationRootPath"
+					],
+					[
+						"manage",
+						"manageService"
+					],
+					[
+						"logged",
+						"loggedUserName"
+					],
+					[
+						"logge",
+						"loggedUserName"
+					],
+					[
+						"configured",
+						"configured"
+					],
+					[
+						"con",
+						"configName"
+					],
+					[
+						"getNum",
+						"getNumberOfTotalItems"
+					],
+					[
+						"later",
+						"laterSpaces"
+					],
+					[
+						"passed",
+						"passedItems"
+					],
+					[
+						"passe",
+						"passedItems"
+					],
+					[
+						"succe",
+						"succeededExpects"
+					],
+					[
+						"__ex",
+						"__succeededExpects"
+					],
+					[
+						"tes",
+						"TestFolder"
+					],
+					[
+						"__test",
+						"__testSummary"
+					],
+					[
+						"summ",
+						"summaries"
+					],
+					[
+						"summa",
+						"summaries"
+					],
+					[
+						"get",
+						"getArgs"
+					],
+					[
+						"pr",
+						"productsInserted"
+					],
+					[
+						"worker",
+						"workersN"
+					],
+					[
+						"random",
+						"randomProduct"
+					],
+					[
+						"ran",
+						"randomWorker"
+					],
+					[
+						"num",
+						"numberOfCallbacks"
+					],
+					[
+						"th",
+						"thirdCol"
+					],
+					[
+						"skip",
+						"skipJustification"
+					],
+					[
+						"find",
+						"findById"
+					]
+				]
+			},
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 228.0,
+				"selected_items":
+				[
+					[
+						"pack insta",
+						"Package Control: Install Package"
+					],
+					[
+						"inst pac",
+						"Package Control: Install Package"
+					],
+					[
+						"set syn java",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"inst pa",
+						"Package Control: Install Package"
+					],
+					[
+						"git:",
+						"Git: Toggle Annotations"
+					],
+					[
+						"git:bl",
+						"Git: Blame"
+					],
+					[
+						"git annot",
+						"Git: Toggle Annotations"
+					],
+					[
+						"git:pu",
+						"Git: Push"
+					],
+					[
+						"git:stat",
+						"Git: Status"
+					],
+					[
+						"git:st",
+						"Git: Show Tags"
+					],
+					[
+						"git pus",
+						"Git: Push"
+					],
+					[
+						"git:comm",
+						"Git: Commit"
+					],
+					[
+						"git:add",
+						"Git: Add..."
+					],
+					[
+						"git",
+						"Git: Status"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"g",
+						"Github: Blame"
+					],
+					[
+						"pack inst",
+						"Package Control: Install Package"
+					],
+					[
+						"pack in",
+						"Package Control: Install Package"
+					],
+					[
+						"task",
+						"Tasks: New document"
+					],
+					[
+						"",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ins",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: insta",
+						"Package Control: Install Package"
+					],
+					[
+						"send to ",
+						"Send to evernote"
+					],
+					[
+						"snippet",
+						"Snippet: if … else"
+					]
+				],
+				"width": 522.0
+			},
+			"console":
+			{
+				"height": 125.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/D/web/production01_server/node_modules/production/runMigration.js",
+				"/D/web/production01_server/node_modules/production/models/nosql/Job/start.js",
+				"/D/web/about_projects/apps/SublimeText2/Data/Packages/SublimeCodeIntel/.codeintel/config",
+				"/D/web/production01_server/node_modules/production/migrations/v01_00_001/Migration.js",
+				"/D/web/production01_server/node_modules/production/models/nosql/Product.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/views/corrections/ConfirmCorrectionV.js",
+				"/D/web/production01_server/node_modules/production/initializators/default/index.js",
+				"/D/web/production01_server/node_modules/production/settings/main.js",
+				"/D/web/production01_server/node_modules/production/_indexWithoutForever2.js",
+				"/D/web/production01_server/node_modules/production/node_modules/applicationManager/system/MigrationManager.js",
+				"/D/web/production01_server/node_modules/production/node_modules/applicationManager/ExpressWrapper.js",
+				"/D/web/production01_server/node_modules/production/node_modules/applicationManager/system/SystemManager.js",
+				"/D/web/production01_server/node_modules/production/node_modules/applicationManager/system/Application.js",
+				"/D/web/production01_server/node_modules/production/node_modules/applicationManager/system/facades/MigrationManagerFacade.js",
+				"/D/web/production01_server/node_modules/production/node_modules/tUtils/check.js",
+				"/D/web/production01_server/README.md",
+				"/D/web/production01_server/node_modules/production/node_modules/applicationManager/configNodeModules.js",
+				"/D/web/production01_server/node_modules/production/node_modules/applicationManager/system/facades/MigrationFacade.js",
+				"/D/web/production01_server/node_modules/production/settings/get.js",
+				"/D/web/production01_server/node_modules/production/settings/getSettings.js",
+				"/D/web/production01_server/node_modules/production/services/users/register.js",
+				"/D/web/production01_server/node_modules/production/config/main.js",
+				"/D/web/production01_server/node_modules/production/config/_old/databases/winTest/index.js",
+				"/D/web/production01_server/node_modules/production/config/databases/winTest/index.js",
+				"/D/web/production01_server/_deployment/nginxConfigs/http/index.conf",
+				"/D/web/production01_server/node_modules/production/importMongo.js",
+				"/D/web/production01_server/node_modules/production/config/application/winTest/index.js",
+				"/D/web/production01_server/node_modules/production/node_modules/applicationManager/system/databaseDrivers/MongodbDriver.js",
+				"/D/web/production01_server/node_modules/production/node_modules/session-mongoose/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/server.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/components/stats/WeeklyC.js",
+				"/D/web/production01_server/node_modules/production/models/nosql/Serial.js",
+				"/D/web/production01_server/node_modules/production/models/utils/saveBatchByDocs.js",
+				"/D/web/production01_server/node_modules/production/tests/tottys/scenarios/jobs/start.js",
+				"/D/web/production01_server/node_modules/production/tests/tottys/scenarios/jobs/insert.js",
+				"/D/web/production01_server/node_modules/production/tests/tottys/scenarios/jobs/skip.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/components/ProductionC.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/views/ProductionV.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/components/jobs/InsertJobC.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/views/jobs/InsertJobV.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/components/ProductSelectionC.js",
+				"/D/web/production01_server/node_modules/production/models/nosql/Job/insert.js",
+				"/D/web/production01_server/node_modules/production/models/nosql/Job.js",
+				"/D/web/production01_server/node_modules/production/models/nosql/Job/skip.js",
+				"/D/web/production01_server/node_modules/production/tests/tottys/_environments/DefaultEnvironment.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/components/lists/BaseListC.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/components/ManagerControlPanelC.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/Application.js",
+				"/D/web/production01_server/node_modules/production/models/nosql/Product/addRequested.js",
+				"/D/web/production01_server/node_modules/production/models/nosql/Product/addCorrected.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/components/ControlPanelC.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/components/Component.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/views/lists/itemRenderer/WorkerIR.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/models/table/BaseRemote.js",
+				"/D/web/production01_server/node_modules/production/serviceHelpers/get.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/views/lists/MobileListV.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/views/lists/mobileItemRenderer/WorkerIR.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/views/lists/mobileItemRenderer/WorkersIR.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/views/lists/BaseListV.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/views/lists/MobileList.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/views/stats/DayV.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/views/stats/WeekGraphV.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/views/stats/WeeklyV.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/views/mainScreen/SerialsTable.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/views/ControlPanelV.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/components/WorkerGroupC.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/views/MainScreenV.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/ComponentFactory.js",
+				"/D/web/production01_server/node_modules/production/services/jobs/insert.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/components/stats/WeekGraphC.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/components/stats/DayC.js",
+				"/D/web/production01_server/node_modules/production/models/nosql/TimeFrame.js",
+				"/D/web/production01_server/node_modules/production/client/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/Tcanvas/View.js",
+				"/D/web/production01_server/node_modules/production/client/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/Tcanvas/renders/basic/Render.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/models/marshalMixins/Week.js",
+				"/D/web/production01_server/_run/umongo-windows-all_1-2-1/conf/umongo.xml",
+				"/D/web/production01_server/node_modules/production/client/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/Tcanvas/items/Label.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/parsers/SubDataToDot.js",
+				"/D/web/production01_server/node_modules/production/client/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/Tcanvas/items/Rectangle.js",
+				"/D/web/production01_server/node_modules/production/migrations/v01_00_001/models/nosql/Job.js",
+				"/D/web/production01_server/node_modules/production/client/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/Tcanvas/items/Group.js",
+				"/D/web/production01_server/node_modules/production/client/production/config2.json",
+				"/D/web/production01_server/node_modules/production/client/production/config.json",
+				"/D/web/production01_server/node_modules/production/client/qooxdoo-contrib/TottysTools/trunk/Manifest.json",
+				"/D/web/production01_server/node_modules/production/client/qooxdoo-contrib/Aristo/trunk/Manifest.json",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/components/stats/WeekGraphV.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/views/ManagerControlPanelV.js",
+				"/D/web/production01_server/node_modules/production/services/statistics/workersDailyTimes/getData.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/components/stats/Weekly.js",
+				"/D/web/production01_server/node_modules/production/tests/tottys/scenarios/statistics/workersDailyTimes/getData.js",
+				"/D/web/production01_server/node_modules/production/_indexWithoutForever2cl.js",
+				"/D/web/production01_server/node_modules/production/services/jobs/reOrderMany.js",
+				"/D/web/production01_server/node_modules/production/models/nosql/Job/reorderMany.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/components/jobs/OrderJobsC.js",
+				"/D/web/production01_server/node_modules/production/services/jobs/get.js",
+				"/D/web/production01_server/node_modules/production/models/nosql/Job/reorder.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/models/table/JobSimple.js",
+				"/D/web/production01_server/node_modules/production/services/jobs/getAll.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/views/jobs/OrderJobsV.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/components/corrections/ConfirmCorrectionC.js",
+				"/D/web/production01_server/node_modules/production/models/nosql/Correction/insert.js",
+				"/D/web/production01_server/node_modules/production/services/corrections/getStatsGroupedByWorker.js",
+				"/D/web/production01_server/node_modules/production/services/corrections/getPreview.js",
+				"/D/web/production01_server/node_modules/production/services/corrections/getCorrectionPreview.js",
+				"/D/web/production01_server/node_modules/production/models/nosql/Correction/getPreview.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/views/corrections/CorrectionManagerV.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/components/corrections/CorrectionsListC.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/views/corrections/CorrectionViewerV.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/views/corrections/CorrectionsListV.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/models/table/Correction.js",
+				"/D/web/production01_server/node_modules/production/models/nosql/Worker.js",
+				"/D/web/production01_server/node_modules/production/models/nosql/User.js",
+				"/D/web/production01_server/node_modules/production/models/nosql/Correction.js",
+				"/D/web/production01_server/node_modules/production/models/utils/defaultSchemaOptions.js",
+				"/D/web/production01_server/node_modules/production/migrations/v01_00_001/models/nosql/Correction.js",
+				"/D/web/production01_server/node_modules/production/services/corrections/insertCorrectionByProductId.js",
+				"/D/web/production01_server/node_modules/production/tests/tottys/scenarios/corrections/Insert.js",
+				"/D/web/production01_server/node_modules/production/services/corrections/getCorrectionPreviewByProductId.js",
+				"/D/web/production01_server/node_modules/production/models/nosql/Product/addUncorrected.js",
+				"/D/web/production01_server/node_modules/production/models/nosql/Job/pause.js",
+				"/D/web/production01_server/node_modules/production/tottysTests/TestContext.js",
+				"/D/web/production01_server/node_modules/production/tottysTests/TestWrapper.js",
+				"/D/web/production01_server/node_modules/production/models/nosql/Job/end.js",
+				"/D/web/production01_server/node_modules/production/tests/tottys/scenarios/corrections/GetCorrectionPreviewByProductId.js",
+				"/D/web/production01_server/node_modules/production/models/nosql/Job/continue.js",
+				"/D/web/production01_server/node_modules/production/node_modules/applicationManager/system/Database.js",
+				"/D/web/production01_server/node_modules/production/models/utils/staticToInstance.js",
+				"/D/web/production01_server/node_modules/production/testMigration.js",
+				"/D/web/production01_server/node_modules/production/tests/tottys/scenarios/products/GetWithQuantityUncorrected.js"
+			],
+			"find":
+			{
+				"height": 34.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+					"C:\\web\\production01_server\\node_modules\\production\\",
+					"C:\\web\\production01_server\\node_modules\\production\\services",
+					"<open folders>",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"productsData",
+					"\"production01\"",
+					"__createApplication",
+					"migration done",
+					"__getModel",
+					"__getServicePath",
+					"__getModel",
+					"__hasServicePermission",
+					"__getDatabaseVersion",
+					"__migrate",
+					"initApplication",
+					"console",
+					"__initDatabaseDomain",
+					"migrate",
+					"__migrateOne",
+					"runMigration",
+					"__initDatabaseDomain",
+					"conso",
+					"checkFail",
+					"errors",
+					"checkFail",
+					"){\n",
+					"DatabaseDomain",
+					"getDatabaseSettings",
+					"migrationa",
+					"applicationMigrationsPath",
+					"__getMigrationPointVersions",
+					"__applicationMigrationsPath",
+					"migration done",
+					"__migrateOne",
+					"__buildApplicationInstance",
+					"deleteApplication",
+					"__getModels",
+					"__initApplication",
+					"initApplication",
+					"unInitApplication",
+					"console",
+					"application",
+					"createApplication",
+					"applicationSettings",
+					"createApplication",
+					"create",
+					"unInitApplication",
+					"appliction",
+					"__initApplication",
+					"create",
+					"unInitApplication",
+					"__initApplication",
+					"__applications",
+					"applicationConfig",
+					"error",
+					"3",
+					"__initApplication",
+					"__getApplication",
+					"deleteApplication",
+					"__getApplication",
+					"__initApplication",
+					"__getApplication",
+					"__getDatabaseConfiguration",
+					"getApplication",
+					"__settings",
+					"getApplication",
+					"__manageRequest",
+					"expressWrapper",
+					"getApplication",
+					"version",
+					"rootPath",
+					"__getApplicationConfig",
+					"applicationConfig",
+					"__getApplicationConfig",
+					"applicationPath",
+					"applicationVersion",
+					"__getApplicationConfig",
+					"systemDatabasesConfigurations",
+					"__systemDatabasesConfigurations",
+					"__prepareApplicationConfig",
+					"__initDatabaseDomain",
+					"__initDatabaseDomainB",
+					"__systemManager",
+					"__getDatabaseConfiguration",
+					"__applicationConfigs",
+					"version",
+					"applicationSettings",
+					"__systemManager",
+					"addApplicationConfig",
+					"start",
+					"__getSessionStore",
+					"__applicationPath",
+					"__systemManager",
+					"applicationPath",
+					"appIp",
+					"appPort",
+					"secretSession",
+					"__initVersion",
+					"applicationDatabasesSettings",
+					"__migrationManagerFacade",
+					"hardMigrationVersion",
+					"applicationVersion",
+					"migrationManagerFacade",
+					"__migrationManagerFacade",
+					"require",
+					"databaseConfigurations",
+					"ApplicationModel",
+					"MigrationModel",
+					"applicationRecord",
+					"applicationConfig",
+					"__getApplicationConfig",
+					"__systemDatabasesConfigurations",
+					"__addApplicationConfig",
+					"__systemManager",
+					"systemDatabasesConfigurations",
+					"modelsFilePath",
+					"modelspath",
+					"modelpath",
+					"modelspath",
+					"models",
+					"__addApplicationConfig",
+					"__prepareApplicationConfig",
+					"__systemManager",
+					"__addApplicationConfig",
+					"__prepareApplicationConfig",
+					"dbConfig",
+					"__getDatabaseConfiguration",
+					"dbConfig",
+					"__getDatabaseConfiguration",
+					"dbConfig",
+					"produc",
+					"__getDatabaseConfiguration"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"applicationName",
+					"errs",
+					"__getSystemModels",
+					"__buildApplicationInstance",
+					"rootPath",
+					"version",
+					"workerId",
+					"__workersListC",
+					"__selectWorkerByNumber",
+					"	",
+					"NoWorkColor",
+					"noWorkColor",
+					"var spaceBottom = 15;",
+					"var spaceBottom = 0;",
+					"mainLabel",
+					"this.__canvas.getInnerSize",
+					"function(){",
+					"function(width, height){\n            var width = getInnerSize().width;\n            var height = getInnerSize().height;\n            ",
+					"",
+					"__updateYAxis",
+					"production",
+					"header",
+					"years",
+					"week",
+					"serial",
+					"serialsB",
+					"quantityCorrected",
+					"addCorrected",
+					"serials",
+					"serialsObjects",
+					"jobsA",
+					"workersId",
+					"jobsId",
+					"dataGroupedByWorker",
+					"	",
+					".id",
+					"id",
+					"makeRequest",
+					"makeRequestAndValidate",
+					"makeRequest",
+					"Job",
+					"Jobs",
+					"Groupt",
+					"    ,CONSTRAINT id PRIMARY KEY(id)",
+					"	",
+					"savedDocs",
+					"docs",
+					"name",
+					"	",
+					"myapp",
+					"models.",
+					"initializatorName",
+					"applicationConfig",
+					"initializatorName",
+					"System",
+					"",
+					"servicePath",
+					"ModelManager",
+					"__models.getModel(\"Domain\")",
+					"databaseConfigurations",
+					"databaseVersion",
+					"domainVersion",
+					"requiredOptions",
+					"applicationDatabaseConfigPath",
+					"applicationServicesPath",
+					"applicationMigrationsPath",
+					"applicationModelsPath",
+					"odelsPath",
+					"applicationMigrationPath",
+					"getApplicationVersion()",
+					"servicesRootPath",
+					": function",
+					",",
+					"_environment",
+					"dv",
+					"av",
+					"__ended",
+					": ",
+					",",
+					"applicationRootPath",
+					"applicationManagerRootPath",
+					"applicationManagerDatabaseName",
+					"applicationManager",
+					"this.__applicationManager",
+					": function",
+					",",
+					"__folderWrapper",
+					"__folderWrappers",
+					"__foldersWrappers",
+					"__FoldersWrappers",
+					"fileWrappers",
+					"__fileWrappers",
+					"__relativePath",
+					"done",
+					"getArgs",
+					" ### ",
+					"correctJobs",
+					"",
+					"productIdFilter",
+					"getCorrectionPreviewByProductId",
+					"stepName",
+					"worker",
+					"worker\n, function(expect){\n                expect(",
+					"ass\n, function(expect){\n                expect(",
+					"__replaceXInArray\n, function(expect){\n                expect(",
+					"_runNextStep\n, function(expect){\n                expect(",
+					", function(expect){\n, function(expect){\n                expect(",
+					", function(expect){\n                expect(",
+					"test.add(",
+					", function(expect){\n                expect(",
+					"test.add(",
+					":",
+					",",
+					"",
+					"second",
+					"prepareInsertJobArgs",
+					": function",
+					",",
+					": function",
+					",",
+					": function",
+					",",
+					": function",
+					",",
+					":",
+					"\"",
+					"assignJob",
+					"else if(step ==="
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 32.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.git":
+			{
+				"height": 68.0
+			},
+			"replace":
+			{
+				"height": 62.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"inserjob",
+						"production/client/production/source/class/production/controllers/insertJob/InsertJob.js"
+					],
+					[
+						"mainscree",
+						"production/client/production/source/class/production/views/MainScreen.js"
+					],
+					[
+						"workergroup",
+						"production/client/production/source/class/production/controllers/WorkerGroup.js"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 254.0,
+			"status_bar_visible": true
+		},
+		"new_window_width": 869.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"exp",
+						"expressWrapper"
+					],
+					[
+						"app",
+						"appliction"
+					],
+					[
+						"appl",
+						"application"
+					],
+					[
+						"getA",
+						"getApplicationAtVersion"
+					],
+					[
+						"__i",
+						"__initDatabaseDomainA"
+					],
+					[
+						"__",
+						"__applicationVersion"
+					],
+					[
+						"application",
+						"applicationManager"
+					],
+					[
+						"prod",
+						"productSelection"
+					],
+					[
+						"getW",
+						"getCurrentWorker"
+					],
+					[
+						"gett",
+						"getTodoJobModel"
+					],
+					[
+						"getDef",
+						"getDeferredJobModel"
+					],
+					[
+						"curre",
+						"currentWorkerId"
+					],
+					[
+						"date",
+						"dateStarted"
+					],
+					[
+						"paper",
+						"paperSizes"
+					],
+					[
+						"wee",
+						"weekNumber"
+					],
+					[
+						"end",
+						"endHour"
+					],
+					[
+						"timeFram",
+						"timeFrameB"
+					],
+					[
+						"time",
+						"timeFrames"
+					],
+					[
+						"spa",
+						"spaceBetweenDays"
+					],
+					[
+						"days",
+						"daysToRender"
+					],
+					[
+						"year",
+						"yearStart"
+					],
+					[
+						"firs",
+						"firstWeekDays"
+					],
+					[
+						"years",
+						"yearsToShow"
+					],
+					[
+						"work",
+						"workedHours"
+					],
+					[
+						"serial",
+						"serialsObjects"
+					],
+					[
+						"serials",
+						"serialsArray"
+					],
+					[
+						"save",
+						"saveBatchByDocs"
+					],
+					[
+						"corre",
+						"correctionObject"
+					],
+					[
+						"corr",
+						"correction"
+					],
+					[
+						"has",
+						"hasSerialNumber"
+					],
+					[
+						"timefr",
+						"timeFrameB"
+					],
+					[
+						"production",
+						"production01"
+					],
+					[
+						"saveBa",
+						"saveBatchByDocs"
+					],
+					[
+						"domain",
+						"domainName"
+					],
+					[
+						"user",
+						"UserSchema"
+					],
+					[
+						"__app",
+						"__appPort"
+					],
+					[
+						"exi",
+						"existingProperty"
+					],
+					[
+						"mer",
+						"mergeObjects"
+					],
+					[
+						"migraion",
+						"migrationFacade"
+					],
+					[
+						"system",
+						"systemManager"
+					],
+					[
+						"model",
+						"modelsFilePath"
+					],
+					[
+						"appli",
+						"application"
+					],
+					[
+						"applia",
+						"applicationManager"
+					],
+					[
+						"apl",
+						"applicationVersion"
+					],
+					[
+						"v00_",
+						"v00_00_000"
+					],
+					[
+						"__migratio",
+						"__migrationDatabaseConfiguration"
+					],
+					[
+						"__appl",
+						"__applicationPath"
+					],
+					[
+						"__migration",
+						"__migrationControl"
+					],
+					[
+						"nosq",
+						"nosqlConfig"
+					],
+					[
+						"Ini",
+						"InitializatorFacade"
+					],
+					[
+						"Initializator",
+						"initializatorFacade"
+					],
+					[
+						"ser",
+						"serviceName"
+					],
+					[
+						"servi",
+						"servicePermission"
+					],
+					[
+						"__ge",
+						"__getModel"
+					],
+					[
+						"permis",
+						"permissionType"
+					],
+					[
+						"sy",
+						"sysPermissionType"
+					],
+					[
+						"getMo",
+						"__getModels"
+					],
+					[
+						"applicatio",
+						"applicationManager"
+					],
+					[
+						"databases",
+						"databaseConfigurations"
+					],
+					[
+						"connec",
+						"connection"
+					],
+					[
+						"data",
+						"databaseConfigurations"
+					],
+					[
+						"database",
+						"databaseConfigurations"
+					],
+					[
+						"initial",
+						"initializatorName"
+					],
+					[
+						"__models",
+						"__modelsFilePath"
+					],
+					[
+						"migr",
+						"migrateDatabase"
+					],
+					[
+						"migration",
+						"migrationControl"
+					],
+					[
+						"init",
+						"initModels"
+					],
+					[
+						"config",
+						"configuration"
+					],
+					[
+						"__con",
+						"__configurations"
+					],
+					[
+						"sequel",
+						"sequelize"
+					],
+					[
+						"mode",
+						"modelsNames"
+					],
+					[
+						"service",
+						"serviceMetadata"
+					],
+					[
+						"manageS",
+						"manageService2"
+					],
+					[
+						"getConn",
+						"getConnection"
+					],
+					[
+						"missing",
+						"missingKeysArray"
+					],
+					[
+						"connection",
+						"connectionManager"
+					],
+					[
+						"to",
+						"toVersion"
+					],
+					[
+						"getData",
+						"getDatabaseName"
+					],
+					[
+						"index",
+						"indexOfTheStepToRemove"
+					],
+					[
+						"migra",
+						"migrationSteps"
+					],
+					[
+						"migratio",
+						"migrationPointVersion"
+					],
+					[
+						"migrationPo",
+						"migrationPointVersion"
+					],
+					[
+						"migrationP",
+						"migrationPointVersions"
+					],
+					[
+						"conn",
+						"setConnectionB"
+					],
+					[
+						"conne",
+						"connectionA"
+					],
+					[
+						"getAppl",
+						"getApplicationMigrationsPath"
+					],
+					[
+						"getMigr",
+						"getApplicationMigrationPath"
+					],
+					[
+						"from",
+						"fromVersion"
+					],
+					[
+						"isp",
+						"isApplicationManagementDatabase"
+					],
+					[
+						"ph",
+						"physicalDatabaseName"
+					],
+					[
+						"isApl",
+						"isApplicationManagementDatabase"
+					],
+					[
+						"stepr",
+						"stepRunnerContext"
+					],
+					[
+						"step",
+						"stepRunnerContext"
+					],
+					[
+						"datab",
+						"databaseName"
+					],
+					[
+						"is",
+						"isApplicationManagementDatabase"
+					],
+					[
+						"__on",
+						"__onEndCallback"
+					],
+					[
+						"_con",
+						"_connectionIsNew"
+					],
+					[
+						"databas",
+						"databaseVersion"
+					],
+					[
+						"mi",
+						"migrationPointVersions"
+					],
+					[
+						"test",
+						"testContext"
+					],
+					[
+						"drop",
+						"dropDatabase"
+					],
+					[
+						"missin",
+						"missingArgumentsError"
+					],
+					[
+						"pass",
+						"password"
+					],
+					[
+						"__application",
+						"__applicationRootPath"
+					],
+					[
+						"manage",
+						"manageService"
+					],
+					[
+						"logged",
+						"loggedUserName"
+					],
+					[
+						"logge",
+						"loggedUserName"
+					],
+					[
+						"configured",
+						"configured"
+					],
+					[
+						"con",
+						"configName"
+					],
+					[
+						"getNum",
+						"getNumberOfTotalItems"
+					],
+					[
+						"later",
+						"laterSpaces"
+					],
+					[
+						"passed",
+						"passedItems"
+					],
+					[
+						"passe",
+						"passedItems"
+					],
+					[
+						"succe",
+						"succeededExpects"
+					],
+					[
+						"__ex",
+						"__succeededExpects"
+					],
+					[
+						"tes",
+						"TestFolder"
+					],
+					[
+						"__test",
+						"__testSummary"
+					],
+					[
+						"summ",
+						"summaries"
+					],
+					[
+						"summa",
+						"summaries"
+					],
+					[
+						"get",
+						"getArgs"
+					],
+					[
+						"pr",
+						"productsInserted"
+					],
+					[
+						"worker",
+						"workersN"
+					],
+					[
+						"random",
+						"randomProduct"
+					],
+					[
+						"ran",
+						"randomWorker"
+					],
+					[
+						"num",
+						"numberOfCallbacks"
+					],
+					[
+						"th",
+						"thirdCol"
+					],
+					[
+						"skip",
+						"skipJustification"
+					],
+					[
+						"find",
+						"findById"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/D/web/about_projects/apps/SublimeText2/Data/Packages/NodejsDebug-master/nodejs_debug.py",
+					"settings":
+					{
+						"buffer_size": 1011,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/D/web/about_projects/apps/SublimeText2/Data/Packages/NodejsDebug-master/Default (Windows).sublime-keymap",
+					"settings":
+					{
+						"buffer_size": 113,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "Project Work.sublime-workspace",
+					"settings":
+					{
+						"buffer_size": 31691,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/D/web/about_projects/apps/SublimeText2/Data/Packages/User/Nodejs Debug.sublime-build",
+					"settings":
+					{
+						"buffer_size": 948,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "node_modules/production/_indexWithoutForever2.js",
+					"settings":
+					{
+						"buffer_size": 1939,
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "Packages/Nodejs/Nodejs.sublime-build",
+			"command_palette":
+			{
+				"height": 132.0,
+				"selected_items":
+				[
+					[
+						"git: ann",
+						"Git: Toggle Annotations"
+					],
+					[
+						"anno",
+						"Git: Toggle Annotations"
+					],
+					[
+						"insta pac",
+						"Package Control: Install Package"
+					],
+					[
+						"pack insta",
+						"Package Control: Install Package"
+					],
+					[
+						"inst pac",
+						"Package Control: Install Package"
+					],
+					[
+						"set syn java",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"inst pa",
+						"Package Control: Install Package"
+					],
+					[
+						"git:",
+						"Git: Toggle Annotations"
+					],
+					[
+						"git:bl",
+						"Git: Blame"
+					],
+					[
+						"git annot",
+						"Git: Toggle Annotations"
+					],
+					[
+						"git:pu",
+						"Git: Push"
+					],
+					[
+						"git:stat",
+						"Git: Status"
+					],
+					[
+						"git:st",
+						"Git: Show Tags"
+					],
+					[
+						"git pus",
+						"Git: Push"
+					],
+					[
+						"git:comm",
+						"Git: Commit"
+					],
+					[
+						"git:add",
+						"Git: Add..."
+					],
+					[
+						"git",
+						"Git: Status"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"g",
+						"Github: Blame"
+					],
+					[
+						"pack inst",
+						"Package Control: Install Package"
+					],
+					[
+						"pack in",
+						"Package Control: Install Package"
+					],
+					[
+						"task",
+						"Tasks: New document"
+					],
+					[
+						"",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ins",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: insta",
+						"Package Control: Install Package"
+					],
+					[
+						"send to ",
+						"Send to evernote"
+					],
+					[
+						"snippet",
+						"Snippet: if … else"
+					]
+				],
+				"width": 522.0
+			},
+			"console":
+			{
+				"height": 125.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/D/web/about_projects/apps/SublimeText2/Data/Packages/Nodejs/Nodejs.sublime-settings",
+				"/D/web/about_projects/apps/SublimeText2/Data/Packages/Nodejs/Readme.md",
+				"/D/web/production01_server/_run/sublimeTextSettings/build/debug.sublime-build",
+				"/D/web/about_projects/apps/SublimeText2/Data/Packages/User/Nodejs Debug.sublime-build",
+				"/D/web/about_projects/apps/SublimeText2/Data/Packages/NodejsDebug-master/nodejs_debug.sublime-settings",
+				"/D/web/about_projects/apps/SublimeText2/Data/Packages/Default/Preferences.sublime-settings",
+				"/D/web/about_projects/apps/SublimeText2/Data/Packages/User/Preferences.sublime-settings",
+				"/D/web/production01_server/Project Work.sublime-workspace",
+				"/D/web/about_projects/apps/SublimeText2/Data/Packages/Git/Git.sublime-settings",
+				"/D/web/production01_server/node_modules/production/migrations/v01_00_001/Migration.js",
+				"/D/web/about_projects/apps/SublimeText2/Data/Packages/NodejsDebug-master/Context.sublime-menu",
+				"/D/web/production01_server/node_modules/production/_indexWithoutForever2.js",
+				"/D/web/about_projects/apps/SublimeText2/Data/Packages/NodejsDebug-master/package-metadata.json",
+				"/D/web/about_projects/apps/SublimeText2/Data/Packages/Package Control/Package Control.sublime-settings",
+				"/D/web/about_projects/apps/SublimeText2/Data/Packages/User/Git.sublime-settings",
+				"/D/web/about_projects/apps/SublimeText2/Data/Packages/Alignment/Default (Windows).sublime-keymap",
+				"/D/web/about_projects/apps/SublimeText2/Data/Packages/User/Default (Windows).sublime-keymap",
+				"/D/web/about_projects/apps/SublimeText2/Data/Packages/User/Base File.sublime-settings",
+				"/D/web/about_projects/apps/SublimeText2/Data/Packages/Alignment/Base File.sublime-settings",
+				"/D/web/about_projects/apps/SublimeText2/Data/Packages/NodeEval/NodeEval.sublime-settings",
+				"/D/web/about_projects/apps/SublimeText2/Data/Packages/SublimeCodeIntel/Default (Windows).sublime-keymap",
+				"/D/web/production01_server/node_modules/production/migrations/readme.md",
+				"/D/web/about_projects/apps/SublimeText2/Data/Packages/Default/Default (Windows).sublime-keymap",
+				"/D/web/about_projects/apps/SublimeText2/Data/Packages/User/JavaScript.sublime-settings",
+				"/D/web/production01_server/node_modules/production/runMigration.js",
+				"/D/web/production01_server/node_modules/production/models/nosql/Job/start.js",
+				"/D/web/about_projects/apps/SublimeText2/Data/Packages/SublimeCodeIntel/.codeintel/config",
+				"/D/web/production01_server/node_modules/production/models/nosql/Product.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/views/corrections/ConfirmCorrectionV.js",
+				"/D/web/production01_server/node_modules/production/initializators/default/index.js",
+				"/D/web/production01_server/node_modules/production/settings/main.js",
+				"/D/web/production01_server/node_modules/production/node_modules/applicationManager/system/MigrationManager.js",
+				"/D/web/production01_server/node_modules/production/node_modules/applicationManager/ExpressWrapper.js",
+				"/D/web/production01_server/node_modules/production/node_modules/applicationManager/system/SystemManager.js",
+				"/D/web/production01_server/node_modules/production/node_modules/applicationManager/system/Application.js",
+				"/D/web/production01_server/node_modules/production/node_modules/applicationManager/system/facades/MigrationManagerFacade.js",
+				"/D/web/production01_server/node_modules/production/node_modules/tUtils/check.js",
+				"/D/web/production01_server/README.md",
+				"/D/web/production01_server/node_modules/production/node_modules/applicationManager/configNodeModules.js",
+				"/D/web/production01_server/node_modules/production/node_modules/applicationManager/system/facades/MigrationFacade.js",
+				"/D/web/production01_server/node_modules/production/settings/get.js",
+				"/D/web/production01_server/node_modules/production/settings/getSettings.js",
+				"/D/web/production01_server/node_modules/production/services/users/register.js",
+				"/D/web/production01_server/node_modules/production/config/main.js",
+				"/D/web/production01_server/node_modules/production/config/_old/databases/winTest/index.js",
+				"/D/web/production01_server/node_modules/production/config/databases/winTest/index.js",
+				"/D/web/production01_server/_deployment/nginxConfigs/http/index.conf",
+				"/D/web/production01_server/node_modules/production/importMongo.js",
+				"/D/web/production01_server/node_modules/production/config/application/winTest/index.js",
+				"/D/web/production01_server/node_modules/production/node_modules/applicationManager/system/databaseDrivers/MongodbDriver.js",
+				"/D/web/production01_server/node_modules/production/node_modules/session-mongoose/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/server.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/components/stats/WeeklyC.js",
+				"/D/web/production01_server/node_modules/production/models/nosql/Serial.js",
+				"/D/web/production01_server/node_modules/production/models/utils/saveBatchByDocs.js",
+				"/D/web/production01_server/node_modules/production/tests/tottys/scenarios/jobs/start.js",
+				"/D/web/production01_server/node_modules/production/tests/tottys/scenarios/jobs/insert.js",
+				"/D/web/production01_server/node_modules/production/tests/tottys/scenarios/jobs/skip.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/components/ProductionC.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/views/ProductionV.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/components/jobs/InsertJobC.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/views/jobs/InsertJobV.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/components/ProductSelectionC.js",
+				"/D/web/production01_server/node_modules/production/models/nosql/Job/insert.js",
+				"/D/web/production01_server/node_modules/production/models/nosql/Job.js",
+				"/D/web/production01_server/node_modules/production/models/nosql/Job/skip.js",
+				"/D/web/production01_server/node_modules/production/tests/tottys/_environments/DefaultEnvironment.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/components/lists/BaseListC.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/components/ManagerControlPanelC.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/Application.js",
+				"/D/web/production01_server/node_modules/production/models/nosql/Product/addRequested.js",
+				"/D/web/production01_server/node_modules/production/models/nosql/Product/addCorrected.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/components/ControlPanelC.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/components/Component.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/views/lists/itemRenderer/WorkerIR.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/models/table/BaseRemote.js",
+				"/D/web/production01_server/node_modules/production/serviceHelpers/get.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/views/lists/MobileListV.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/views/lists/mobileItemRenderer/WorkerIR.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/views/lists/mobileItemRenderer/WorkersIR.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/views/lists/BaseListV.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/views/lists/MobileList.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/views/stats/DayV.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/views/stats/WeekGraphV.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/views/stats/WeeklyV.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/views/mainScreen/SerialsTable.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/views/ControlPanelV.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/components/WorkerGroupC.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/views/MainScreenV.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/ComponentFactory.js",
+				"/D/web/production01_server/node_modules/production/services/jobs/insert.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/components/stats/WeekGraphC.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/components/stats/DayC.js",
+				"/D/web/production01_server/node_modules/production/models/nosql/TimeFrame.js",
+				"/D/web/production01_server/node_modules/production/client/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/Tcanvas/View.js",
+				"/D/web/production01_server/node_modules/production/client/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/Tcanvas/renders/basic/Render.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/models/marshalMixins/Week.js",
+				"/D/web/production01_server/_run/umongo-windows-all_1-2-1/conf/umongo.xml",
+				"/D/web/production01_server/node_modules/production/client/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/Tcanvas/items/Label.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/parsers/SubDataToDot.js",
+				"/D/web/production01_server/node_modules/production/client/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/Tcanvas/items/Rectangle.js",
+				"/D/web/production01_server/node_modules/production/migrations/v01_00_001/models/nosql/Job.js",
+				"/D/web/production01_server/node_modules/production/client/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/Tcanvas/items/Group.js",
+				"/D/web/production01_server/node_modules/production/client/production/config2.json",
+				"/D/web/production01_server/node_modules/production/client/production/config.json",
+				"/D/web/production01_server/node_modules/production/client/qooxdoo-contrib/TottysTools/trunk/Manifest.json",
+				"/D/web/production01_server/node_modules/production/client/qooxdoo-contrib/Aristo/trunk/Manifest.json",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/components/stats/WeekGraphV.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/views/ManagerControlPanelV.js",
+				"/D/web/production01_server/node_modules/production/services/statistics/workersDailyTimes/getData.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/components/stats/Weekly.js",
+				"/D/web/production01_server/node_modules/production/tests/tottys/scenarios/statistics/workersDailyTimes/getData.js",
+				"/D/web/production01_server/node_modules/production/_indexWithoutForever2cl.js",
+				"/D/web/production01_server/node_modules/production/services/jobs/reOrderMany.js",
+				"/D/web/production01_server/node_modules/production/models/nosql/Job/reorderMany.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/components/jobs/OrderJobsC.js",
+				"/D/web/production01_server/node_modules/production/services/jobs/get.js",
+				"/D/web/production01_server/node_modules/production/models/nosql/Job/reorder.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/models/table/JobSimple.js",
+				"/D/web/production01_server/node_modules/production/services/jobs/getAll.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/views/jobs/OrderJobsV.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/components/corrections/ConfirmCorrectionC.js",
+				"/D/web/production01_server/node_modules/production/models/nosql/Correction/insert.js",
+				"/D/web/production01_server/node_modules/production/services/corrections/getStatsGroupedByWorker.js",
+				"/D/web/production01_server/node_modules/production/services/corrections/getPreview.js",
+				"/D/web/production01_server/node_modules/production/services/corrections/getCorrectionPreview.js",
+				"/D/web/production01_server/node_modules/production/models/nosql/Correction/getPreview.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/views/corrections/CorrectionManagerV.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/components/corrections/CorrectionsListC.js"
+			],
+			"find":
+			{
+				"height": 34.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+					"C:\\web\\production01_server\\node_modules\\production\\",
+					"C:\\web\\production01_server\\node_modules\\production\\services",
+					"<open folders>",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"console.log('App started with version: ' + APP_VERSION);",
+					"build",
+					"nodejs_debug",
+					"\\",
+					"shift",
+					"console.log(\"a\");",
+					"productsData",
+					"\"production01\"",
+					"__createApplication",
+					"migration done",
+					"__getModel",
+					"__getServicePath",
+					"__getModel",
+					"__hasServicePermission",
+					"__getDatabaseVersion",
+					"__migrate",
+					"initApplication",
+					"console",
+					"__initDatabaseDomain",
+					"migrate",
+					"__migrateOne",
+					"runMigration",
+					"__initDatabaseDomain",
+					"conso",
+					"checkFail",
+					"errors",
+					"checkFail",
+					"){\n",
+					"DatabaseDomain",
+					"getDatabaseSettings",
+					"migrationa",
+					"applicationMigrationsPath",
+					"__getMigrationPointVersions",
+					"__applicationMigrationsPath",
+					"migration done",
+					"__migrateOne",
+					"__buildApplicationInstance",
+					"deleteApplication",
+					"__getModels",
+					"__initApplication",
+					"initApplication",
+					"unInitApplication",
+					"console",
+					"application",
+					"createApplication",
+					"applicationSettings",
+					"createApplication",
+					"create",
+					"unInitApplication",
+					"appliction",
+					"__initApplication",
+					"create",
+					"unInitApplication",
+					"__initApplication",
+					"__applications",
+					"applicationConfig",
+					"error",
+					"3",
+					"__initApplication",
+					"__getApplication",
+					"deleteApplication",
+					"__getApplication",
+					"__initApplication",
+					"__getApplication",
+					"__getDatabaseConfiguration",
+					"getApplication",
+					"__settings",
+					"getApplication",
+					"__manageRequest",
+					"expressWrapper",
+					"getApplication",
+					"version",
+					"rootPath",
+					"__getApplicationConfig",
+					"applicationConfig",
+					"__getApplicationConfig",
+					"applicationPath",
+					"applicationVersion",
+					"__getApplicationConfig",
+					"systemDatabasesConfigurations",
+					"__systemDatabasesConfigurations",
+					"__prepareApplicationConfig",
+					"__initDatabaseDomain",
+					"__initDatabaseDomainB",
+					"__systemManager",
+					"__getDatabaseConfiguration",
+					"__applicationConfigs",
+					"version",
+					"applicationSettings",
+					"__systemManager",
+					"addApplicationConfig",
+					"start",
+					"__getSessionStore",
+					"__applicationPath",
+					"__systemManager",
+					"applicationPath",
+					"appIp",
+					"appPort",
+					"secretSession",
+					"__initVersion",
+					"applicationDatabasesSettings",
+					"__migrationManagerFacade",
+					"hardMigrationVersion",
+					"applicationVersion",
+					"migrationManagerFacade",
+					"__migrationManagerFacade",
+					"require",
+					"databaseConfigurations",
+					"ApplicationModel",
+					"MigrationModel",
+					"applicationRecord",
+					"applicationConfig",
+					"__getApplicationConfig",
+					"__systemDatabasesConfigurations",
+					"__addApplicationConfig",
+					"__systemManager",
+					"systemDatabasesConfigurations",
+					"modelsFilePath",
+					"modelspath",
+					"modelpath",
+					"modelspath",
+					"models",
+					"__addApplicationConfig",
+					"__prepareApplicationConfig",
+					"__systemManager",
+					"__addApplicationConfig",
+					"__prepareApplicationConfig",
+					"dbConfig"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"\\\\",
+					"applicationName",
+					"errs",
+					"__getSystemModels",
+					"__buildApplicationInstance",
+					"rootPath",
+					"version",
+					"workerId",
+					"__workersListC",
+					"__selectWorkerByNumber",
+					"	",
+					"NoWorkColor",
+					"noWorkColor",
+					"var spaceBottom = 15;",
+					"var spaceBottom = 0;",
+					"mainLabel",
+					"this.__canvas.getInnerSize",
+					"function(){",
+					"function(width, height){\n            var width = getInnerSize().width;\n            var height = getInnerSize().height;\n            ",
+					"",
+					"__updateYAxis",
+					"production",
+					"header",
+					"years",
+					"week",
+					"serial",
+					"serialsB",
+					"quantityCorrected",
+					"addCorrected",
+					"serials",
+					"serialsObjects",
+					"jobsA",
+					"workersId",
+					"jobsId",
+					"dataGroupedByWorker",
+					"	",
+					".id",
+					"id",
+					"makeRequest",
+					"makeRequestAndValidate",
+					"makeRequest",
+					"Job",
+					"Jobs",
+					"Groupt",
+					"    ,CONSTRAINT id PRIMARY KEY(id)",
+					"	",
+					"savedDocs",
+					"docs",
+					"name",
+					"	",
+					"myapp",
+					"models.",
+					"initializatorName",
+					"applicationConfig",
+					"initializatorName",
+					"System",
+					"",
+					"servicePath",
+					"ModelManager",
+					"__models.getModel(\"Domain\")",
+					"databaseConfigurations",
+					"databaseVersion",
+					"domainVersion",
+					"requiredOptions",
+					"applicationDatabaseConfigPath",
+					"applicationServicesPath",
+					"applicationMigrationsPath",
+					"applicationModelsPath",
+					"odelsPath",
+					"applicationMigrationPath",
+					"getApplicationVersion()",
+					"servicesRootPath",
+					": function",
+					",",
+					"_environment",
+					"dv",
+					"av",
+					"__ended",
+					": ",
+					",",
+					"applicationRootPath",
+					"applicationManagerRootPath",
+					"applicationManagerDatabaseName",
+					"applicationManager",
+					"this.__applicationManager",
+					": function",
+					",",
+					"__folderWrapper",
+					"__folderWrappers",
+					"__foldersWrappers",
+					"__FoldersWrappers",
+					"fileWrappers",
+					"__fileWrappers",
+					"__relativePath",
+					"done",
+					"getArgs",
+					" ### ",
+					"correctJobs",
+					"",
+					"productIdFilter",
+					"getCorrectionPreviewByProductId",
+					"stepName",
+					"worker",
+					"worker\n, function(expect){\n                expect(",
+					"ass\n, function(expect){\n                expect(",
+					"__replaceXInArray\n, function(expect){\n                expect(",
+					"_runNextStep\n, function(expect){\n                expect(",
+					", function(expect){\n, function(expect){\n                expect(",
+					", function(expect){\n                expect(",
+					"test.add(",
+					", function(expect){\n                expect(",
+					"test.add(",
+					":",
+					",",
+					"",
+					"second",
+					"prepareInsertJobArgs",
+					": function",
+					",",
+					": function",
+					",",
+					": function",
+					",",
+					": function",
+					",",
+					":",
+					"\"",
+					"assignJob"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 3,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/D/web/about_projects/apps/SublimeText2/Data/Packages/NodejsDebug-master/nodejs_debug.py",
+							"settings":
+							{
+								"buffer_size": 1011,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										637,
+										637
+									]
+								],
+								"settings":
+								{
+									"live_git_annotations": true,
+									"syntax": "Packages/Python/Python.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/D/web/about_projects/apps/SublimeText2/Data/Packages/NodejsDebug-master/Default (Windows).sublime-keymap",
+							"settings":
+							{
+								"buffer_size": 113,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										113,
+										113
+									]
+								],
+								"settings":
+								{
+									"live_git_annotations": true,
+									"syntax": "Packages/JavaScript/JSON.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "Project Work.sublime-workspace",
+							"settings":
+							{
+								"buffer_size": 31691,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										6869,
+										6869
+									]
+								],
+								"settings":
+								{
+									"live_git_annotations": true,
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/D/web/about_projects/apps/SublimeText2/Data/Packages/User/Nodejs Debug.sublime-build",
+							"settings":
+							{
+								"buffer_size": 948,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										330,
+										330
+									]
+								],
+								"settings":
+								{
+									"live_git_annotations": true,
+									"syntax": "Packages/JavaScript/JSON.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 70.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "node_modules/production/_indexWithoutForever2.js",
+							"settings":
+							{
+								"buffer_size": 1939,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										427,
+										427
+									]
+								],
+								"settings":
+								{
+									"live_git_annotations": true,
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 32.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 122.0
+			},
+			"output.git":
+			{
+				"height": 302.0
+			},
+			"position": "0,2,3,-141,-1,-1,-1,827,268,61,1145",
+			"replace":
+			{
+				"height": 62.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"inserjob",
+						"production/client/production/source/class/production/controllers/insertJob/InsertJob.js"
+					],
+					[
+						"mainscree",
+						"production/client/production/source/class/production/views/MainScreen.js"
+					],
+					[
+						"workergroup",
+						"production/client/production/source/class/production/controllers/WorkerGroup.js"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 254.0,
+			"status_bar_visible": true,
+			"window_id": 20,
+			"workspace_name": "/D/web/production01_server/Project Work.sublime-project"
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/D/web/production01_server/Project Work.sublime-project",
+			"/D/web/production01_server/Project.sublime-project",
+			"/C/web/production01_server/Project Work.sublime-project",
+			"/C/web/production01_server/Project.sublime-project",
+			"/D/Totty/web/WaterShares/Project.sublime-project",
+			"/D/Totty/web/production01_server/Project.sublime-project"
+		]
+	}
+}

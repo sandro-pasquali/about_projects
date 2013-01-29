@@ -1,10 +1,17 @@
 {
-	"auto_upgrade_last_run": 1351163746,
+	"auto_upgrade_last_run": null,
 	"installed_packages":
 	[
 		"Alignment",
+		"Git",
+		"Github Tools",
+		"NodeEval",
+		"Nodejs",
+		"NodejsDebug-master",
 		"Package Control",
 		"PlainTasks",
+		"Require Node.js Modules Helper",
+		"SublimeCodeIntel",
 		"SublimeEvernote",
 		"Theme - Aqua",
 		"Theme - Nexus"

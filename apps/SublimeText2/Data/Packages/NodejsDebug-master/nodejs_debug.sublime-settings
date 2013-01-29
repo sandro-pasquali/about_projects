@@ -1,0 +1,4 @@
+{ 
+	 "chrome_path":"C:\\Programas\\Google\\Chrome\\Application\\chrome.exe"
+    ,"custom_cmd":"D:\\web\\production01_server\\node_modules\\production\\_indexWithoutForever2cl.js dbConfig=winTest test=false"
+}
