@@ -1,0 +1,24 @@
+Cancel all local changes, before "git add" and "git commit":
+git checkout -- .
+
+Save all commited files to the server:
+git push
+
+Load the lastest server files:
+git pull
+
+Make tags
+git tag v0.0.1
+
+Fix issues by commit (where 44 is the number of the issue)
+git commit -a -m"fix #44"
+
+Change the last commit's description
+git commit --amend -m "New commit message"
+
+To push it again (force)
+git push -f
+
+To revert to a certain commit
+git checkout [commitId] -- .
+git checkout b67ee2df30a666b2ec9dac0b12d36502e647f89b -- .

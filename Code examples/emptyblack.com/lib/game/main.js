@@ -33,7 +33,11 @@ ig.module(
   'game.levels.f', 'game.levels.g', 'game.levels.h', 'game.levels.i'
 ).defines(function(){
   MyGame = ig.Box2DGame.extend({
+<<<<<<< HEAD
 	  gravity: 150, // All entities are affected by this
+=======
+	  gravity: 450, // All entities are affected by this
+>>>>>>> origin/master
 
 	  clearColor: '#000000',
     player: null,
@@ -109,5 +113,9 @@ ig.module(
 	  }
   });
 
+<<<<<<< HEAD
 	ig.main('#canvas', MyGame, 60, 1500, 800, 1);
+=======
+	ig.main('#canvas', MyGame, 60, 480, 320, 1);
+>>>>>>> origin/master
 });

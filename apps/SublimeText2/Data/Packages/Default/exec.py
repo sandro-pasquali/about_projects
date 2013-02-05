@@ -42,7 +42,8 @@ class AsyncProcess(object):
         proc_env = os.environ.copy()
         proc_env.update(env)
         for k, v in proc_env.iteritems():
-            proc_env[k] = os.path.expandvars(v).encode(sys.getfilesystemencoding())
+            #proc_env[k] = os.path.expandvars(v).encode(sys.getfilesystemencoding())
+            proc_env[k] = os.path.expandvars(v.decode(sys.getfilesystemencoding())).encode(sys.getfilesystemencoding())
 
         self.proc = subprocess.Popen(arg_list, stdout=subprocess.PIPE,
             stderr=subprocess.PIPE, startupinfo=startupinfo, env=proc_env, shell=shell)

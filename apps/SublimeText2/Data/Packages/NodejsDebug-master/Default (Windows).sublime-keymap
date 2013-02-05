@@ -1,0 +1,4 @@
+[
+    { "keys": ["alt+f1"], "command": "nodejs_debug" },
+    { "keys": ["ctrl+f1"], "command": "nodejs_debug" }
+]

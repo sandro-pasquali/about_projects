@@ -1,1 +1,48 @@
 http://www.kernel.org/pub/software/scm/git/docs/git-submodule.html
+
+- Create a file in the root named '.gitmodules'.
+- An example of the structure of the file:
+
+[submodule "qooxdoo"]
+ 
+	path = node_modules/production/client/qooxdoo-2.0-sdk
+ 
+	url = https://github.com/qooxdoo/qooxdoo.git
+
+
+[submodule "TottysTools"]
+ 
+	path = node_modules/production/client/qooxdoo-contrib/TottysTools
+ 
+	url = https://github.com/totty90/TottysTools.git
+
+- add qooxdoo sub module:
+	git submodule add  "https://github.com/qooxdoo/qooxdoo.git" "node_modules/production/client/Qooxdoo"
+
+- add tottys tools sub module:
+	git submodule add  "https://github.com/totty90/TottysTools.git" "node_modules/production/client/qooxdoo-contrib/TottysTools"
+
+- check the status
+	git submodule status
+
+- init
+	git submodule init
+
+http://stackoverflow.com/questions/1777854/git-submodules-specify-a-branch-tag
+Go to a certain tag in the submodule
+	cd into the module path
+	git checkout release_2_0
+
+Remove a sub-module:
+	git rm --cached "node_modules/production/client/Qooxdoo"
+	git rm --cached "node_modules/production/client/qooxdoo-contrib/TottysTools"
+
+Change a sub-module path (WRONG!):
+	Change .gitmodules file to the new path
+	Move the sub-module
+	git add .
+	git rm --cached node_modules/production/client/Qooxdoo (this is the path to the old sub-module folder, not the name of the sub module)
+	git submodule sync
+	git submodule status
+
+	open the sub module folder and open the .git file, change to the new path
