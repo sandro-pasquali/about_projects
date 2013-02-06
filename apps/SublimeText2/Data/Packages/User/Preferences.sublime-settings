@@ -1,11 +1,16 @@
 {
 	"bold_folder_labels": true,
 	"caret_style": "phase",
-	"detect_indentation": true,
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"detect_indentation": false,
 	"draw_centered": false,
-	"font_size": 9.0,
+	"font_size": 10.0,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
 	"ignored_words":
 	[
 		"Adicionar",
@@ -18,23 +23,36 @@
 		"Ordem",
 		"Produtos",
 		"Quantidade",
+		"Seleccionar",
 		"Verdana",
+		"X/models",
 		"_id",
+		"admin",
 		"app",
+		"config",
+		"ctrl+alt+a",
+		"initializator",
+		"initializators",
 		"jobid",
 		"jobs/delete",
 		"jobs/get",
 		"jobs/insert",
 		"jobs/order",
+		"migrations/insert",
 		"ok",
 		"pedido",
+		"permissions/insert",
 		"produto",
 		"properties's",
 		"qx",
+		"schemas",
+		"sequelize",
 		"todo",
 		"tottystools",
 		"trabalho",
-		"ui"
+		"ttty",
+		"ui",
+		"users/insert"
 	],
 	"line_padding_bottom": 0,
 	"line_padding_top": 0,
@@ -45,5 +63,6 @@
 	"spell_check": true,
 	"tab_completion": false,
 	"theme": "Nexus.sublime-theme",
-	"translate_tabs_to_spaces": true
+	"translate_tabs_to_spaces": false,
+    "word_wrap": true
 }

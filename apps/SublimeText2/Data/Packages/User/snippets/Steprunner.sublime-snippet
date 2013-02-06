@@ -1,0 +1,20 @@
+<snippet>
+    <content><![CDATA[
+var StepRunner = require('production/utils/StepRunner');
+var stepRunner = new StepRunner("${1}", function(err, data){
+
+});
+
+
+stepRunner.addStep('', function(nextStep){
+
+});
+
+
+stepRunner.start();
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>step</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.python</scope> -->
+</snippet>

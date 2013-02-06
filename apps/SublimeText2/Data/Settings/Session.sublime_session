@@ -1,18 +1,31 @@
 {
 	"folder_history":
 	[
+<<<<<<< HEAD
 		"/D/Totty/web/about_projects/Code examples/emptyblack.com",
 		"/D/Books/Google Drive/ISPG/3 semestre/BDD/2M/Trabalho/Queries",
 		"/D/Totty/web/WaterShares/node_modules/app/client/WS/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools",
 		"/D/Totty/web/WaterShares/node_modules/app/client/WS/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/thirdParty/paperjs/tottysVersion",
 		"/D/Totty/web/WaterShares/node_modules/app/client/WS/qooxdoo-contrib",
+=======
+		"/D/web/about_projects/apps/SublimeText2",
+		"/D/web/about_projects/apps/SublimeText2/Data/Packages/SublimeCodeIntel",
+		"/D/web/about_projects/apps/SublimeText2/Data/Packages/NodejsDebug-master",
+		"/D/web/production01_server/node_modules/production/node_modules/session-mongoose/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection",
+		"/D/web/production01_server/node_modules/production/client/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools",
+		"/D/web/production01_server",
+		"/C/Rar$DR96.760/Aristo",
+		"/C/web/production01_server/node_modules/production",
+		"/C/web/production01_server/node_modules/production/client/production/source/class/production",
+		"/C/web/production01_server",
+>>>>>>> origin/master
 		"/D/Totty/web",
 		"/D/Totty/web/about_projects/qooxdoo-contrib"
 	],
-	"last_window_id": 12,
+	"last_window_id": 25,
 	"settings":
 	{
-		"new_window_height": 708.0,
+		"new_window_height": 720.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -20,253 +33,605 @@
 				"selected_items":
 				[
 					[
-						"player",
-						"playerDesign"
+						"exp",
+						"expressWrapper"
 					],
 					[
-						"child",
-						"childB"
+						"app",
+						"appliction"
 					],
 					[
-						"getAb",
-						"getAbsZIndex"
+						"appl",
+						"application"
 					],
 					[
-						"parent",
-						"parentAbsPosition"
+						"getA",
+						"getApplicationAtVersion"
 					],
 					[
-						"__owner",
-						"__updateOwnershipGraphic"
+						"__i",
+						"__initDatabaseDomainA"
 					],
 					[
-						"owner",
-						"ownershipGraphic"
+						"__",
+						"__applicationVersion"
 					],
 					[
-						"own",
-						"ownershipPosition"
+						"application",
+						"applicationManager"
 					],
 					[
-						"ow",
-						"ownershipGraphic"
-					],
-					[
-						"proper",
-						"properties"
-					],
-					[
-						"image",
-						"imagePaperRaster"
-					],
-					[
-						"pla",
-						"playerBuyRequest"
-					],
-					[
-						"dice",
-						"dicesValue"
-					],
-					[
-						"dic",
-						"dicesValue"
-					],
-					[
-						"hit",
-						"hitResult"
-					],
-					[
-						"de",
-						"destinationPoint"
-					],
-					[
-						"prop",
-						"propertyPosition"
-					],
-					[
-						"e",
-						"event"
-					],
-					[
-						"im",
-						"imageDOMElement"
-					],
-					[
-						"start",
-						"startingPosition"
-					],
-					[
-						"star",
-						"startingProperty"
-					],
-					[
-						"__getp",
-						"__getPropertyByPosition"
-					],
-					[
-						"__getP",
-						"__getProperty"
-					],
-					[
-						"ci",
-						"circleDiameter"
-					],
-					[
-						"Model",
-						"ModelListenersManager"
-					],
-					[
-						"todo",
-						"todoJobsSimpleModel"
-					],
-					[
-						"visi",
-						"visibility"
-					],
-					[
-						"not",
-						"notFormatedItem"
-					],
-					[
-						"worke",
-						"workerJobStatistics"
-					],
-					[
-						"tot",
-						"totalTimeInMinutes"
-					],
-					[
-						"sum",
-						"sumTotalTimeInMinutes"
-					],
-					[
-						"worker",
-						"workerName"
-					],
-					[
-						"grou",
-						"groupedByWorker"
-					],
-					[
-						"work",
-						"workerId"
-					],
-					[
-						"sel",
-						"selectedCorrectionChanged"
-					],
-					[
-						"product",
-						"productId"
-					],
-					[
-						"pro",
+						"prod",
 						"productSelection"
 					],
 					[
-						"correc",
-						"correctedJobs"
+						"getW",
+						"getCurrentWorker"
+					],
+					[
+						"gett",
+						"getTodoJobModel"
+					],
+					[
+						"getDef",
+						"getDeferredJobModel"
+					],
+					[
+						"curre",
+						"currentWorkerId"
+					],
+					[
+						"date",
+						"dateStarted"
+					],
+					[
+						"paper",
+						"paperSizes"
+					],
+					[
+						"wee",
+						"weekNumber"
+					],
+					[
+						"end",
+						"endHour"
+					],
+					[
+						"timeFram",
+						"timeFrameB"
+					],
+					[
+						"time",
+						"timeFrames"
+					],
+					[
+						"spa",
+						"spaceBetweenDays"
+					],
+					[
+						"days",
+						"daysToRender"
+					],
+					[
+						"year",
+						"yearStart"
+					],
+					[
+						"firs",
+						"firstWeekDays"
+					],
+					[
+						"years",
+						"yearsToShow"
+					],
+					[
+						"work",
+						"workedHours"
+					],
+					[
+						"serial",
+						"serialsObjects"
+					],
+					[
+						"serials",
+						"serialsArray"
+					],
+					[
+						"save",
+						"saveBatchByDocs"
+					],
+					[
+						"corre",
+						"correctionObject"
 					],
 					[
 						"corr",
-						"correctionId"
+						"correction"
 					],
 					[
-						"Cor",
-						"CorrectionSchema"
+						"has",
+						"hasSerialNumber"
 					],
 					[
-						"qu",
-						"quantityDone"
+						"timefr",
+						"timeFrameB"
 					],
 					[
-						"produ",
-						"productInfo"
+						"production",
+						"production01"
 					],
 					[
-						"getSele",
-						"getSelectedJob"
+						"saveBa",
+						"saveBatchByDocs"
 					],
 					[
-						"ri",
-						"rightContent"
+						"domain",
+						"domainName"
 					],
 					[
-						"job",
-						"jobSaveStatus"
+						"user",
+						"UserSchema"
+					],
+					[
+						"__app",
+						"__appPort"
+					],
+					[
+						"exi",
+						"existingProperty"
+					],
+					[
+						"mer",
+						"mergeObjects"
+					],
+					[
+						"migraion",
+						"migrationFacade"
+					],
+					[
+						"system",
+						"systemManager"
 					],
 					[
 						"model",
-						"modelColumns"
+						"modelsFilePath"
 					],
 					[
-						"get",
-						"getView"
+						"appli",
+						"application"
 					],
 					[
-						"clas",
-						"classPathFromPrefix"
+						"applia",
+						"applicationManager"
 					],
 					[
-						"compo",
-						"componentClass"
+						"apl",
+						"applicationVersion"
 					],
 					[
-						"com",
-						"componentPath"
+						"v00_",
+						"v00_00_000"
 					],
 					[
-						"selection",
-						"selectionFn"
+						"__migratio",
+						"__migrationDatabaseConfiguration"
 					],
 					[
-						"sele",
-						"selectedRows"
+						"__appl",
+						"__applicationPath"
 					],
 					[
-						"found",
-						"foundOnRow"
+						"__migration",
+						"__migrationControl"
 					],
 					[
-						"t",
-						"todoJobsList"
+						"nosq",
+						"nosqlConfig"
 					],
 					[
-						"regexp",
-						"regexpString"
+						"Ini",
+						"InitializatorFacade"
 					],
 					[
-						"win",
-						"windowManager"
+						"Initializator",
+						"initializatorFacade"
 					],
 					[
-						"Window",
-						"windowManager"
+						"ser",
+						"serviceName"
 					],
 					[
-						"Request",
-						"RequestManager"
+						"servi",
+						"servicePermission"
 					],
 					[
-						"sor",
-						"sortOrder"
+						"__ge",
+						"__getModel"
 					],
 					[
-						"sord",
-						"sortOrder"
+						"permis",
+						"permissionType"
+					],
+					[
+						"sy",
+						"sysPermissionType"
+					],
+					[
+						"getMo",
+						"__getModels"
+					],
+					[
+						"applicatio",
+						"applicationManager"
+					],
+					[
+						"databases",
+						"databaseConfigurations"
+					],
+					[
+						"connec",
+						"connection"
 					],
 					[
 						"data",
-						"dateJobStart"
+						"databaseConfigurations"
+					],
+					[
+						"database",
+						"databaseConfigurations"
+					],
+					[
+						"initial",
+						"initializatorName"
+					],
+					[
+						"__models",
+						"__modelsFilePath"
+					],
+					[
+						"migr",
+						"migrateDatabase"
+					],
+					[
+						"migration",
+						"migrationControl"
+					],
+					[
+						"init",
+						"initModels"
+					],
+					[
+						"config",
+						"configuration"
+					],
+					[
+						"__con",
+						"__configurations"
+					],
+					[
+						"sequel",
+						"sequelize"
+					],
+					[
+						"mode",
+						"modelsNames"
+					],
+					[
+						"service",
+						"serviceMetadata"
+					],
+					[
+						"manageS",
+						"manageService2"
+					],
+					[
+						"getConn",
+						"getConnection"
+					],
+					[
+						"missing",
+						"missingKeysArray"
+					],
+					[
+						"connection",
+						"connectionManager"
+					],
+					[
+						"to",
+						"toVersion"
+					],
+					[
+						"getData",
+						"getDatabaseName"
+					],
+					[
+						"index",
+						"indexOfTheStepToRemove"
+					],
+					[
+						"migra",
+						"migrationSteps"
+					],
+					[
+						"migratio",
+						"migrationPointVersion"
+					],
+					[
+						"migrationPo",
+						"migrationPointVersion"
+					],
+					[
+						"migrationP",
+						"migrationPointVersions"
+					],
+					[
+						"conn",
+						"setConnectionB"
+					],
+					[
+						"conne",
+						"connectionA"
+					],
+					[
+						"getAppl",
+						"getApplicationMigrationsPath"
+					],
+					[
+						"getMigr",
+						"getApplicationMigrationPath"
+					],
+					[
+						"from",
+						"fromVersion"
+					],
+					[
+						"isp",
+						"isApplicationManagementDatabase"
+					],
+					[
+						"ph",
+						"physicalDatabaseName"
+					],
+					[
+						"isApl",
+						"isApplicationManagementDatabase"
+					],
+					[
+						"stepr",
+						"stepRunnerContext"
+					],
+					[
+						"step",
+						"stepRunnerContext"
+					],
+					[
+						"datab",
+						"databaseName"
+					],
+					[
+						"is",
+						"isApplicationManagementDatabase"
+					],
+					[
+						"__on",
+						"__onEndCallback"
+					],
+					[
+						"_con",
+						"_connectionIsNew"
+					],
+					[
+						"databas",
+						"databaseVersion"
+					],
+					[
+						"mi",
+						"migrationPointVersions"
+					],
+					[
+						"test",
+						"testContext"
+					],
+					[
+						"drop",
+						"dropDatabase"
+					],
+					[
+						"missin",
+						"missingArgumentsError"
+					],
+					[
+						"pass",
+						"password"
+					],
+					[
+						"__application",
+						"__applicationRootPath"
+					],
+					[
+						"manage",
+						"manageService"
+					],
+					[
+						"logged",
+						"loggedUserName"
+					],
+					[
+						"logge",
+						"loggedUserName"
+					],
+					[
+						"configured",
+						"configured"
+					],
+					[
+						"con",
+						"configName"
+					],
+					[
+						"getNum",
+						"getNumberOfTotalItems"
+					],
+					[
+						"later",
+						"laterSpaces"
+					],
+					[
+						"passed",
+						"passedItems"
+					],
+					[
+						"passe",
+						"passedItems"
+					],
+					[
+						"succe",
+						"succeededExpects"
+					],
+					[
+						"__ex",
+						"__succeededExpects"
+					],
+					[
+						"tes",
+						"TestFolder"
+					],
+					[
+						"__test",
+						"__testSummary"
+					],
+					[
+						"summ",
+						"summaries"
+					],
+					[
+						"summa",
+						"summaries"
+					],
+					[
+						"get",
+						"getArgs"
+					],
+					[
+						"pr",
+						"productsInserted"
+					],
+					[
+						"worker",
+						"workersN"
+					],
+					[
+						"random",
+						"randomProduct"
+					],
+					[
+						"ran",
+						"randomWorker"
+					],
+					[
+						"num",
+						"numberOfCallbacks"
+					],
+					[
+						"th",
+						"thirdCol"
+					],
+					[
+						"skip",
+						"skipJustification"
+					],
+					[
+						"find",
+						"findById"
 					]
 				]
 			},
 			"build_system": "",
 			"command_palette":
 			{
-				"height": 375.0,
+				"height": 228.0,
 				"selected_items":
 				[
+					[
+						"pack insta",
+						"Package Control: Install Package"
+					],
+					[
+						"inst pac",
+						"Package Control: Install Package"
+					],
+					[
+						"set syn java",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"inst pa",
+						"Package Control: Install Package"
+					],
+					[
+						"git:",
+						"Git: Toggle Annotations"
+					],
+					[
+						"git:bl",
+						"Git: Blame"
+					],
+					[
+						"git annot",
+						"Git: Toggle Annotations"
+					],
+					[
+						"git:pu",
+						"Git: Push"
+					],
+					[
+						"git:stat",
+						"Git: Status"
+					],
+					[
+						"git:st",
+						"Git: Show Tags"
+					],
+					[
+						"git pus",
+						"Git: Push"
+					],
+					[
+						"git:comm",
+						"Git: Commit"
+					],
+					[
+						"git:add",
+						"Git: Add..."
+					],
+					[
+						"git",
+						"Git: Status"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"g",
+						"Github: Blame"
+					],
+					[
+						"pack inst",
+						"Package Control: Install Package"
+					],
+					[
+						"pack in",
+						"Package Control: Install Package"
+					],
+					[
+						"task",
+						"Tasks: New document"
+					],
+					[
+						"",
+						"Package Control: Install Package"
+					],
 					[
 						"insta",
 						"Package Control: Install Package"
@@ -288,7 +653,7 @@
 						"Snippet: if … else"
 					]
 				],
-				"width": 514.0
+				"width": 522.0
 			},
 			"console":
 			{
@@ -305,144 +670,146 @@
 			},
 			"file_history":
 			[
-				"/D/Totty/web/about_projects/Code examples/Pacman/Compiled/pacman.js",
-				"/D/Totty/web/about_projects/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/thirdParty/paperjs/Paper.js",
-				"/D/Totty/web/about_projects/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/thirdParty/paperjs/TottyInjectsPaper.js",
-				"/D/Totty/web/about_projects/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/thirdParty/paperjs/tottysVersion/Label.js",
-				"/D/Totty/web/about_projects/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/thirdParty/paperjs/tottysVersion/Path.js",
-				"/D/Totty/web/about_projects/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/thirdParty/paperjs/tottysVersion/Image.js",
-				"/D/Totty/web/about_projects/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/thirdParty/paperjs/tottysVersion/Group.js",
-				"/D/Totty/web/about_projects/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/thirdParty/paperjs/tottysVersion/Item.js",
-				"/D/Totty/web/about_projects/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/thirdParty/paperjs/tottysVersion/Circle.js",
-				"/D/Totty/web/about_projects/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/thirdParty/paperjs/tottysVersion/Rectangle.js",
-				"/D/Totty/web/WaterShares/node_modules/app/client/WS/config.json",
-				"/D/Totty/web/about_projects/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/thirdParty/TottyInjectsPaper.js",
-				"/D/Totty/web/about_projects/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/thirdParty/Paper.js",
-				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v01/bank/Bank.js",
-				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v01/views/GameV.js",
-				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v01/property/PropertyPositionCollection.js",
-				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v01/property/PropertyPosition.js",
-				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v01/boardEngine/BoardEngine.js",
-				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v01/bank/Account.js",
-				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v01/components/GameC.js",
-				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v01/components/BoardC.js",
-				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v01/views/PropertyV.js",
-				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v01/property/PropertyPosition.sj",
-				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v01/PropertyPositions.js",
-				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v01/ComponentFactory.js",
-				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/Application.js",
-				"/D/Totty/web/about_projects/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/ComponentFactory.js",
-				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v01/Game.js",
-				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v01/views/BoardV.js",
-				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/test/_prototypes/gameplay/v01/GameTest.js",
-				"/D/Totty/web/about_projects/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/components/Component.js",
-				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/test/_prototypes/gameplay/v01/ComponentFactory.js",
-				"/D/Totty/web/WaterShares/node_modules/app/client/WS/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/RequestManager.js",
-				"/D/Totty/web/WaterShares/node_modules/app/client/WS/qooxdoo-contrib/TottysTools/trunk/Manifest.json",
-				"/D/Totty/web/WaterShares/node_modules/app/client/WS/Manifest.json",
-				"/D/Totty/web/WaterShares/node_modules/app/index.js",
-				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/test/DemoTest.js",
-				"/D/Totty/web/WaterShares/node_modules/app/client/WS/generate.py",
-				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/test/_prototypes/gameplay/v01/Game2Test.js",
-				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/test/_prototypes/Demo2Test.js",
-				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/test/_a/Demo2Test.js",
-				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/test/Demo2Test.js",
-				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/test/_prototypes/gameplay/01/GameTest.js",
-				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/01/Game.js",
-				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_DefaultTemplate.js",
-				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/index.html",
-				"/D/Totty/web/WaterShares/node_modules/app/models/index.js",
-				"/D/Totty/web/production01_server/node_modules/production/modelListeners/job/beforePause.js",
-				"/D/Totty/web/production01_server/node_modules/production/index.js",
-				"/D/Totty/web/production01_server/node_modules/production/ModelListenersManager.js",
-				"/D/Totty/web/production01_server/node_modules/production/ServiceManager.js",
-				"/D/Totty/web/production01_server/node_modules/production/models/Job.js",
-				"/D/Totty/web/production01_server/node_modules/production/services/jobs/_pauseOrEnd.js",
-				"/D/Totty/web/production01_server/node_modules/production/client/otherExamples/GrooveShark/tier1-js/tier1.js",
-				"/D/Totty/web/production01_server/node_modules/production/services/jobs/pause.js",
-				"/D/Totty/web/production01_server/node_modules/production/client/production/source/class/production/ComponentFactory.js",
-				"/D/Totty/web/production01_server/node_modules/production/client/production/source/class/production/models/table/BaseRemote.js",
-				"/D/Totty/web/production01_server/node_modules/production/client/otherExamples/GrooveShark/app-js/app.js",
-				"/C/web/production01_server/node_modules/production/modelListeners/job/beforeContinue.js",
-				"/C/web/production01_server/node_modules/production/modelListeners/job/pause.js",
-				"/C/web/production01_server/node_modules/production/services/jobs/_pauseOrEnd.js",
-				"/C/web/production01_server/node_modules/production/serviceListeners/jobs/pause.js",
-				"/C/web/production01_server/node_modules/production/services/jobs/_startOrContinue.js",
-				"/C/web/production01_server/node_modules/production/services/jobs/insert.js",
-				"/C/web/production01_server/node_modules/production/models/Worker.js",
-				"/C/web/production01_server/node_modules/production/services/jobs/pause.js",
-				"/C/web/production01_server/node_modules/production/models/index.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/components/WorkerGroupC.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/MainScreenV.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/models/table/Job.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/components/jobs/InsertJobC.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/jobs/InsertJobV.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/parsers/SubDataToDot.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/ProductionV.js",
-				"/C/web/production01_server/node_modules/production/services/jobs/get.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/models/table/BaseRemote.js",
-				"/C/web/production01_server/node_modules/production/models/Job.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/ProductSelectionV.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/Application.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/components/corrections/CorrectionsListC.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/components/jobs/OrderJobsC.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/jobs/OrderJobsV.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/lists/TodoJobsDDListV.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/models/table/JobSimple.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/components/lists/TodoJobsDDListC.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/components/ProductionC.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/components/lists/BaseListC.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/lists/ProductsListV.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/components/corrections/CorrectJobsC.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/models/table/Product.js",
-				"/C/web/production01_server/node_modules/production/index.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/corrections/CorrectionManagerV.js",
-				"/C/web/production01_server/node_modules/production/models/User.js",
-				"/C/web/production01_server/_run/SublimeText2/Data/Packages/User/Preferences.sublime-settings",
-				"/C/web/production01_server/_run/SublimeText2/Data/Packages/Rails/Migration-Drop-Create-Table-(mdct).sublime-snippet",
-				"/C/web/production01_server/_run/SublimeText2/Data/Packages/Default/Preferences.sublime-settings",
-				"/C/web/production01_server/_run/SublimeText2/Data/Packages/User/JavaScript.sublime-settings",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/corrections/ConfirmCorrectionV.js",
-				"/C/web/production01_server/node_modules/production/client/production/config.json",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/lists/DeferredJobsListV.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/lists/TodoJobsListV.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/components/lists/TodoJobsListC.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/lists/BaseListV.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/lists/ActiveJobsListV.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/SkipJustificationV.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/lists/WorkersListV.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/models/table/Correction.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/models/table/Worker.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/corrections/CorrectionsListV.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/corrections/CorrectJobsV.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/components/corrections/CorrectionManagerC.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/components/ManagerControlPanelC.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/ManagerControlPanelV.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/mainScreen/SerialsTable.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/components/corrections/ConfirmCorrectionC.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/models/table/JobsGrouppedByWorkerSimple.js",
-				"/C/web/production01_server/node_modules/production/models/Correction.js",
-				"/C/web/production01_server/node_modules/production/services/corrections/insert.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/ComponentFactory.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/CopyToClipboard.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/components/ProductSelectionC.js",
-				"/C/web/production01_server/node_modules/production/services/jobs/getAll.js",
-				"/C/web/production01_server/node_modules/production/services/corrections/get.js",
-				"/C/web/production01_server/node_modules/production/services/_get.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/components/__empty.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/components/corrections/CorrectionsList.js",
-				"/C/web/production01_server/node_modules/production/client/production/source/class/production/views/SaveProductV.js",
-				"/C/web/production01_server/node_modules/production/models/Product.js"
+				"/D/web/production01_server/node_modules/production/runMigration.js",
+				"/D/web/production01_server/node_modules/production/models/nosql/Job/start.js",
+				"/D/web/about_projects/apps/SublimeText2/Data/Packages/SublimeCodeIntel/.codeintel/config",
+				"/D/web/production01_server/node_modules/production/migrations/v01_00_001/Migration.js",
+				"/D/web/production01_server/node_modules/production/models/nosql/Product.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/views/corrections/ConfirmCorrectionV.js",
+				"/D/web/production01_server/node_modules/production/initializators/default/index.js",
+				"/D/web/production01_server/node_modules/production/settings/main.js",
+				"/D/web/production01_server/node_modules/production/_indexWithoutForever2.js",
+				"/D/web/production01_server/node_modules/production/node_modules/applicationManager/system/MigrationManager.js",
+				"/D/web/production01_server/node_modules/production/node_modules/applicationManager/ExpressWrapper.js",
+				"/D/web/production01_server/node_modules/production/node_modules/applicationManager/system/SystemManager.js",
+				"/D/web/production01_server/node_modules/production/node_modules/applicationManager/system/Application.js",
+				"/D/web/production01_server/node_modules/production/node_modules/applicationManager/system/facades/MigrationManagerFacade.js",
+				"/D/web/production01_server/node_modules/production/node_modules/tUtils/check.js",
+				"/D/web/production01_server/README.md",
+				"/D/web/production01_server/node_modules/production/node_modules/applicationManager/configNodeModules.js",
+				"/D/web/production01_server/node_modules/production/node_modules/applicationManager/system/facades/MigrationFacade.js",
+				"/D/web/production01_server/node_modules/production/settings/get.js",
+				"/D/web/production01_server/node_modules/production/settings/getSettings.js",
+				"/D/web/production01_server/node_modules/production/services/users/register.js",
+				"/D/web/production01_server/node_modules/production/config/main.js",
+				"/D/web/production01_server/node_modules/production/config/_old/databases/winTest/index.js",
+				"/D/web/production01_server/node_modules/production/config/databases/winTest/index.js",
+				"/D/web/production01_server/_deployment/nginxConfigs/http/index.conf",
+				"/D/web/production01_server/node_modules/production/importMongo.js",
+				"/D/web/production01_server/node_modules/production/config/application/winTest/index.js",
+				"/D/web/production01_server/node_modules/production/node_modules/applicationManager/system/databaseDrivers/MongodbDriver.js",
+				"/D/web/production01_server/node_modules/production/node_modules/session-mongoose/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/server.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/components/stats/WeeklyC.js",
+				"/D/web/production01_server/node_modules/production/models/nosql/Serial.js",
+				"/D/web/production01_server/node_modules/production/models/utils/saveBatchByDocs.js",
+				"/D/web/production01_server/node_modules/production/tests/tottys/scenarios/jobs/start.js",
+				"/D/web/production01_server/node_modules/production/tests/tottys/scenarios/jobs/insert.js",
+				"/D/web/production01_server/node_modules/production/tests/tottys/scenarios/jobs/skip.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/components/ProductionC.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/views/ProductionV.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/components/jobs/InsertJobC.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/views/jobs/InsertJobV.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/components/ProductSelectionC.js",
+				"/D/web/production01_server/node_modules/production/models/nosql/Job/insert.js",
+				"/D/web/production01_server/node_modules/production/models/nosql/Job.js",
+				"/D/web/production01_server/node_modules/production/models/nosql/Job/skip.js",
+				"/D/web/production01_server/node_modules/production/tests/tottys/_environments/DefaultEnvironment.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/components/lists/BaseListC.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/components/ManagerControlPanelC.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/Application.js",
+				"/D/web/production01_server/node_modules/production/models/nosql/Product/addRequested.js",
+				"/D/web/production01_server/node_modules/production/models/nosql/Product/addCorrected.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/components/ControlPanelC.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/components/Component.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/views/lists/itemRenderer/WorkerIR.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/models/table/BaseRemote.js",
+				"/D/web/production01_server/node_modules/production/serviceHelpers/get.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/views/lists/MobileListV.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/views/lists/mobileItemRenderer/WorkerIR.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/views/lists/mobileItemRenderer/WorkersIR.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/views/lists/BaseListV.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/views/lists/MobileList.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/views/stats/DayV.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/views/stats/WeekGraphV.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/views/stats/WeeklyV.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/views/mainScreen/SerialsTable.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/views/ControlPanelV.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/components/WorkerGroupC.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/views/MainScreenV.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/ComponentFactory.js",
+				"/D/web/production01_server/node_modules/production/services/jobs/insert.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/components/stats/WeekGraphC.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/components/stats/DayC.js",
+				"/D/web/production01_server/node_modules/production/models/nosql/TimeFrame.js",
+				"/D/web/production01_server/node_modules/production/client/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/Tcanvas/View.js",
+				"/D/web/production01_server/node_modules/production/client/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/Tcanvas/renders/basic/Render.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/models/marshalMixins/Week.js",
+				"/D/web/production01_server/_run/umongo-windows-all_1-2-1/conf/umongo.xml",
+				"/D/web/production01_server/node_modules/production/client/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/Tcanvas/items/Label.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/parsers/SubDataToDot.js",
+				"/D/web/production01_server/node_modules/production/client/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/Tcanvas/items/Rectangle.js",
+				"/D/web/production01_server/node_modules/production/migrations/v01_00_001/models/nosql/Job.js",
+				"/D/web/production01_server/node_modules/production/client/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/Tcanvas/items/Group.js",
+				"/D/web/production01_server/node_modules/production/client/production/config2.json",
+				"/D/web/production01_server/node_modules/production/client/production/config.json",
+				"/D/web/production01_server/node_modules/production/client/qooxdoo-contrib/TottysTools/trunk/Manifest.json",
+				"/D/web/production01_server/node_modules/production/client/qooxdoo-contrib/Aristo/trunk/Manifest.json",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/components/stats/WeekGraphV.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/views/ManagerControlPanelV.js",
+				"/D/web/production01_server/node_modules/production/services/statistics/workersDailyTimes/getData.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/components/stats/Weekly.js",
+				"/D/web/production01_server/node_modules/production/tests/tottys/scenarios/statistics/workersDailyTimes/getData.js",
+				"/D/web/production01_server/node_modules/production/_indexWithoutForever2cl.js",
+				"/D/web/production01_server/node_modules/production/services/jobs/reOrderMany.js",
+				"/D/web/production01_server/node_modules/production/models/nosql/Job/reorderMany.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/components/jobs/OrderJobsC.js",
+				"/D/web/production01_server/node_modules/production/services/jobs/get.js",
+				"/D/web/production01_server/node_modules/production/models/nosql/Job/reorder.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/models/table/JobSimple.js",
+				"/D/web/production01_server/node_modules/production/services/jobs/getAll.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/views/jobs/OrderJobsV.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/components/corrections/ConfirmCorrectionC.js",
+				"/D/web/production01_server/node_modules/production/models/nosql/Correction/insert.js",
+				"/D/web/production01_server/node_modules/production/services/corrections/getStatsGroupedByWorker.js",
+				"/D/web/production01_server/node_modules/production/services/corrections/getPreview.js",
+				"/D/web/production01_server/node_modules/production/services/corrections/getCorrectionPreview.js",
+				"/D/web/production01_server/node_modules/production/models/nosql/Correction/getPreview.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/views/corrections/CorrectionManagerV.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/components/corrections/CorrectionsListC.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/views/corrections/CorrectionViewerV.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/views/corrections/CorrectionsListV.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/models/table/Correction.js",
+				"/D/web/production01_server/node_modules/production/models/nosql/Worker.js",
+				"/D/web/production01_server/node_modules/production/models/nosql/User.js",
+				"/D/web/production01_server/node_modules/production/models/nosql/Correction.js",
+				"/D/web/production01_server/node_modules/production/models/utils/defaultSchemaOptions.js",
+				"/D/web/production01_server/node_modules/production/migrations/v01_00_001/models/nosql/Correction.js",
+				"/D/web/production01_server/node_modules/production/services/corrections/insertCorrectionByProductId.js",
+				"/D/web/production01_server/node_modules/production/tests/tottys/scenarios/corrections/Insert.js",
+				"/D/web/production01_server/node_modules/production/services/corrections/getCorrectionPreviewByProductId.js",
+				"/D/web/production01_server/node_modules/production/models/nosql/Product/addUncorrected.js",
+				"/D/web/production01_server/node_modules/production/models/nosql/Job/pause.js",
+				"/D/web/production01_server/node_modules/production/tottysTests/TestContext.js",
+				"/D/web/production01_server/node_modules/production/tottysTests/TestWrapper.js",
+				"/D/web/production01_server/node_modules/production/models/nosql/Job/end.js",
+				"/D/web/production01_server/node_modules/production/tests/tottys/scenarios/corrections/GetCorrectionPreviewByProductId.js",
+				"/D/web/production01_server/node_modules/production/models/nosql/Job/continue.js",
+				"/D/web/production01_server/node_modules/production/node_modules/applicationManager/system/Database.js",
+				"/D/web/production01_server/node_modules/production/models/utils/staticToInstance.js",
+				"/D/web/production01_server/node_modules/production/testMigration.js",
+				"/D/web/production01_server/node_modules/production/tests/tottys/scenarios/products/GetWithQuantityUncorrected.js"
 			],
 			"find":
 			{
-				"height": 33.0
+				"height": 34.0
 			},
 			"find_in_files":
 			{
 				"height": 0.0,
 				"where_history":
 				[
+					"C:\\web\\production01_server\\node_modules\\production\\",
+					"C:\\web\\production01_server\\node_modules\\production\\services",
 					"<open folders>",
 					""
 				]
@@ -452,199 +819,269 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"__paper",
-					"player.get",
-					"bounds",
-					"tottysPaper.Group",
-					"setAbsZIndex",
-					"__children",
-					"updateChildrenAbsZIndex",
-					"__updateChildrenAbsZIndex",
-					"__updateChildrenZIndex",
-					"__updateChildrenAbsZIndex",
-					"__updateChildrenRoot",
-					"updateAbsPosition",
-					"canvasReady",
-					"scale",
-					"Path.Circle",
-					"array",
-					"__price",
-					"setOwner",
-					"ChangeFlag",
-					"__initProperties",
-					"imagePaperRaster",
-					"__movePlayerToPoint",
-					"movePlayerToProperty",
-					"__initProperties",
-					"propertiesRawPositions",
-					"startY",
-					"startX",
-					"mainGroup",
-					"__mainGroup",
-					"__canvasSizeChanged",
-					"__bank",
-					"__updateOwnerInView",
-					"__initProperties",
-					" paper.view",
-					"this.__scale",
-					"0.5",
-					"__updateOwnerInView",
-					"scale",
-					"__movePlayerToProperty",
-					"__initPaper",
-					"__onImageLoaded",
-					"__gameLoop",
-					"__currentPlayer",
-					"__setCurrentPlayer",
-					"__getCurrentPlayer",
-					"__updateCurrentPlayerOnBoard",
-					"__setCurrentPlayer",
-					"__updateCurrentPlayerOnBoard",
-					"__getProperties",
-					"__currentTurnPlayerIndex",
-					"getCurrentPlayer",
-					"setCurrentPlayer",
-					"movePlayerPositions",
-					"setCurrentPlayer",
-					"__updateOwnerInView",
-					"__setPropertyToPosition",
-					"paper",
-					"object",
-					"__getAccount",
-					"__getMoney",
-					"__movePlayerToProperty",
-					"setOwner",
-					"Owner",
-					"init",
-					"dicesRolled",
-					"__currentPlayerIndex",
-					"raster",
-					"image2",
-					"imageDOMElement",
-					"image2",
-					"asset",
-					"movePlayerToNextProperty",
-					"nextProperty",
-					"__movePlayerToProperty",
-					"movePlayerToNextProperty",
-					"movePlayerPositions",
-					"movePlayerToNextProperty",
-					"__movePlayerToPosition",
-					"i",
-					"__setProperty",
-					"__getProperty",
-					"__properties",
-					"moveType",
-					"__movePlayerToProperty",
-					"__movePlayerToPosition",
-					"movePlayerToNextProperty",
-					"__movePlayerToPosition",
-					"position",
-					"__movePlayerToProperty",
-					"this.__prefix",
-					"__prefix",
-					"__views",
-					"__rules",
-					"tottystools.ComponentFactory",
-					"this",
-					"instance",
-					"WS",
-					"production",
+					"productsData",
+					"\"production01\"",
+					"__createApplication",
+					"migration done",
+					"__getModel",
+					"__getServicePath",
+					"__getModel",
+					"__hasServicePermission",
+					"__getDatabaseVersion",
+					"__migrate",
+					"initApplication",
+					"console",
+					"__initDatabaseDomain",
+					"migrate",
+					"__migrateOne",
+					"runMigration",
+					"__initDatabaseDomain",
+					"conso",
+					"checkFail",
+					"errors",
+					"checkFail",
+					"){\n",
+					"DatabaseDomain",
+					"getDatabaseSettings",
+					"migrationa",
+					"applicationMigrationsPath",
+					"__getMigrationPointVersions",
+					"__applicationMigrationsPath",
+					"migration done",
+					"__migrateOne",
+					"__buildApplicationInstance",
+					"deleteApplication",
+					"__getModels",
+					"__initApplication",
+					"initApplication",
+					"unInitApplication",
+					"console",
+					"application",
+					"createApplication",
+					"applicationSettings",
+					"createApplication",
+					"create",
+					"unInitApplication",
+					"appliction",
+					"__initApplication",
+					"create",
+					"unInitApplication",
+					"__initApplication",
+					"__applications",
+					"applicationConfig",
+					"error",
+					"3",
+					"__initApplication",
+					"__getApplication",
+					"deleteApplication",
+					"__getApplication",
+					"__initApplication",
+					"__getApplication",
+					"__getDatabaseConfiguration",
+					"getApplication",
+					"__settings",
+					"getApplication",
+					"__manageRequest",
+					"expressWrapper",
+					"getApplication",
+					"version",
+					"rootPath",
+					"__getApplicationConfig",
+					"applicationConfig",
+					"__getApplicationConfig",
+					"applicationPath",
+					"applicationVersion",
+					"__getApplicationConfig",
+					"systemDatabasesConfigurations",
+					"__systemDatabasesConfigurations",
+					"__prepareApplicationConfig",
+					"__initDatabaseDomain",
+					"__initDatabaseDomainB",
+					"__systemManager",
+					"__getDatabaseConfiguration",
+					"__applicationConfigs",
+					"version",
+					"applicationSettings",
+					"__systemManager",
+					"addApplicationConfig",
+					"start",
+					"__getSessionStore",
+					"__applicationPath",
+					"__systemManager",
+					"applicationPath",
+					"appIp",
+					"appPort",
+					"secretSession",
+					"__initVersion",
+					"applicationDatabasesSettings",
+					"__migrationManagerFacade",
+					"hardMigrationVersion",
+					"applicationVersion",
+					"migrationManagerFacade",
+					"__migrationManagerFacade",
+					"require",
+					"databaseConfigurations",
+					"ApplicationModel",
+					"MigrationModel",
+					"applicationRecord",
+					"applicationConfig",
+					"__getApplicationConfig",
+					"__systemDatabasesConfigurations",
+					"__addApplicationConfig",
+					"__systemManager",
+					"systemDatabasesConfigurations",
+					"modelsFilePath",
+					"modelspath",
+					"modelpath",
+					"modelspath",
 					"models",
-					"c",
-					"production",
-					"database",
-					"cm",
-					"getOrCreateConnection",
-					"setupModelListenersForConnection",
-					"GS.Controllers.",
-					"GS.Controllers.BaseController.extend",
-					"GS.COntroller",
-					"GS.Controllers.PageController",
-					"GS.Models.UserSettings",
-					"__emitWithActiveWorkerId",
-					"__lastEndedTimeFrame",
-					"$setStat",
-					"__$end",
-					"__$pause",
-					"__emitWithActiveWorkerId",
-					"models",
-					"type",
-					"currentTimeFrame",
-					"somebodyElseIsWorking",
-					"currentTimeFrame",
-					"Job",
-					"workerState",
-					"ActiveJobList",
-					"getSelectedWorkerNumber",
-					"job",
-					"exit",
-					"sort"
+					"__addApplicationConfig",
+					"__prepareApplicationConfig",
+					"__systemManager",
+					"__addApplicationConfig",
+					"__prepareApplicationConfig",
+					"dbConfig",
+					"__getDatabaseConfiguration",
+					"dbConfig",
+					"__getDatabaseConfiguration",
+					"dbConfig",
+					"produc",
+					"__getDatabaseConfiguration"
 				],
 				"highlight": true,
 				"in_selection": false,
-				"preserve_case": true,
+				"preserve_case": false,
 				"regex": false,
 				"replace_history":
 				[
-					"size",
-					"this.__graphic",
-					"tottysPaperGroup",
-					"updateChildrenAbsZIndex",
-					"movePlayerToPoint",
-					"propertiesInnerPositions",
-					"lastY",
-					"lastX",
-					"entity",
-					"__currentTurnPlayerIndex",
-					"imagePaperRaster",
-					"imageDOMElement",
-					"destinationProperty",
-					"position",
-					"__getProperties()",
-					"settleType",
-					"prefix",
-					"this",
-					"tottystools.ComponentFactory",
-					"ws",
-					"WS",
-					"connection",
-					"app",
-					"databaseName",
-					"setStat",
-					"__setEndProperties",
-					"__setPauseProperties",
-					"connection",
-					"__getFilters",
-					"setCorrection",
-					"exit",
-					"confirm",
-					"save",
-					"__workersList",
-					"product",
-					"__populateFieldsWithDefaultData",
-					"__afterJobSelectionChangedInAnyJobList",
-					"",
-					"_lastRowId",
-					"selectionChanged",
-					"dataLoaded",
-					"__scheduleSelectFirstRow",
-					"__selectFirstRowScheduled",
-					"_modelLoading",
-					"__afterEndJobRequested",
-					"__afterPauseJobRequested",
-					"pauseJobRequested",
-					"serials",
-					"productSerials",
-					"__afterTableJobChanged",
-					"__afterStartJobRequested",
-					"__table",
+					"applicationName",
+					"errs",
+					"__getSystemModels",
+					"__buildApplicationInstance",
+					"rootPath",
+					"version",
+					"workerId",
+					"__workersListC",
+					"__selectWorkerByNumber",
 					"	",
-					"start",
-					"__refreshAllJobLists",
-					"__reloadData",
-					"__getCurrentSelectionData",
-					"	"
+					"NoWorkColor",
+					"noWorkColor",
+					"var spaceBottom = 15;",
+					"var spaceBottom = 0;",
+					"mainLabel",
+					"this.__canvas.getInnerSize",
+					"function(){",
+					"function(width, height){\n            var width = getInnerSize().width;\n            var height = getInnerSize().height;\n            ",
+					"",
+					"__updateYAxis",
+					"production",
+					"header",
+					"years",
+					"week",
+					"serial",
+					"serialsB",
+					"quantityCorrected",
+					"addCorrected",
+					"serials",
+					"serialsObjects",
+					"jobsA",
+					"workersId",
+					"jobsId",
+					"dataGroupedByWorker",
+					"	",
+					".id",
+					"id",
+					"makeRequest",
+					"makeRequestAndValidate",
+					"makeRequest",
+					"Job",
+					"Jobs",
+					"Groupt",
+					"    ,CONSTRAINT id PRIMARY KEY(id)",
+					"	",
+					"savedDocs",
+					"docs",
+					"name",
+					"	",
+					"myapp",
+					"models.",
+					"initializatorName",
+					"applicationConfig",
+					"initializatorName",
+					"System",
+					"",
+					"servicePath",
+					"ModelManager",
+					"__models.getModel(\"Domain\")",
+					"databaseConfigurations",
+					"databaseVersion",
+					"domainVersion",
+					"requiredOptions",
+					"applicationDatabaseConfigPath",
+					"applicationServicesPath",
+					"applicationMigrationsPath",
+					"applicationModelsPath",
+					"odelsPath",
+					"applicationMigrationPath",
+					"getApplicationVersion()",
+					"servicesRootPath",
+					": function",
+					",",
+					"_environment",
+					"dv",
+					"av",
+					"__ended",
+					": ",
+					",",
+					"applicationRootPath",
+					"applicationManagerRootPath",
+					"applicationManagerDatabaseName",
+					"applicationManager",
+					"this.__applicationManager",
+					": function",
+					",",
+					"__folderWrapper",
+					"__folderWrappers",
+					"__foldersWrappers",
+					"__FoldersWrappers",
+					"fileWrappers",
+					"__fileWrappers",
+					"__relativePath",
+					"done",
+					"getArgs",
+					" ### ",
+					"correctJobs",
+					"",
+					"productIdFilter",
+					"getCorrectionPreviewByProductId",
+					"stepName",
+					"worker",
+					"worker\n, function(expect){\n                expect(",
+					"ass\n, function(expect){\n                expect(",
+					"__replaceXInArray\n, function(expect){\n                expect(",
+					"_runNextStep\n, function(expect){\n                expect(",
+					", function(expect){\n, function(expect){\n                expect(",
+					", function(expect){\n                expect(",
+					"test.add(",
+					", function(expect){\n                expect(",
+					"test.add(",
+					":",
+					",",
+					"",
+					"second",
+					"prepareInsertJobArgs",
+					": function",
+					",",
+					": function",
+					",",
+					": function",
+					",",
+					": function",
+					",",
+					":",
+					"\"",
+					"assignJob",
+					"else if(step ==="
 				],
 				"reverse": false,
 				"show_context": true,
@@ -654,7 +1091,7 @@
 			},
 			"incremental_find":
 			{
-				"height": 0.0
+				"height": 32.0
 			},
 			"input":
 			{
@@ -683,6 +1120,10 @@
 				]
 			},
 			"menu_visible": true,
+			"output.git":
+			{
+				"height": 68.0
+			},
 			"replace":
 			{
 				"height": 62.0
@@ -702,6 +1143,633 @@
 						"production/client/production/source/class/production/views/MainScreen.js"
 					],
 					[
+						"workergroup",
+						"production/client/production/source/class/production/controllers/WorkerGroup.js"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 254.0,
+			"status_bar_visible": true
+		},
+		"new_window_width": 869.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"total",
+						"totalTimeInMinutes"
+					],
+					[
+						"quant",
+						"quantityDone"
+					],
+					[
+						"exp",
+						"expressWrapper"
+					],
+					[
+						"app",
+						"appliction"
+					],
+					[
+						"appl",
+						"application"
+					],
+					[
+						"getA",
+						"getApplicationAtVersion"
+					],
+					[
+						"__i",
+						"__initDatabaseDomainA"
+					],
+					[
+						"__",
+						"__applicationVersion"
+					],
+					[
+						"application",
+						"applicationManager"
+					],
+					[
+						"prod",
+						"productSelection"
+					],
+					[
+						"getW",
+						"getCurrentWorker"
+					],
+					[
+						"gett",
+						"getTodoJobModel"
+					],
+					[
+						"getDef",
+						"getDeferredJobModel"
+					],
+					[
+						"curre",
+						"currentWorkerId"
+					],
+					[
+						"date",
+						"dateStarted"
+					],
+					[
+						"paper",
+						"paperSizes"
+					],
+					[
+						"wee",
+						"weekNumber"
+					],
+					[
+						"end",
+						"endHour"
+					],
+					[
+						"timeFram",
+						"timeFrameB"
+					],
+					[
+						"time",
+						"timeFrames"
+					],
+					[
+						"spa",
+						"spaceBetweenDays"
+					],
+					[
+						"days",
+						"daysToRender"
+					],
+					[
+						"year",
+						"yearStart"
+					],
+					[
+						"firs",
+						"firstWeekDays"
+					],
+					[
+						"years",
+						"yearsToShow"
+					],
+					[
+						"work",
+						"workedHours"
+					],
+					[
+						"serial",
+						"serialsObjects"
+					],
+					[
+						"serials",
+						"serialsArray"
+					],
+					[
+						"save",
+						"saveBatchByDocs"
+					],
+					[
+						"corre",
+						"correctionObject"
+					],
+					[
+						"corr",
+						"correction"
+					],
+					[
+						"has",
+						"hasSerialNumber"
+					],
+					[
+						"timefr",
+						"timeFrameB"
+					],
+					[
+						"production",
+						"production01"
+					],
+					[
+						"saveBa",
+						"saveBatchByDocs"
+					],
+					[
+						"domain",
+						"domainName"
+					],
+					[
+						"user",
+						"UserSchema"
+					],
+					[
+						"__app",
+						"__appPort"
+					],
+					[
+						"exi",
+						"existingProperty"
+					],
+					[
+						"mer",
+						"mergeObjects"
+					],
+					[
+						"migraion",
+						"migrationFacade"
+					],
+					[
+						"system",
+						"systemManager"
+					],
+					[
+						"model",
+						"modelsFilePath"
+					],
+					[
+						"appli",
+						"application"
+					],
+					[
+						"applia",
+						"applicationManager"
+					],
+					[
+						"apl",
+						"applicationVersion"
+					],
+					[
+						"v00_",
+						"v00_00_000"
+					],
+					[
+						"__migratio",
+						"__migrationDatabaseConfiguration"
+					],
+					[
+						"__appl",
+						"__applicationPath"
+					],
+					[
+						"__migration",
+						"__migrationControl"
+					],
+					[
+						"nosq",
+						"nosqlConfig"
+					],
+					[
+						"Ini",
+						"InitializatorFacade"
+					],
+					[
+						"Initializator",
+						"initializatorFacade"
+					],
+					[
+						"ser",
+						"serviceName"
+					],
+					[
+						"servi",
+						"servicePermission"
+					],
+					[
+						"__ge",
+						"__getModel"
+					],
+					[
+						"permis",
+						"permissionType"
+					],
+					[
+						"sy",
+						"sysPermissionType"
+					],
+					[
+						"getMo",
+						"__getModels"
+					],
+					[
+						"applicatio",
+						"applicationManager"
+					],
+					[
+						"databases",
+						"databaseConfigurations"
+					],
+					[
+						"connec",
+						"connection"
+					],
+					[
+						"data",
+						"databaseConfigurations"
+					],
+					[
+						"database",
+						"databaseConfigurations"
+					],
+					[
+						"initial",
+						"initializatorName"
+					],
+					[
+						"__models",
+						"__modelsFilePath"
+					],
+					[
+						"migr",
+						"migrateDatabase"
+					],
+					[
+						"migration",
+						"migrationControl"
+					],
+					[
+						"init",
+						"initModels"
+					],
+					[
+						"config",
+						"configuration"
+					],
+					[
+						"__con",
+						"__configurations"
+					],
+					[
+						"sequel",
+						"sequelize"
+					],
+					[
+						"mode",
+						"modelsNames"
+					],
+					[
+						"service",
+						"serviceMetadata"
+					],
+					[
+						"manageS",
+						"manageService2"
+					],
+					[
+						"getConn",
+						"getConnection"
+					],
+					[
+						"missing",
+						"missingKeysArray"
+					],
+					[
+						"connection",
+						"connectionManager"
+					],
+					[
+						"to",
+						"toVersion"
+					],
+					[
+						"getData",
+						"getDatabaseName"
+					],
+					[
+						"index",
+						"indexOfTheStepToRemove"
+					],
+					[
+						"migra",
+						"migrationSteps"
+					],
+					[
+						"migratio",
+						"migrationPointVersion"
+					],
+					[
+						"migrationPo",
+						"migrationPointVersion"
+					],
+					[
+						"migrationP",
+						"migrationPointVersions"
+					],
+					[
+						"conn",
+						"setConnectionB"
+					],
+					[
+						"conne",
+						"connectionA"
+					],
+					[
+						"getAppl",
+						"getApplicationMigrationsPath"
+					],
+					[
+						"getMigr",
+						"getApplicationMigrationPath"
+					],
+					[
+						"from",
+						"fromVersion"
+					],
+					[
+						"isp",
+						"isApplicationManagementDatabase"
+					],
+					[
+						"ph",
+						"physicalDatabaseName"
+					],
+					[
+						"isApl",
+						"isApplicationManagementDatabase"
+					],
+					[
+						"stepr",
+						"stepRunnerContext"
+					],
+					[
+						"step",
+						"stepRunnerContext"
+					],
+					[
+						"datab",
+						"databaseName"
+					],
+					[
+						"is",
+						"isApplicationManagementDatabase"
+					],
+					[
+						"__on",
+						"__onEndCallback"
+					],
+					[
+						"_con",
+						"_connectionIsNew"
+					],
+					[
+						"databas",
+						"databaseVersion"
+					],
+					[
+						"mi",
+						"migrationPointVersions"
+					],
+					[
+						"test",
+						"testContext"
+					],
+					[
+						"drop",
+						"dropDatabase"
+					],
+					[
+						"missin",
+						"missingArgumentsError"
+					],
+					[
+						"pass",
+						"password"
+					],
+					[
+						"__application",
+						"__applicationRootPath"
+					],
+					[
+						"manage",
+						"manageService"
+					],
+					[
+						"logged",
+						"loggedUserName"
+					],
+					[
+						"logge",
+						"loggedUserName"
+					],
+					[
+						"configured",
+						"configured"
+					],
+					[
+						"con",
+						"configName"
+					],
+					[
+						"getNum",
+						"getNumberOfTotalItems"
+					],
+					[
+						"later",
+						"laterSpaces"
+					],
+					[
+						"passed",
+						"passedItems"
+					],
+					[
+						"passe",
+						"passedItems"
+					],
+					[
+						"succe",
+						"succeededExpects"
+					],
+					[
+						"__ex",
+						"__succeededExpects"
+					],
+					[
+						"tes",
+						"TestFolder"
+					],
+					[
+						"__test",
+						"__testSummary"
+					],
+					[
+						"summ",
+						"summaries"
+					],
+					[
+						"summa",
+						"summaries"
+					],
+					[
+						"get",
+						"getArgs"
+					],
+					[
+						"pr",
+						"productsInserted"
+					],
+					[
+						"worker",
+						"workersN"
+					],
+					[
+						"random",
+						"randomProduct"
+					],
+					[
+						"ran",
+						"randomWorker"
+					],
+					[
+						"num",
+						"numberOfCallbacks"
+					],
+					[
+						"th",
+						"thirdCol"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "node_modules/production/models/nosql/Job/end.js",
+					"settings":
+					{
+						"buffer_size": 2816,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "node_modules/production/models/nosql/Product/addUncorrected.js",
+					"settings":
+					{
+						"buffer_size": 1305,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "node_modules/production/models/nosql/Job.js",
+					"settings":
+					{
+						"buffer_size": 5014,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "node_modules/production/models/nosql/Product.js",
+					"settings":
+					{
+						"buffer_size": 1595,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "node_modules/production/tests/tottys/scenarios/jobs/end.js",
+					"settings":
+					{
+						"buffer_size": 6401,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "node_modules/production/_indexWithoutForever2.js",
+					"settings":
+					{
+						"buffer_size": 1989,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "node_modules/production/tests/tottys/scenarios/jobs/start.js",
+					"settings":
+					{
+						"buffer_size": 5541,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "node_modules/production/tottysTests/TestContext.js",
+					"settings":
+					{
+						"buffer_size": 2128,
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "Packages/User/Nodejs Debug.sublime-build",
+			"command_palette":
+			{
+				"height": 60.0,
+				"selected_items":
+				[
+					[
+						"run test",
+						"Build: App run tests"
+					],
+					[
+						"run te",
+						"Build: App run tests"
+					],
+					[
+<<<<<<< HEAD
 						"workergroup",
 						"production/client/production/source/class/production/controllers/WorkerGroup.js"
 					]
@@ -859,216 +1927,259 @@
 					[
 						"player",
 						"playerDesign"
+=======
+						"app run te",
+						"Build: App run tests"
 					],
 					[
-						"getAb",
-						"getAbsZIndex"
+						"app rn",
+						"Build: App run tests"
+>>>>>>> origin/master
 					],
 					[
-						"parent",
-						"parentAbsPosition"
+						"app run",
+						"Build: App run tests"
 					],
 					[
-						"__owner",
-						"__updateOwnershipGraphic"
+						"ru ntest",
+						"Build: App run tests"
 					],
 					[
-						"owner",
-						"ownershipGraphic"
+						"app r",
+						"Build: App run tests"
 					],
 					[
-						"own",
-						"ownershipPosition"
+						"app test",
+						"Build: App run tests"
 					],
 					[
-						"ow",
-						"ownershipGraphic"
+						"migrat",
+						"Build: Migration run"
 					],
 					[
+						"migratio",
+						"Build: Migration run"
+					],
+					[
+<<<<<<< HEAD
 						"pla",
 						"playerBuyRequest"
 					],
 					[
 						"hit",
 						"hitResult"
+=======
+						"app debu",
+						"Build: App debug"
 					],
 					[
-						"de",
-						"destinationPoint"
+						"app debug",
+						"Build: App debug"
 					],
 					[
-						"prop",
-						"propertyPosition"
+						"git statu",
+						"Git: Status"
 					],
 					[
-						"e",
-						"event"
+						"git: bla",
+						"Github: Blame"
 					],
 					[
-						"im",
-						"imageDOMElement"
+						"git bl",
+						"Git: Blame"
 					],
 					[
-						"start",
-						"startingPosition"
+						"appr un",
+						"Build: App run"
+>>>>>>> origin/master
 					],
 					[
-						"star",
-						"startingProperty"
+						" app run",
+						"Build: App run"
 					],
 					[
-						"__getp",
-						"__getPropertyByPosition"
+						"app ru",
+						"Build: App run"
 					],
 					[
-						"__getP",
-						"__getProperty"
+						"ru test",
+						"Build: App run tests"
 					],
 					[
-						"ci",
-						"circleDiameter"
+						"build app ",
+						"Build: App debug no tests"
 					],
 					[
-						"Model",
-						"ModelListenersManager"
+						"set sy json",
+						"Set Syntax: JSON"
 					],
 					[
-						"todo",
-						"todoJobsSimpleModel"
+						"git commit",
+						"Set Syntax: Git Commit Message"
 					],
 					[
-						"visi",
-						"visibility"
+						"git add",
+						"Git: Add..."
 					],
 					[
-						"not",
-						"notFormatedItem"
+						"commit",
+						"Git: Commit"
 					],
 					[
-						"worke",
-						"workerJobStatistics"
+						"git comm",
+						"Git: Commit"
 					],
 					[
-						"tot",
-						"totalTimeInMinutes"
+						"git add .",
+						"Git: Add..."
 					],
 					[
-						"sum",
-						"sumTotalTimeInMinutes"
+						"migration",
+						"Build: Migration run"
 					],
 					[
-						"worker",
-						"workerName"
+						"migra",
+						"Build: Migration run"
 					],
 					[
-						"grou",
-						"groupedByWorker"
+						"build",
+						"Build: Cancel"
 					],
 					[
-						"work",
-						"workerId"
+						"git stat",
+						"Git: Status"
 					],
 					[
-						"sel",
-						"selectedCorrectionChanged"
+						"git: comm",
+						"Git: Quick Commit"
 					],
 					[
-						"product",
-						"productId"
+						"int pack",
+						"Package Control: Install Package"
 					],
 					[
-						"pro",
-						"productSelection"
+						"inst pack",
+						"Package Control: Install Package"
 					],
 					[
-						"correc",
-						"correctedJobs"
+						"linter",
+						"SublimeLinter: Show Error List"
 					],
 					[
-						"corr",
-						"correctionId"
+						"javasc",
+						"Format: Javascript"
 					],
 					[
-						"Cor",
-						"CorrectionSchema"
+						"snippe cl",
+						"Snippet: Qooxoo Class"
 					],
 					[
-						"qu",
-						"quantityDone"
+						"inst pa",
+						"Package Control: Install Package"
 					],
 					[
-						"produ",
-						"productInfo"
+						"inst ap",
+						"Package Control: Install Package"
 					],
 					[
-						"getSele",
-						"getSelectedJob"
+						"inst pac",
+						"Package Control: Install Package"
 					],
 					[
-						"ri",
-						"rightContent"
+						"pack inst",
+						"Package Control: Install Package"
 					],
 					[
-						"job",
-						"jobSaveStatus"
+						"ins pac",
+						"Package Control: Install Package"
 					],
 					[
-						"model",
-						"modelColumns"
+						"git com",
+						"Git: Commit"
 					],
 					[
+						"git:add",
+						"Git: Add..."
+					],
+					[
+						"git: ann",
+						"Git: Toggle Annotations"
+					],
+					[
+						"anno",
+						"Git: Toggle Annotations"
+					],
+					[
+						"insta pac",
+						"Package Control: Install Package"
+					],
+					[
+						"pack insta",
+						"Package Control: Install Package"
+					],
+					[
+<<<<<<< HEAD
 						"clas",
 						"classPathFromPrefix"
+=======
+						"set syn java",
+						"Set Syntax: JavaScript"
 					],
 					[
-						"compo",
-						"componentClass"
+						"git:",
+						"Git: Toggle Annotations"
+>>>>>>> origin/master
 					],
 					[
-						"com",
-						"componentPath"
+						"git:bl",
+						"Git: Blame"
 					],
 					[
-						"selection",
-						"selectionFn"
+						"git annot",
+						"Git: Toggle Annotations"
 					],
 					[
-						"sele",
-						"selectedRows"
+						"git:pu",
+						"Git: Push"
 					],
 					[
-						"found",
-						"foundOnRow"
+						"git:stat",
+						"Git: Status"
 					],
 					[
-						"t",
-						"todoJobsList"
+						"git:st",
+						"Git: Show Tags"
 					],
 					[
-						"regexp",
-						"regexpString"
+						"git pus",
+						"Git: Push"
 					],
 					[
-						"win",
-						"windowManager"
+						"git:comm",
+						"Git: Commit"
 					],
 					[
-						"Window",
-						"windowManager"
+						"git",
+						"Git: Status"
 					],
 					[
-						"Request",
-						"RequestManager"
+						"in",
+						"Package Control: Install Package"
 					],
 					[
-						"sor",
-						"sortOrder"
+						"g",
+						"Github: Blame"
 					],
 					[
-						"sord",
-						"sortOrder"
+						"pack in",
+						"Package Control: Install Package"
 					],
 					[
+						"task",
+						"Tasks: New document"
+					],
+					[
+<<<<<<< HEAD
 						"data",
 						"dateJobStart"
 					]
@@ -1147,6 +2258,11 @@
 				"height": 375.0,
 				"selected_items":
 				[
+=======
+						"",
+						"Package Control: Install Package"
+					],
+>>>>>>> origin/master
 					[
 						"insta",
 						"Package Control: Install Package"
@@ -1172,7 +2288,7 @@
 			},
 			"console":
 			{
-				"height": 125.0
+				"height": 282.0
 			},
 			"distraction_free":
 			{
@@ -1185,6 +2301,7 @@
 			},
 			"file_history":
 			[
+<<<<<<< HEAD
 				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v03/view/entities/TileV.js",
 				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v03/view/entities/BuildingInstanceV.js",
 				"/D/Totty/web/WaterShares/node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v03/view/entities/ResourceInstanceV.js",
@@ -1313,16 +2430,148 @@
 				"/D/Books/Google Drive/ISPG/3 semestre/BDD/2M/Trabalho/Queries/Articles.sql",
 				"/D/Books/Google Drive/ISPG/3 semestre/BDD/2M/Trabalho/Queries/insertJob.sql",
 				"/D/Books/Google Drive/ISPG/3 semestre/BDD/2M/Trabalho/Queries/insertArticle.sql"
+=======
+				"/D/web/production01_server/debug.sublime-build",
+				"/D/web/production01_server/node_modules/production/_indexWithoutForever2.js",
+				"/D/web/production01_server/node_modules/production/tests/tottys/scenarios/products/GetWithQuantityUncorrected.js",
+				"/D/web/production01_server/node_modules/production/tests/tottys/scenarios/corrections/GetPreview.js",
+				"/D/web/about_projects/apps/SublimeText2/Data/Packages/User/Nodejs Debug.sublime-build",
+				"/D/web/production01_server/node_modules/production/migrations/v01_00_001/Migration.js",
+				"/D/web/about_projects/apps/SublimeText2/Data/Packages/Default/Default (Windows).sublime-keymap",
+				"/D/web/production01_server/node_modules/production/tests/tottys/scenarios/corrections/Insert.js",
+				"/D/web/about_projects/apps/SublimeText2/Data/Packages/User/Preferences.sublime-settings",
+				"/D/web/about_projects/apps/SublimeText2/Data/Packages/Default/Preferences.sublime-settings",
+				"/D/web/about_projects/apps/SublimeText2/Data/Packages/SublimeCodeIntel/Base File.sublime-settings",
+				"/D/web/production01_server/node_modules/production/models/nosql/Product.js",
+				"/D/web/production01_server/node_modules/production/client/otherExamples/GrooveShark/app-js/app.js",
+				"/D/web/about_projects/apps/SublimeText2/Data/Packages/NodeEval/NodeEval.sublime-settings",
+				"/D/web/about_projects/apps/SublimeText2/Data/Packages/Nodejs/Nodejs.sublime-settings",
+				"/D/web/about_projects/apps/SublimeText2/Data/Packages/User/Default (Windows).sublime-keymap",
+				"/D/web/production01_server/_run/_sublimeTextCmds.txt",
+				"/D/web/about_projects/apps/SublimeText2/Data/Packages/User/JsFormat.sublime-settings",
+				"/D/web/about_projects/apps/SublimeText2/Data/Packages/JsFormat/JsFormat.sublime-settings",
+				"/D/web/production01_server/node_modules/production/runMigration.js",
+				"/D/web/production01_server/node_modules/production/models/nosql/Serial.js",
+				"/D/web/production01_server/node_modules/production/_indexWithoutForever.js",
+				"/D/web/production01_server/node_modules/production/models/nosql/Worker.js",
+				"/D/web/production01_server/node_modules/production/models/nosql/User.js",
+				"/D/web/production01_server/node_modules/production/models/nosql/TimeFrame.js",
+				"/D/web/production01_server/node_modules/production/models/nosql/Job.js",
+				"/D/web/about_projects/apps/SublimeText2/Data/Packages/User/Base File.sublime-settings",
+				"/D/web/about_projects/apps/SublimeText2/Data/Packages/Alignment/Base File.sublime-settings",
+				"/D/web/production01_server/node_modules/production/models/nosql/Correction.js",
+				"/D/web/about_projects/apps/SublimeText2/Data/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+				"/D/web/about_projects/apps/SublimeText2/Data/Packages/User/SublimeLinter.sublime-settings",
+				"/D/web/about_projects/apps/SublimeText2/Data/Packages/User/snippets/Qooxoo Class.sublime-snippet",
+				"/D/web/production01_server/node_modules/production/utils/StepRunner.js",
+				"/D/web/about_projects/apps/SublimeText2/Data/Packages/User/snippets/Steprunner.sublime-snippet",
+				"/D/web/production01_server/node_modules/production/utils/a.js",
+				"/D/web/production01_server/node_modules/production/utils/_stepRunnerTemplate.js",
+				"/D/web/about_projects/apps/SublimeText2/Data/Packages/JsFormat/Default (Windows).sublime-keymap",
+				"/D/web/production01_server/node_modules/production/createApplication.js",
+				"/D/web/about_projects/apps/SublimeText2/Data/Packages/NodejsDebug-master/nodejs_debug.py",
+				"/D/web/about_projects/apps/SublimeText2/Data/Packages/NodejsDebug-master/Default (Windows).sublime-keymap",
+				"/D/web/production01_server/Project Work.sublime-workspace",
+				"/D/web/about_projects/apps/SublimeText2/Data/Packages/Default/exec.py",
+				"/D/web/about_projects/apps/SublimeText2/Data/Packages/Nodejs/Nodejs.sublime-build",
+				"/D/web/about_projects/apps/SublimeText2/Data/Packages/Nodejs/Readme.md",
+				"/D/web/production01_server/_run/sublimeTextSettings/build/debug.sublime-build",
+				"/D/web/about_projects/apps/SublimeText2/Data/Packages/NodejsDebug-master/nodejs_debug.sublime-settings",
+				"/D/web/about_projects/apps/SublimeText2/Data/Packages/Git/Git.sublime-settings",
+				"/D/web/about_projects/apps/SublimeText2/Data/Packages/NodejsDebug-master/Context.sublime-menu",
+				"/D/web/about_projects/apps/SublimeText2/Data/Packages/NodejsDebug-master/package-metadata.json",
+				"/D/web/about_projects/apps/SublimeText2/Data/Packages/Package Control/Package Control.sublime-settings",
+				"/D/web/about_projects/apps/SublimeText2/Data/Packages/User/Git.sublime-settings",
+				"/D/web/about_projects/apps/SublimeText2/Data/Packages/Alignment/Default (Windows).sublime-keymap",
+				"/D/web/about_projects/apps/SublimeText2/Data/Packages/SublimeCodeIntel/Default (Windows).sublime-keymap",
+				"/D/web/production01_server/node_modules/production/migrations/readme.md",
+				"/D/web/about_projects/apps/SublimeText2/Data/Packages/User/JavaScript.sublime-settings",
+				"/D/web/production01_server/node_modules/production/models/nosql/Job/start.js",
+				"/D/web/about_projects/apps/SublimeText2/Data/Packages/SublimeCodeIntel/.codeintel/config",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/views/corrections/ConfirmCorrectionV.js",
+				"/D/web/production01_server/node_modules/production/initializators/default/index.js",
+				"/D/web/production01_server/node_modules/production/settings/main.js",
+				"/D/web/production01_server/node_modules/production/node_modules/applicationManager/system/MigrationManager.js",
+				"/D/web/production01_server/node_modules/production/node_modules/applicationManager/ExpressWrapper.js",
+				"/D/web/production01_server/node_modules/production/node_modules/applicationManager/system/SystemManager.js",
+				"/D/web/production01_server/node_modules/production/node_modules/applicationManager/system/Application.js",
+				"/D/web/production01_server/node_modules/production/node_modules/applicationManager/system/facades/MigrationManagerFacade.js",
+				"/D/web/production01_server/node_modules/production/node_modules/tUtils/check.js",
+				"/D/web/production01_server/README.md",
+				"/D/web/production01_server/node_modules/production/node_modules/applicationManager/configNodeModules.js",
+				"/D/web/production01_server/node_modules/production/node_modules/applicationManager/system/facades/MigrationFacade.js",
+				"/D/web/production01_server/node_modules/production/settings/get.js",
+				"/D/web/production01_server/node_modules/production/settings/getSettings.js",
+				"/D/web/production01_server/node_modules/production/services/users/register.js",
+				"/D/web/production01_server/node_modules/production/config/main.js",
+				"/D/web/production01_server/node_modules/production/config/_old/databases/winTest/index.js",
+				"/D/web/production01_server/node_modules/production/config/databases/winTest/index.js",
+				"/D/web/production01_server/_deployment/nginxConfigs/http/index.conf",
+				"/D/web/production01_server/node_modules/production/importMongo.js",
+				"/D/web/production01_server/node_modules/production/config/application/winTest/index.js",
+				"/D/web/production01_server/node_modules/production/node_modules/applicationManager/system/databaseDrivers/MongodbDriver.js",
+				"/D/web/production01_server/node_modules/production/node_modules/session-mongoose/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/server.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/components/stats/WeeklyC.js",
+				"/D/web/production01_server/node_modules/production/models/utils/saveBatchByDocs.js",
+				"/D/web/production01_server/node_modules/production/tests/tottys/scenarios/jobs/start.js",
+				"/D/web/production01_server/node_modules/production/tests/tottys/scenarios/jobs/insert.js",
+				"/D/web/production01_server/node_modules/production/tests/tottys/scenarios/jobs/skip.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/components/ProductionC.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/views/ProductionV.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/components/jobs/InsertJobC.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/views/jobs/InsertJobV.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/components/ProductSelectionC.js",
+				"/D/web/production01_server/node_modules/production/models/nosql/Job/insert.js",
+				"/D/web/production01_server/node_modules/production/models/nosql/Job/skip.js",
+				"/D/web/production01_server/node_modules/production/tests/tottys/_environments/DefaultEnvironment.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/components/lists/BaseListC.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/components/ManagerControlPanelC.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/Application.js",
+				"/D/web/production01_server/node_modules/production/models/nosql/Product/addRequested.js",
+				"/D/web/production01_server/node_modules/production/models/nosql/Product/addCorrected.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/components/ControlPanelC.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/components/Component.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/views/lists/itemRenderer/WorkerIR.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/models/table/BaseRemote.js",
+				"/D/web/production01_server/node_modules/production/serviceHelpers/get.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/views/lists/MobileListV.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/views/lists/mobileItemRenderer/WorkerIR.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/views/lists/mobileItemRenderer/WorkersIR.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/views/lists/BaseListV.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/views/lists/MobileList.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/views/stats/DayV.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/views/stats/WeekGraphV.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/views/stats/WeeklyV.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/views/mainScreen/SerialsTable.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/views/ControlPanelV.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/components/WorkerGroupC.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/views/MainScreenV.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/ComponentFactory.js",
+				"/D/web/production01_server/node_modules/production/services/jobs/insert.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/components/stats/WeekGraphC.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/components/stats/DayC.js",
+				"/D/web/production01_server/node_modules/production/client/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/Tcanvas/View.js",
+				"/D/web/production01_server/node_modules/production/client/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/Tcanvas/renders/basic/Render.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/models/marshalMixins/Week.js",
+				"/D/web/production01_server/_run/umongo-windows-all_1-2-1/conf/umongo.xml",
+				"/D/web/production01_server/node_modules/production/client/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/Tcanvas/items/Label.js",
+				"/D/web/production01_server/node_modules/production/client/production/source/class/production/parsers/SubDataToDot.js",
+				"/D/web/production01_server/node_modules/production/client/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/Tcanvas/items/Rectangle.js",
+				"/D/web/production01_server/node_modules/production/migrations/v01_00_001/models/nosql/Job.js",
+				"/D/web/production01_server/node_modules/production/client/qooxdoo-contrib/TottysTools/trunk/source/class/tottystools/Tcanvas/items/Group.js"
+>>>>>>> origin/master
 			],
 			"find":
 			{
-				"height": 33.0
+				"height": 34.0
 			},
 			"find_in_files":
 			{
 				"height": 0.0,
 				"where_history":
 				[
+					"C:\\web\\production01_server\\node_modules\\production\\",
+					"C:\\web\\production01_server\\node_modules\\production\\services",
 					"<open folders>",
 					""
 				]
@@ -1332,6 +2581,7 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+<<<<<<< HEAD
 					"__openBuildingInstanceContextMenu",
 					"__tryBuildBuilding",
 					"building",
@@ -1460,13 +2710,144 @@
 					"onMouseDown",
 					"getAbsZIndex",
 					"getRoot"
+=======
+					"jobSerials",
+					"addUncorrected",
+					"Check product average",
+					"build",
+					"_",
+					"inden",
+					"product",
+					"productsB",
+					"productsA",
+					"product",
+					"4",
+					"spaces",
+					"tab",
+					"indent",
+					"ctrl+b",
+					"ignore",
+					"node",
+					"node.",
+					"disable",
+					"should be",
+					"GLOB",
+					"glob",
+					"globals",
+					"special",
+					"custom",
+					"command",
+					"ctrl+\\\\",
+					"console.log('App started with version: ' + APP_VERSION);",
+					"build",
+					"nodejs_debug",
+					"\\",
+					"shift",
+					"console.log(\"a\");",
+					"productsData",
+					"\"production01\"",
+					"__createApplication",
+					"migration done",
+					"__getModel",
+					"__getServicePath",
+					"__getModel",
+					"__hasServicePermission",
+					"__getDatabaseVersion",
+					"__migrate",
+					"initApplication",
+					"console",
+					"__initDatabaseDomain",
+					"migrate",
+					"__migrateOne",
+					"runMigration",
+					"__initDatabaseDomain",
+					"conso",
+					"checkFail",
+					"errors",
+					"checkFail",
+					"){\n",
+					"DatabaseDomain",
+					"getDatabaseSettings",
+					"migrationa",
+					"applicationMigrationsPath",
+					"__getMigrationPointVersions",
+					"__applicationMigrationsPath",
+					"migration done",
+					"__migrateOne",
+					"__buildApplicationInstance",
+					"deleteApplication",
+					"__getModels",
+					"__initApplication",
+					"initApplication",
+					"unInitApplication",
+					"console",
+					"application",
+					"createApplication",
+					"applicationSettings",
+					"createApplication",
+					"create",
+					"unInitApplication",
+					"appliction",
+					"__initApplication",
+					"create",
+					"unInitApplication",
+					"__initApplication",
+					"__applications",
+					"applicationConfig",
+					"error",
+					"3",
+					"__initApplication",
+					"__getApplication",
+					"deleteApplication",
+					"__getApplication",
+					"__initApplication",
+					"__getApplication",
+					"__getDatabaseConfiguration",
+					"getApplication",
+					"__settings",
+					"getApplication",
+					"__manageRequest",
+					"expressWrapper",
+					"getApplication",
+					"version",
+					"rootPath",
+					"__getApplicationConfig",
+					"applicationConfig",
+					"__getApplicationConfig",
+					"applicationPath",
+					"applicationVersion",
+					"__getApplicationConfig",
+					"systemDatabasesConfigurations",
+					"__systemDatabasesConfigurations",
+					"__prepareApplicationConfig",
+					"__initDatabaseDomain",
+					"__initDatabaseDomainB",
+					"__systemManager",
+					"__getDatabaseConfiguration",
+					"__applicationConfigs",
+					"version",
+					"applicationSettings",
+					"__systemManager",
+					"addApplicationConfig",
+					"start",
+					"__getSessionStore",
+					"__applicationPath",
+					"__systemManager",
+					"applicationPath",
+					"appIp",
+					"appPort",
+					"secretSession",
+					"__initVersion",
+					"applicationDatabasesSettings"
+>>>>>>> origin/master
 				],
 				"highlight": true,
 				"in_selection": false,
-				"preserve_case": true,
+				"preserve_case": false,
 				"regex": false,
 				"replace_history":
 				[
+<<<<<<< HEAD
 					"resource",
 					"Resource",
 					"resource",
@@ -1537,27 +2918,136 @@
 					"product",
 					"__populateFieldsWithDefaultData",
 					"__afterJobSelectionChangedInAnyJobList",
-					"",
-					"_lastRowId",
-					"selectionChanged",
-					"dataLoaded",
-					"__scheduleSelectFirstRow",
-					"__selectFirstRowScheduled",
-					"_modelLoading",
-					"__afterEndJobRequested",
-					"__afterPauseJobRequested",
-					"pauseJobRequested",
-					"serials",
-					"productSerials",
-					"__afterTableJobChanged",
-					"__afterStartJobRequested",
-					"__table",
+=======
+					"\\\\",
+					"applicationName",
+					"errs",
+					"__getSystemModels",
+					"__buildApplicationInstance",
+					"rootPath",
+					"version",
+					"workerId",
+					"__workersListC",
+					"__selectWorkerByNumber",
 					"	",
-					"start",
-					"__refreshAllJobLists",
-					"__reloadData",
-					"__getCurrentSelectionData",
-					"	"
+					"NoWorkColor",
+					"noWorkColor",
+					"var spaceBottom = 15;",
+					"var spaceBottom = 0;",
+					"mainLabel",
+					"this.__canvas.getInnerSize",
+					"function(){",
+					"function(width, height){\n            var width = getInnerSize().width;\n            var height = getInnerSize().height;\n            ",
+>>>>>>> origin/master
+					"",
+					"__updateYAxis",
+					"production",
+					"header",
+					"years",
+					"week",
+					"serial",
+					"serialsB",
+					"quantityCorrected",
+					"addCorrected",
+					"serials",
+					"serialsObjects",
+					"jobsA",
+					"workersId",
+					"jobsId",
+					"dataGroupedByWorker",
+					"	",
+					".id",
+					"id",
+					"makeRequest",
+					"makeRequestAndValidate",
+					"makeRequest",
+					"Job",
+					"Jobs",
+					"Groupt",
+					"    ,CONSTRAINT id PRIMARY KEY(id)",
+					"	",
+					"savedDocs",
+					"docs",
+					"name",
+					"	",
+					"myapp",
+					"models.",
+					"initializatorName",
+					"applicationConfig",
+					"initializatorName",
+					"System",
+					"",
+					"servicePath",
+					"ModelManager",
+					"__models.getModel(\"Domain\")",
+					"databaseConfigurations",
+					"databaseVersion",
+					"domainVersion",
+					"requiredOptions",
+					"applicationDatabaseConfigPath",
+					"applicationServicesPath",
+					"applicationMigrationsPath",
+					"applicationModelsPath",
+					"odelsPath",
+					"applicationMigrationPath",
+					"getApplicationVersion()",
+					"servicesRootPath",
+					": function",
+					",",
+					"_environment",
+					"dv",
+					"av",
+					"__ended",
+					": ",
+					",",
+					"applicationRootPath",
+					"applicationManagerRootPath",
+					"applicationManagerDatabaseName",
+					"applicationManager",
+					"this.__applicationManager",
+					": function",
+					",",
+					"__folderWrapper",
+					"__folderWrappers",
+					"__foldersWrappers",
+					"__FoldersWrappers",
+					"fileWrappers",
+					"__fileWrappers",
+					"__relativePath",
+					"done",
+					"getArgs",
+					" ### ",
+					"correctJobs",
+					"",
+					"productIdFilter",
+					"getCorrectionPreviewByProductId",
+					"stepName",
+					"worker",
+					"worker\n, function(expect){\n                expect(",
+					"ass\n, function(expect){\n                expect(",
+					"__replaceXInArray\n, function(expect){\n                expect(",
+					"_runNextStep\n, function(expect){\n                expect(",
+					", function(expect){\n, function(expect){\n                expect(",
+					", function(expect){\n                expect(",
+					"test.add(",
+					", function(expect){\n                expect(",
+					"test.add(",
+					":",
+					",",
+					"",
+					"second",
+					"prepareInsertJobArgs",
+					": function",
+					",",
+					": function",
+					",",
+					": function",
+					",",
+					": function",
+					",",
+					":",
+					"\"",
+					"assignJob"
 				],
 				"reverse": false,
 				"show_context": true,
@@ -1568,114 +3058,523 @@
 			"groups":
 			[
 				{
+<<<<<<< HEAD
 					"selected": 0,
+=======
+					"selected": 6,
+>>>>>>> origin/master
 					"sheets":
 					[
 						{
 							"buffer": 0,
+<<<<<<< HEAD
 							"file": "node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v03/model/GameM.js",
 							"settings":
 							{
 								"buffer_size": 10815,
+=======
+							"file": "node_modules/production/models/nosql/Job/end.js",
+							"settings":
+							{
+								"buffer_size": 2816,
+>>>>>>> origin/master
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
+<<<<<<< HEAD
 										10815,
 										10815
+=======
+										2557,
+										2560
+>>>>>>> origin/master
 									]
 								],
 								"settings":
 								{
-									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110.0
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"predef":
+										[
+											"debugger2"
+										],
+										"strict": false
+									},
+									"live_git_annotations": true,
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": false,
+									"sublimelinter_delay": 2.0,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": false,
+									"sublimelinter_mark_style": "outline",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
 								},
 								"translation.x": 0.0,
+<<<<<<< HEAD
 								"translation.y": 4426.0,
+=======
+								"translation.y": 848.0,
+>>>>>>> origin/master
 								"zoom_level": 1.0
 							},
 							"type": "text"
 						},
 						{
 							"buffer": 1,
+<<<<<<< HEAD
 							"file": "node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v03/model/entities/UserInterfaceM.js",
 							"settings":
 							{
 								"buffer_size": 3121,
+=======
+							"file": "node_modules/production/models/nosql/Product/addUncorrected.js",
+							"settings":
+							{
+								"buffer_size": 1305,
+>>>>>>> origin/master
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
+<<<<<<< HEAD
 										1436,
 										1436
+=======
+										836,
+										855
+>>>>>>> origin/master
 									]
 								],
 								"settings":
 								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110.0
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"predef":
+										[
+											"debugger2"
+										],
+										"strict": false
+									},
+									"live_git_annotations": true,
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": false,
+									"sublimelinter_delay": 2.0,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": false,
+									"sublimelinter_mark_style": "outline",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
 									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
+									"translate_tabs_to_spaces": false
 								},
 								"translation.x": 0.0,
+<<<<<<< HEAD
 								"translation.y": 280.0,
+=======
+								"translation.y": 450.0,
+>>>>>>> origin/master
 								"zoom_level": 1.0
 							},
 							"type": "text"
 						},
 						{
 							"buffer": 2,
+<<<<<<< HEAD
 							"file": "node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v03/view/entities/UserInterfaceV.js",
 							"settings":
 							{
 								"buffer_size": 2909,
+=======
+							"file": "node_modules/production/models/nosql/Job.js",
+							"settings":
+							{
+								"buffer_size": 5014,
+>>>>>>> origin/master
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
+<<<<<<< HEAD
 										2279,
 										2279
+=======
+										475,
+										475
+>>>>>>> origin/master
 									]
 								],
 								"settings":
 								{
-									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110.0
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"predef":
+										[
+											"debugger2"
+										],
+										"strict": false
+									},
+									"live_git_annotations": true,
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": false,
+									"sublimelinter_delay": 2.0,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": false,
+									"sublimelinter_mark_style": "outline",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
 								},
 								"translation.x": 0.0,
+<<<<<<< HEAD
 								"translation.y": 420.0,
+=======
+								"translation.y": 225.0,
+>>>>>>> origin/master
 								"zoom_level": 1.0
 							},
 							"type": "text"
 						},
 						{
 							"buffer": 3,
+<<<<<<< HEAD
 							"file": "node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v03/model/entities/TileM.js",
 							"settings":
 							{
 								"buffer_size": 2037,
+=======
+							"file": "node_modules/production/models/nosql/Product.js",
+							"settings":
+							{
+								"buffer_size": 1595,
+>>>>>>> origin/master
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
+<<<<<<< HEAD
 										415,
 										415
+=======
+										615,
+										635
+>>>>>>> origin/master
 									]
 								],
 								"settings":
 								{
-									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110.0
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"predef":
+										[
+											"debugger2"
+										],
+										"strict": false
+									},
+									"live_git_annotations": true,
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": false,
+									"sublimelinter_delay": 2.0,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": false,
+									"sublimelinter_mark_style": "outline",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
@@ -1685,53 +3584,253 @@
 						},
 						{
 							"buffer": 4,
+<<<<<<< HEAD
 							"file": "node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v03/model/entities/EnvironmentM.js",
 							"settings":
 							{
 								"buffer_size": 2794,
+=======
+							"file": "node_modules/production/tests/tottys/scenarios/jobs/end.js",
+							"settings":
+							{
+								"buffer_size": 6401,
+>>>>>>> origin/master
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
+<<<<<<< HEAD
 										1092,
 										1096
+=======
+										3333,
+										3333
+>>>>>>> origin/master
 									]
 								],
 								"settings":
 								{
-									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110.0
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"predef":
+										[
+											"debugger2"
+										],
+										"strict": false
+									},
+									"live_git_annotations": true,
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": false,
+									"sublimelinter_delay": 2.0,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": false,
+									"sublimelinter_mark_style": "outline",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
 								},
 								"translation.x": 0.0,
+<<<<<<< HEAD
 								"translation.y": 140.0,
+=======
+								"translation.y": 900.0,
+>>>>>>> origin/master
 								"zoom_level": 1.0
 							},
 							"type": "text"
 						},
 						{
 							"buffer": 5,
+<<<<<<< HEAD
 							"file": "node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v03/view/entities/EnvironmentV.js",
 							"settings":
 							{
 								"buffer_size": 3254,
+=======
+							"file": "node_modules/production/_indexWithoutForever2.js",
+							"settings":
+							{
+								"buffer_size": 1989,
+>>>>>>> origin/master
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
+<<<<<<< HEAD
 										755,
 										755
+=======
+										508,
+										508
+>>>>>>> origin/master
 									]
 								],
 								"settings":
 								{
-									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110.0
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"predef":
+										[
+											"debugger2"
+										],
+										"strict": false
+									},
+									"live_git_annotations": true,
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": false,
+									"sublimelinter_delay": 2.0,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": false,
+									"sublimelinter_mark_style": "outline",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
 								},
 								"translation.x": 0.0,
 								"translation.y": 560.0,
@@ -1741,56 +3840,262 @@
 						},
 						{
 							"buffer": 6,
+<<<<<<< HEAD
 							"file": "node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v03/server/Server.js",
 							"settings":
 							{
 								"buffer_size": 1763,
+=======
+							"file": "node_modules/production/tests/tottys/scenarios/jobs/start.js",
+							"settings":
+							{
+								"buffer_size": 5541,
+>>>>>>> origin/master
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
+<<<<<<< HEAD
 										642,
 										642
+=======
+										2040,
+										2040
+>>>>>>> origin/master
 									]
 								],
 								"settings":
 								{
-									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110.0
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"predef":
+										[
+											"debugger2"
+										],
+										"strict": false
+									},
+									"live_git_annotations": true,
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": false,
+									"sublimelinter_delay": 2.0,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": false,
+									"sublimelinter_mark_style": "outline",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
 								},
 								"translation.x": 0.0,
+<<<<<<< HEAD
 								"translation.y": 0.0,
+=======
+								"translation.y": 770.0,
+>>>>>>> origin/master
 								"zoom_level": 1.0
 							},
 							"type": "text"
 						},
 						{
 							"buffer": 7,
+<<<<<<< HEAD
 							"file": "node_modules/app/client/WS/source/class/ws/_prototypes/gameplay/v03/view/entities/ResourceInstanceV.js",
 							"settings":
 							{
 								"buffer_size": 1345,
+=======
+							"file": "node_modules/production/tottysTests/TestContext.js",
+							"settings":
+							{
+								"buffer_size": 2128,
+>>>>>>> origin/master
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
+<<<<<<< HEAD
 										1135,
 										1135
+=======
+										1447,
+										1447
+>>>>>>> origin/master
 									]
 								],
 								"settings":
 								{
+<<<<<<< HEAD
 									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
 									"tab_size": 4,
 									"translate_tabs_to_spaces": true
+=======
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110.0
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"predef":
+										[
+											"debugger2"
+										],
+										"strict": false
+									},
+									"live_git_annotations": true,
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": false,
+									"sublimelinter_delay": 2.0,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": false,
+									"sublimelinter_mark_style": "outline",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+>>>>>>> origin/master
 								},
 								"translation.x": 0.0,
-								"translation.y": 0.0,
+								"translation.y": 478.0,
 								"zoom_level": 1.0
 							},
 							"type": "text"
@@ -1800,7 +4105,7 @@
 			],
 			"incremental_find":
 			{
-				"height": 0.0
+				"height": 32.0
 			},
 			"input":
 			{
@@ -1829,7 +4134,19 @@
 				]
 			},
 			"menu_visible": true,
+<<<<<<< HEAD
 			"position": "0,2,2,-32145,-32000,-1,-1,1244,85,646,1183",
+=======
+			"output.exec":
+			{
+				"height": 284.0
+			},
+			"output.git":
+			{
+				"height": 302.0
+			},
+			"position": "0,2,3,-1,-1,-1,-1,827,268,61,1145",
+>>>>>>> origin/master
 			"replace":
 			{
 				"height": 62.0
@@ -1840,6 +4157,78 @@
 				"height": 0.0,
 				"selected_items":
 				[
+					[
+						"node_modules/production/tottystests/testcontext.js",
+						"production01_server/node_modules/production/tottysTests/TestContext.js"
+					],
+					[
+						"s/tottys/scenarios/jobs/start.js",
+						"production/tests/tottys/scenarios/jobs/start.js"
+					],
+					[
+						"tottys/scenarios/jobs/start.js",
+						"production/tests/tottys/scenarios/jobs/start.js"
+					],
+					[
+						"d",
+						"production01_server/debug.sublime-build"
+					],
+					[
+						"scenarios/cor",
+						"production/tests/tottys/scenarios/corrections/GetPreview.js"
+					],
+					[
+						"scenario/date",
+						"production/tests/tottys/scenarios/products/GetWithQuantityUncorrected.js"
+					],
+					[
+						"tests/correcti",
+						"production/tests/tottys/scenarios/corrections/Insert.js"
+					],
+					[
+						"test/job/end",
+						"production/tests/tottys/scenarios/jobs/end.js"
+					],
+					[
+						"nosqlprodu",
+						"production/models/nosql/Product.js"
+					],
+					[
+						"nosqlprod",
+						"production/models/nosql/Product.js"
+					],
+					[
+						"nosqljob",
+						"production/models/nosql/Job.js"
+					],
+					[
+						"adduncorrected",
+						"production/models/nosql/Product/addUncorrected.js"
+					],
+					[
+						"run/_",
+						"production01_server/_run/_sublimeTextCmds.txt"
+					],
+					[
+						"jobend",
+						"production/models/nosql/Job/end.js"
+					],
+					[
+						"run/_s",
+						"production01_server/_run/_sublimeTextCmds.txt"
+					],
+					[
+						"nodedebug",
+						"SublimeText2/Data/Packages/User/Nodejs Debug.sublime-build"
+					],
+					[
+						"product.js",
+						"production/models/nosql/Product.js"
+					],
+					[
+						"migration",
+						"production/migrations/v01_00_001/Migration.js"
+					],
 					[
 						"inserjob",
 						"production/client/production/source/class/production/controllers/insertJob/InsertJob.js"
@@ -1867,19 +4256,22 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 356.0,
+			"side_bar_width": 317.0,
 			"status_bar_visible": true,
-			"window_id": 10,
-			"workspace_name": "/D/Totty/web/WaterShares/Project.sublime-project"
+			"window_id": 20,
+			"workspace_name": "/D/web/production01_server/Project Work.sublime-project"
 		}
 	],
 	"workspaces":
 	{
 		"recent_workspaces":
 		[
+			"/D/web/production01_server/Project Work.sublime-project",
+			"/D/web/production01_server/Project.sublime-project",
+			"/C/web/production01_server/Project Work.sublime-project",
+			"/C/web/production01_server/Project.sublime-project",
 			"/D/Totty/web/WaterShares/Project.sublime-project",
-			"/D/Totty/web/production01_server/Project.sublime-project",
-			"/C/web/production01_server/Project.sublime-project"
+			"/D/Totty/web/production01_server/Project.sublime-project"
 		]
 	}
 }
